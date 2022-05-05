@@ -15,7 +15,7 @@ Interest, data abundancy, applicable to day to day life
  - 100+ crypto historical data (open, close, volume)
  - Sentiment analysis ([https://twitter.com/brieflycrypto/status/1345039738978394118?s=21&t=XfPTv2_rtnpPtXAq6bnw5A](https://twitter.com/brieflycrypto/status/1345039738978394118?s=21&t=XfPTv2_rtnpPtXAq6bnw5A))
  - Hash rates, policies, government articles, definitions of stable vs. altcoins, bank/gov't adoptions 
-
+https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf (covid data)
 
 **What we're looking to solve for**
 
