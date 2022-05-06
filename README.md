@@ -1,11 +1,14 @@
 # Covid
-Pulling from multiple sources of data, this project aims to answer the question of:
+**Pulling from multiple sources of data, this project aims to answer the question of:
+
 Do individuals with comorbidities die more from covid than those with no known health issues?
 
 **Selected Topic**
+
 Covid
 
 **Why we chose this topic**
+
 By using machine learning, we can identify which factors increase the likelihood of a 'covid' death and predict which target groups will have the highest death rate. 
 After identifying the at-risk target groups, we can identify best practices and precautions for their safety.
 
