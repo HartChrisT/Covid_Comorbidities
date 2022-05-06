@@ -1,4 +1,4 @@
-# Crypto_KPI
+# Covid-19 Comorbidities Prediction
 
 ## MockDatabase (MSA)
 ### DataSet 
