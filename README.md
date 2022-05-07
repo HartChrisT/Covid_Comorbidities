@@ -15,8 +15,7 @@ After identifying the at-risk target groups, we can identify best practices and 
 
 **Data source details**
 
- - Hash rates, policies, government articles, definitions of stable vs. altcoins, bank/gov't adoptions 
-https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf (covid data)
+ - https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf (covid data)
  - https://www.cdc.gov/nchs/covid19/mortality-overview.htm
  - https://data.cdc.gov/NCHS/Conditions-Contributing-to-COVID-19-Deaths-by-Stat/hk9y-quqm
 
