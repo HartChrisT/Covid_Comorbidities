@@ -34,4 +34,6 @@ After identifying the at-risk target groups, we can identify best practices and 
 	 - Circle: Aung, Chris
  - A slack channel has been established to share links and other ideas that come up between working sessions
 
+**Database Construction**
 
+ Our team will use the pandas library to clean and transform our data and export that data into csv files. We will make sure all of the data types are accurate, drop null values, etc. Then we will create a schema/flow chart with the appropriate primary and secondary keys as well as their respective data types, and any connections that can be made between csv files will become apparent. We will then import the clean csv files into SQL for easy querries and analysis. Aditional tables may be created with the SQL querry tool depending on what needs to be analyzed.
