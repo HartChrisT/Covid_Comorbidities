@@ -34,7 +34,7 @@ After identifying the at-risk target groups, we can identify best practices and 
 	 - Circle: Aung, Chris
  - A slack channel has been established to share links and other ideas that come up between working sessions
 
-#Machine Learning
+# Machine Learning
 Which model did you choose and why?
 How are you training your model?
 What is the model's accuracy?
