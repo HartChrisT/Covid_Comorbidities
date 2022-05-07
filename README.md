@@ -1,29 +1,28 @@
-# Crypto_KPI
-Pulling from multiple sources of data, this project aims to answer the question of...
+# Covid
+**Pulling from multiple sources of data, this project aims to answer the question of:
 
+Do individuals with comorbidities die more from covid than those with no known health issues?
 
 **Selected Topic**
 
-Cryptocurrencies
+Covid
 
 **Why we chose this topic**
 
-Interest, data abundancy, applicable to day to day life
+By using machine learning, we can identify which factors increase the likelihood of a 'covid' death and predict which target groups will have the highest death rate. 
+After identifying the at-risk target groups, we can identify best practices and precautions for their safety.
+
 
 **Data source details**
 
- - 100+ crypto historical data (open, close, volume)
- - Sentiment analysis ([https://twitter.com/brieflycrypto/status/1345039738978394118?s=21&t=XfPTv2_rtnpPtXAq6bnw5A](https://twitter.com/brieflycrypto/status/1345039738978394118?s=21&t=XfPTv2_rtnpPtXAq6bnw5A))
  - Hash rates, policies, government articles, definitions of stable vs. altcoins, bank/gov't adoptions 
-
+https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf (covid data)
+ - https://www.cdc.gov/nchs/covid19/mortality-overview.htm
+ - https://data.cdc.gov/NCHS/Conditions-Contributing-to-COVID-19-Deaths-by-Stat/hk9y-quqm
 
 **What we're looking to solve for**
 
- - Is crypto good to invest in? *expand on this, get more specific with how we would deem it good/bad etc. time frame*
- - Can we predict when a cryptocurrency may crash? *Can we look at articles about a cryptocurrency to predict an 5%* change in prices?*
- - Does an article's sentiment analysis on a given cryptocurrency directly affect trading volumes?
- - Are more eco-conscious coins going to outpace conventional coins
- - Stablecoins
+ - Do individuals with comorbidities die more from covid than those with no known health issues?
 
 **Communication protocols**
 
