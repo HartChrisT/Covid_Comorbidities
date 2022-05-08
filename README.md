@@ -1,26 +1,38 @@
 # Covid_Comorbidities
-**Pulling from multiple sources of data, this project aims to answer the question of:
 
+**Pulling from multiple sources of data, this project aims to answer the question of:
 Do individuals with comorbidities die more from covid than those with no known health issues?
 
+## Hypothesis
 Main Hypothesis: Individuals with comorbidities die more from covid than those with no known health issues
 
 Alternative Hypothesis: Individuals with comorbidities do not die more from covid than those with no known health issues
 
 Null hypothesis: There isn't enough evidence to support individuals with comorbidities die more or less than those with no known health issues
 
-**Technologies being used: SK Learn (Machine Learning Library), Pandas J'upyter Notebook' - (Machine Learning/Database), Tableau, (Visualization), SQL (Database), Postgres (Database)
+## Technologies
+A brief description of the technologies we're using: 
+- SK Learn (Machine Learning Library)
+- Pandas J'upyter Notebook' - (Machine Learning/Database)
+- SQL (Database)
+- Postgres (Database)
+- Tableau, (Visualization)
 
 TO-DO List:
 - Update ReadMe using Segment 1 Rubric ?'s
-  - Break Into 5 segments: Presentation, Github, Machine Learning Model, Database, Dashboard
+  - Break Into 5 segments: 
+  - Presentation: Topic: Covid, Reasons why we selected this topic: Real-life application and relevance for 2+ years, Description of the data sources:?????, questions     we hope to answer: Do individuals with comorbidities die more from covid than those with no known health issues? If yes, which comorbidities are highest risk.
+  - Github: 4+ commits for each member, each member has their own branch
+  - Machine Learning Model: Model takes in data from the provisional database & outputs labels for input data
+  - Database: Sample that mimics the expected final database structure of schema, Draft machine learnng module is connected to the provisional database.
+  - Dashboard: N/A for S1
 
 Before meeting with your instructor, your team will need to complete the following:
 - Decide on a topic, source data, and perform exploratory data analysis.
-- Create a repository and establish individual branches for each team member.
+- Create a repository and establish individual branches for each team member. (Done)
 - Create a mockup of a machine learning model.
 - Create a mockup of a database.
-- Decide which technologies will be used.
+- Decide which technologies will be used. (Done)
 
 Machine Learning Model:
 Team members will be expected to present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
