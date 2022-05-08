@@ -1,6 +1,6 @@
 # Covid_Comorbidities
 
-**Pulling from multiple sources of data, this project aims to answer the question of:
+**Pulling from multiple sources of data, this project aims to answer the question of:**
 Do individuals with comorbidities die more from covid than those with no known health issues?
 
 ## Hypothesis
@@ -16,36 +16,7 @@ A brief description of the technologies we're using:
 - Pandas & J'upyter Notebook' - (Machine Learning/Database)
 - SQL (Database)
 - Postgres (Database)
-- Tableau, (Visualization)
-
-TO-DO List:
-- Update ReadMe using Segment 1 Rubric ?'s
-  - Break Into 5 segments: 
-  - Presentation: Topic: Covid, Reasons why we selected this topic: Real-life application and relevance for 2+ years, Description of the data sources:?????, questions     we hope to answer: Do individuals with comorbidities die more from covid than those with no known health issues? If yes, which comorbidities are highest risk.
-  - Github: 4+ commits for each member, each member has their own branch
-  - Machine Learning Model: Model takes in data from the provisional database & outputs labels for input data
-  - Database: Sample that mimics the expected final database structure of schema, Draft machine learnng module is connected to the provisional database.
-  - Dashboard: N/A for S1
-
-Before meeting with your instructor, your team will need to complete the following:
-- Decide on a topic, source data, and perform exploratory data analysis.
-- Create a repository and establish individual branches for each team member. (Done)
-- Create a mockup of a machine learning model.
-- Create a mockup of a database.
-- Decide which technologies will be used. (Done)
-
-Machine Learning Model:
-Team members will be expected to present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
-- Takes in data from the provisional database
-- Outputs label for input data
-
-Database Integration
-Team members will be expected to present a provisional database that stands in for the final database and accomplishes the following:
-- Sample data that mimics the expected final database structure or schema
-- Draft machine learning model is connected to the provisional database
-
-Dashboard:
-N/A
+- Tableau (Visualization)
 
 X Role:
 -  Which tools are the best fit for your project?
@@ -65,4 +36,4 @@ Mongo is the database we intend to use, and we will integrate Flask to display t
 SKLearn, Pandas & J'upyter Notebook are the ML technologies we'll be using to create a classifier. Our training and testing setup is ___. 
 
 ## Dashboard
-Tableau will be the primary technology we intend to use to create an interactive and visually appealing dashboard.
+Tableau will be the primary technology used to create an interactive, visually appealing dashboard. The two main reasons Tabluea will be our primary Dashboard technology are Tableau has no row limit & Tableau allows us to avoid static dashboards. No row limit allows us to upload and analyze the millions of rows of data we've gathered, without overly-long processing times. Typically, dashboards are shared through PDF's, making them static from the moment they're sent; however, Tableau allows us to share our dashboards and will automatically update them with any changes. 
