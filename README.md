@@ -40,7 +40,9 @@ After identifying the at-risk target groups, we can identify best practices and 
  Our team will use the pandas library to clean and transform our data and export that data into csv files. We will make sure all of the data types are accurate, drop null values, etc. Then we will create a schema/flow chart with the appropriate primary and secondary keys as well as their respective data types, and any connections that can be made between csv files will become apparent. We will then import the clean csv files into SQL for easy querries and analysis. Aditional tables may be created with the SQL querry tool depending on what needs to be analyzed.
 
 
-** Machine Learning **
+**Machine Learning**
+
+
 To begin our machine learning investigation, and because the data is already labeled, we will use a supervised machine model to classify the results within our original dataset into two groups; deaths with comorbidities and deaths without comorbidities. 
 
 There are many rich data sources that we have identified to support our research in this topic. For that reason, we will most likely only include the most complete data, thus eliminating any lines with null values to ensure the highest quality result.
