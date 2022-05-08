@@ -13,6 +13,7 @@ By using machine learning, we can identify which factors increase the likelihood
 After identifying the at-risk target groups, we can identify best practices and precautions for their safety.
 
 **Hypothesis**
+
 Main Hypothesis: Individuals with comorbidities die more from covid than those with no known health issues
 
 Alternative Hypothesis: Individuals with comorbidities do not die more from covid than those with no known health issues
