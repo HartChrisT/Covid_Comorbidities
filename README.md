@@ -65,4 +65,4 @@ Mongo is the database we intend to use, and we will integrate Flask to display t
 SKLearn, Pandas & J'upyter Notebook are the ML technologies we'll be using to create a classifier. Our training and testing setup is ___. 
 
 ## Dashboard
-In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on ___.
+Tableau will be the primary technology used for our dashboard, this way we can create an interractive and visually appealing presentation. 
