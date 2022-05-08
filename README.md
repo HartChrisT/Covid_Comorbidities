@@ -1,5 +1,5 @@
 # Covid
-**Pulling from multiple sources of data, this project aims to answer the question of:
+**Pulling from multiple sources of data, this project aims to answer the question of:**
 
 Do individuals with comorbidities die more from covid than those with no known health issues?
 
