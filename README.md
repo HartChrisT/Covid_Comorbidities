@@ -3,12 +3,14 @@
 **Pulling from multiple sources of data, this project aims to answer the question of:**
 Do individuals with comorbidities die more from covid than those with no known health issues?
 
+
 ## Hypothesis
 Main Hypothesis: Individuals with comorbidities die more from covid than those with no known health issues
 
 Alternative Hypothesis: Individuals with comorbidities do not die more from covid than those with no known health issues
 
 Null hypothesis: There isn't enough evidence to support individuals with comorbidities die more or less than those with no known health issues
+
 
 ## Technologies
 A brief description of the technologies we're using: 
@@ -18,14 +20,7 @@ A brief description of the technologies we're using:
 - Postgres (Database)
 - Tableau (Visualization)
 
-X Role:
--  Which tools are the best fit for your project?
--  What will be used for each section? For example, data cleaning and data storage will be completed using two different tools.
--  How will the dashboard be built?
--  By the live session, submit a list of technologies you and your team intend to use for the project. Make sure to explain which technology is being used where (e.g., Pandas for data cleaning, Postgres for storage, etc.).
--  When you're comfortably working from your branch, create a document named "technology.md" and push it up to your branch. Submit a link to your branch to your instructor during the virtual class.
--  EX: 
--  # Technologies Used
+
 ## Data Cleaning and Analysis
 Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
 
