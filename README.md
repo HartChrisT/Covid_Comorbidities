@@ -5,11 +5,11 @@ Do individuals with comorbidities die more from covid than those with no known h
 
 
 ## Hypothesis
-Main Hypothesis: Individuals with comorbidities die more from covid than those with no known health issues
+Main Hypothesis: Individuals with comorbidities die more from covid than those with no known health issues.
 
-Alternative Hypothesis: Individuals with comorbidities do not die more from covid than those with no known health issues
+Alternative Hypothesis: Individuals with comorbidities die less from covid than those with no known health issues.
 
-Null hypothesis: There isn't enough evidence to support individuals with comorbidities die more or less than those with no known health issues
+Null hypothesis: There isn't enough evidence to support individuals with comorbidities die more or less than those with no known health issues.
 
 
 ## Technologies
@@ -31,4 +31,4 @@ Mongo is the database we intend to use, and we will integrate Flask to display t
 SKLearn, Pandas & J'upyter Notebook are the ML technologies we'll be using to create a classifier. Our training and testing setup is ___. 
 
 ### Dashboard
-Tableau will be the primary technology used to create an interactive, visually appealing dashboard. The two main reasons Tabluea will be our primary Dashboard technology are Tableau has no row limit & Tableau allows us to avoid static dashboards. No row limit allows us to upload and analyze the millions of rows of data we've gathered, without overly-long processing times. Typically, dashboards are shared through PDF's, making them static from the moment they're sent; however, Tableau allows us to share our dashboards and will automatically update them with any changes. 
+Tableau will be the primary technology used to create an interactive, visually appealing dashboard. The two main reasons Tableau will be our primary Dashboard technology are Tableau has no row limit & Tableau allows us to avoid static dashboards. No row limit allows us to upload and analyze the millions of rows of data we've gathered, without overly-long processing times. Typically, dashboards are shared through PDF's, making them static from the moment they're sent; however, Tableau allows us to share our dashboards and will automatically update them with any changes. 
