@@ -13,7 +13,7 @@ Null hypothesis: There isn't enough evidence to support individuals with comorbi
 ## Technologies
 A brief description of the technologies we're using: 
 - SK Learn (Machine Learning Library)
-- Pandas J'upyter Notebook' - (Machine Learning/Database)
+- Pandas & J'upyter Notebook' - (Machine Learning/Database)
 - SQL (Database)
 - Postgres (Database)
 - Tableau, (Visualization)
@@ -62,7 +62,7 @@ Pandas will be used to clean the data and perform an exploratory analysis. Furth
 Mongo is the database we intend to use, and we will integrate Flask to display the data.
 
 ## Machine Learning
-SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup is ___. Extra ML verbiage here.
+SKLearn, Pandas & J'upyter Notebook are the ML technologies we'll be using to create a classifier. Our training and testing setup is ___. 
 
 ## Dashboard
 In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on ___.
