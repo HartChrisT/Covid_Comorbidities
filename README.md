@@ -21,14 +21,14 @@ A brief description of the technologies we're using:
 - Tableau (Visualization)
 
 
-## Data Cleaning and Analysis
+### Data Cleaning and Analysis
 Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
 
-## Database Storage
+### Database Storage
 Mongo is the database we intend to use, and we will integrate Flask to display the data.
 
-## Machine Learning
+### Machine Learning
 SKLearn, Pandas & J'upyter Notebook are the ML technologies we'll be using to create a classifier. Our training and testing setup is ___. 
 
-## Dashboard
+### Dashboard
 Tableau will be the primary technology used to create an interactive, visually appealing dashboard. The two main reasons Tabluea will be our primary Dashboard technology are Tableau has no row limit & Tableau allows us to avoid static dashboards. No row limit allows us to upload and analyze the millions of rows of data we've gathered, without overly-long processing times. Typically, dashboards are shared through PDF's, making them static from the moment they're sent; however, Tableau allows us to share our dashboards and will automatically update them with any changes. 
