@@ -41,6 +41,9 @@ Null hypothesis: There isn't enough evidence to support individuals with comorbi
 	 - Circle: Aung, Chris
  - A slack channel has been established for daily communication on all project aspects.
 
+**GitHub Management**
+
+
 **Database Construction**
 
  Our team will use the pandas library to clean and transform our data and export that data into csv files. We will make sure all of the data types are accurate, drop null values, etc. Then we will create a schema/flow chart with the appropriate primary and secondary keys as well as their respective data types, and any connections that can be made between csv files will become apparent. We will then import the clean csv files into SQL for easy querries and analysis. Aditional tables may be created with the SQL querry tool depending on what needs to be analyzed.
