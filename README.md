@@ -45,6 +45,11 @@ Null hypothesis: There isn't enough evidence to support individuals with comorbi
 
  Our team will use the pandas library to clean and transform our data and export that data into csv files. We will make sure all of the data types are accurate, drop null values, etc. Then we will create a schema/flow chart with the appropriate primary and secondary keys as well as their respective data types, and any connections that can be made between csv files will become apparent. We will then import the clean csv files into SQL for easy querries and analysis. Aditional tables may be created with the SQL querry tool depending on what needs to be analyzed.
 
+**Covid-19 Comorbidities Prediction**
+
+**DataSet** 
+
+Data used in this project are acquired from Centers for Disease Control and Prevention(CDC) and the dataset chosen for the analysis are from csv documents found on the CDC website, "Provisonal Covid-19 Deaths by Sex and Age" and "United States COVID-19 Cases and Deaths by State over Time". The dataset mentioned can be found in the following link: https://data.cdc.gov/browse?&page=1
 
 **Machine Learning**
 
