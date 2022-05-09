@@ -42,7 +42,7 @@ Null hypothesis: There isn't enough evidence to support individuals with comorbi
  - A slack channel has been established for daily communication on all project aspects.
 
 **GitHub Management**
-
+The GitHub repository shall be maintained by by one team member. This member has the responsibilty to monitor all commits to from local branches into the main branch. If conflicts arise, this team member will edit the docuents and resolve them.
 
 **Database Construction**
 
