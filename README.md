@@ -15,11 +15,8 @@ After identifying the at-risk target groups, we can identify best practices and 
 
 **Hypothesis**
 
-Main Hypothesis: Individuals with comorbidities die more from covid than those with no known health issues
+Hypothesis: Individuals with comorbidities die more from covid than those with no known health issues
 
-Alternative Hypothesis: Individuals with comorbidities do not die more from covid than those with no known health issues
-
-Null hypothesis: There isn't enough evidence to support individuals with comorbidities die more or less than those with no known health issues
 
 **Data source details**
 
