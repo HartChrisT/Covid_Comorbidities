@@ -5,7 +5,7 @@ Do individuals with comorbidities die more from covid than those with no known h
 
 
 ## Hypothesis
-Main Hypothesis: Individuals with comorbidities die more from covid than those with no known health issues.
+Hypothesis: Individuals with comorbidities die more from covid than those with no known health issues.
 
 
 ## Technologies
