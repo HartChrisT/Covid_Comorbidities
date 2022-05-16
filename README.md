@@ -9,7 +9,6 @@ Main Hypothesis: Individuals with comorbidities die more from covid than those w
 
 Alternative Hypothesis: Individuals with comorbidities die less from covid than those with no known health issues.
 
-Null hypothesis: There isn't enough evidence to support individuals with comorbidities die more or less than those with no known health issues.
 
 
 ## Technologies
