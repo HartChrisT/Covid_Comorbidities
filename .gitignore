@@ -1,3 +1,8 @@
+# Ignore Data Sets
+COVID-19_Case_Surveillance_Public_Use_Data.csv
+Provisional_COVID-19_Deaths_by_Sex_and_Age.csv
+United_States_COVID-19_Cases_and_Deaths_by_State_over_Time.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
