@@ -1,0 +1,1243 @@
+Date,Group,State,Condition Group,Condition,ICD10_codes,Age Group,COVID-19 Deaths,Number of Mentions
+01/01/2020-04/30/2022,By Total,United States,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,484631.0,497341.0
+01/01/2020-04/30/2022,By Total,United States,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,87780.0,91536.0
+01/01/2020-04/30/2022,By Total,United States,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,101969.0,101969.0
+01/01/2020-04/30/2022,By Total,United States,Respiratory diseases,Respiratory failure,J96,All Ages,389094.0,399672.0
+01/01/2020-04/30/2022,By Total,United States,Respiratory diseases,Respiratory arrest,R09.2,All Ages,20266.0,20266.0
+01/01/2020-04/30/2022,By Total,United States,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,48720.0,51511.0
+01/01/2020-04/30/2022,By Total,United States,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,181535.0,183563.0
+01/01/2020-04/30/2022,By Total,United States,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,104812.0,112035.0
+01/01/2020-04/30/2022,By Total,United States,Circulatory diseases,Cardiac arrest,I46,All Ages,117824.0,117853.0
+01/01/2020-04/30/2022,By Total,United States,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,75418.0,77163.0
+01/01/2020-04/30/2022,By Total,United States,Circulatory diseases,Heart failure,I50,All Ages,75635.0,75704.0
+01/01/2020-04/30/2022,By Total,United States,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,48323.0,49830.0
+01/01/2020-04/30/2022,By Total,United States,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,72761.0,79961.0
+01/01/2020-04/30/2022,By Total,United States,Sepsis,Sepsis,A40-A41,All Ages,99215.0,99253.0
+01/01/2020-04/30/2022,By Total,United States,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,52429.0,60065.0
+01/01/2020-04/30/2022,By Total,United States,Diabetes,Diabetes,E10-E14,All Ages,149214.0,150204.0
+01/01/2020-04/30/2022,By Total,United States,Obesity,Obesity,E65-E68,All Ages,49429.0,49552.0
+01/01/2020-04/30/2022,By Total,United States,Alzheimer disease,Alzheimer disease,G30,All Ages,28369.0,28433.0
+01/01/2020-04/30/2022,By Total,United States,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,76369.0,76513.0
+01/01/2020-04/30/2022,By Total,United States,Renal failure,Renal failure,N17-N19,All Ages,108293.0,113413.0
+01/01/2020-04/30/2022,By Total,United States,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,23866.0,44860.0
+01/01/2020-04/30/2022,By Total,United States,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,403840.0,627970.0
+01/01/2020-04/30/2022,By Total,United States,COVID-19,COVID-19,U071,All Ages,994600.0,994600.0
+01/01/2020-04/30/2022,By Total,Alabama,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,6439.0,6568.0
+01/01/2020-04/30/2022,By Total,Alabama,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,1414.0,1462.0
+01/01/2020-04/30/2022,By Total,Alabama,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,1115.0,1115.0
+01/01/2020-04/30/2022,By Total,Alabama,Respiratory diseases,Respiratory failure,J96,All Ages,7801.0,7934.0
+01/01/2020-04/30/2022,By Total,Alabama,Respiratory diseases,Respiratory arrest,R09.2,All Ages,1708.0,1708.0
+01/01/2020-04/30/2022,By Total,Alabama,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,799.0,829.0
+01/01/2020-04/30/2022,By Total,Alabama,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,1962.0,1992.0
+01/01/2020-04/30/2022,By Total,Alabama,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,1547.0,1660.0
+01/01/2020-04/30/2022,By Total,Alabama,Circulatory diseases,Cardiac arrest,I46,All Ages,3085.0,3086.0
+01/01/2020-04/30/2022,By Total,Alabama,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,1307.0,1335.0
+01/01/2020-04/30/2022,By Total,Alabama,Circulatory diseases,Heart failure,I50,All Ages,1247.0,1249.0
+01/01/2020-04/30/2022,By Total,Alabama,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,832.0,857.0
+01/01/2020-04/30/2022,By Total,Alabama,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,1316.0,1415.0
+01/01/2020-04/30/2022,By Total,Alabama,Sepsis,Sepsis,A40-A41,All Ages,2301.0,2302.0
+01/01/2020-04/30/2022,By Total,Alabama,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,767.0,851.0
+01/01/2020-04/30/2022,By Total,Alabama,Diabetes,Diabetes,E10-E14,All Ages,1998.0,2018.0
+01/01/2020-04/30/2022,By Total,Alabama,Obesity,Obesity,E65-E68,All Ages,569.0,569.0
+01/01/2020-04/30/2022,By Total,Alabama,Alzheimer disease,Alzheimer disease,G30,All Ages,402.0,403.0
+01/01/2020-04/30/2022,By Total,Alabama,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,921.0,923.0
+01/01/2020-04/30/2022,By Total,Alabama,Renal failure,Renal failure,N17-N19,All Ages,2088.0,2153.0
+01/01/2020-04/30/2022,By Total,Alabama,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,292.0,526.0
+01/01/2020-04/30/2022,By Total,Alabama,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,6664.0,9808.0
+01/01/2020-04/30/2022,By Total,Alabama,COVID-19,COVID-19,U071,All Ages,19281.0,19281.0
+01/01/2020-04/30/2022,By Total,Alaska,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,704.0,744.0
+01/01/2020-04/30/2022,By Total,Alaska,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,111.0,114.0
+01/01/2020-04/30/2022,By Total,Alaska,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,137.0,137.0
+01/01/2020-04/30/2022,By Total,Alaska,Respiratory diseases,Respiratory failure,J96,All Ages,411.0,427.0
+01/01/2020-04/30/2022,By Total,Alaska,Respiratory diseases,Respiratory arrest,R09.2,All Ages,13.0,13.0
+01/01/2020-04/30/2022,By Total,Alaska,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,75.0,77.0
+01/01/2020-04/30/2022,By Total,Alaska,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,123.0,125.0
+01/01/2020-04/30/2022,By Total,Alaska,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,95.0,104.0
+01/01/2020-04/30/2022,By Total,Alaska,Circulatory diseases,Cardiac arrest,I46,All Ages,123.0,123.0
+01/01/2020-04/30/2022,By Total,Alaska,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,73.0,77.0
+01/01/2020-04/30/2022,By Total,Alaska,Circulatory diseases,Heart failure,I50,All Ages,92.0,92.0
+01/01/2020-04/30/2022,By Total,Alaska,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,72.0,75.0
+01/01/2020-04/30/2022,By Total,Alaska,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,95.0,102.0
+01/01/2020-04/30/2022,By Total,Alaska,Sepsis,Sepsis,A40-A41,All Ages,73.0,73.0
+01/01/2020-04/30/2022,By Total,Alaska,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,75.0,80.0
+01/01/2020-04/30/2022,By Total,Alaska,Diabetes,Diabetes,E10-E14,All Ages,110.0,110.0
+01/01/2020-04/30/2022,By Total,Alaska,Obesity,Obesity,E65-E68,All Ages,83.0,83.0
+01/01/2020-04/30/2022,By Total,Alaska,Alzheimer disease,Alzheimer disease,G30,All Ages,27.0,27.0
+01/01/2020-04/30/2022,By Total,Alaska,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,56.0,56.0
+01/01/2020-04/30/2022,By Total,Alaska,Renal failure,Renal failure,N17-N19,All Ages,130.0,139.0
+01/01/2020-04/30/2022,By Total,Alaska,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,39.0,97.0
+01/01/2020-04/30/2022,By Total,Alaska,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,578.0,905.0
+01/01/2020-04/30/2022,By Total,Alaska,COVID-19,COVID-19,U071,All Ages,1259.0,1259.0
+01/01/2020-04/30/2022,By Total,Arizona,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,15348.0,15756.0
+01/01/2020-04/30/2022,By Total,Arizona,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,1875.0,1936.0
+01/01/2020-04/30/2022,By Total,Arizona,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,4361.0,4361.0
+01/01/2020-04/30/2022,By Total,Arizona,Respiratory diseases,Respiratory failure,J96,All Ages,12689.0,12952.0
+01/01/2020-04/30/2022,By Total,Arizona,Respiratory diseases,Respiratory arrest,R09.2,All Ages,584.0,584.0
+01/01/2020-04/30/2022,By Total,Arizona,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,1477.0,1539.0
+01/01/2020-04/30/2022,By Total,Arizona,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,3906.0,3960.0
+01/01/2020-04/30/2022,By Total,Arizona,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,2256.0,2410.0
+01/01/2020-04/30/2022,By Total,Arizona,Circulatory diseases,Cardiac arrest,I46,All Ages,3359.0,3359.0
+01/01/2020-04/30/2022,By Total,Arizona,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,1654.0,1699.0
+01/01/2020-04/30/2022,By Total,Arizona,Circulatory diseases,Heart failure,I50,All Ages,1350.0,1351.0
+01/01/2020-04/30/2022,By Total,Arizona,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,948.0,974.0
+01/01/2020-04/30/2022,By Total,Arizona,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,1933.0,2123.0
+01/01/2020-04/30/2022,By Total,Arizona,Sepsis,Sepsis,A40-A41,All Ages,1737.0,1738.0
+01/01/2020-04/30/2022,By Total,Arizona,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,1095.0,1238.0
+01/01/2020-04/30/2022,By Total,Arizona,Diabetes,Diabetes,E10-E14,All Ages,3743.0,3766.0
+01/01/2020-04/30/2022,By Total,Arizona,Obesity,Obesity,E65-E68,All Ages,1631.0,1633.0
+01/01/2020-04/30/2022,By Total,Arizona,Alzheimer disease,Alzheimer disease,G30,All Ages,602.0,602.0
+01/01/2020-04/30/2022,By Total,Arizona,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,1164.0,1164.0
+01/01/2020-04/30/2022,By Total,Arizona,Renal failure,Renal failure,N17-N19,All Ages,2476.0,2564.0
+01/01/2020-04/30/2022,By Total,Arizona,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,669.0,1244.0
+01/01/2020-04/30/2022,By Total,Arizona,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,10354.0,15631.0
+01/01/2020-04/30/2022,By Total,Arizona,COVID-19,COVID-19,U071,All Ages,27240.0,27240.0
+01/01/2020-04/30/2022,By Total,Arkansas,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,5189.0,5291.0
+01/01/2020-04/30/2022,By Total,Arkansas,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,967.0,999.0
+01/01/2020-04/30/2022,By Total,Arkansas,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,1397.0,1397.0
+01/01/2020-04/30/2022,By Total,Arkansas,Respiratory diseases,Respiratory failure,J96,All Ages,5276.0,5395.0
+01/01/2020-04/30/2022,By Total,Arkansas,Respiratory diseases,Respiratory arrest,R09.2,All Ages,278.0,278.0
+01/01/2020-04/30/2022,By Total,Arkansas,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,390.0,412.0
+01/01/2020-04/30/2022,By Total,Arkansas,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,1925.0,1945.0
+01/01/2020-04/30/2022,By Total,Arkansas,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,1191.0,1286.0
+01/01/2020-04/30/2022,By Total,Arkansas,Circulatory diseases,Cardiac arrest,I46,All Ages,1373.0,1373.0
+01/01/2020-04/30/2022,By Total,Arkansas,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,743.0,765.0
+01/01/2020-04/30/2022,By Total,Arkansas,Circulatory diseases,Heart failure,I50,All Ages,863.0,863.0
+01/01/2020-04/30/2022,By Total,Arkansas,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,507.0,518.0
+01/01/2020-04/30/2022,By Total,Arkansas,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,626.0,679.0
+01/01/2020-04/30/2022,By Total,Arkansas,Sepsis,Sepsis,A40-A41,All Ages,1095.0,1097.0
+01/01/2020-04/30/2022,By Total,Arkansas,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,508.0,620.0
+01/01/2020-04/30/2022,By Total,Arkansas,Diabetes,Diabetes,E10-E14,All Ages,1450.0,1457.0
+01/01/2020-04/30/2022,By Total,Arkansas,Obesity,Obesity,E65-E68,All Ages,440.0,443.0
+01/01/2020-04/30/2022,By Total,Arkansas,Alzheimer disease,Alzheimer disease,G30,All Ages,386.0,386.0
+01/01/2020-04/30/2022,By Total,Arkansas,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,780.0,784.0
+01/01/2020-04/30/2022,By Total,Arkansas,Renal failure,Renal failure,N17-N19,All Ages,1125.0,1169.0
+01/01/2020-04/30/2022,By Total,Arkansas,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,214.0,390.0
+01/01/2020-04/30/2022,By Total,Arkansas,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,4091.0,6423.0
+01/01/2020-04/30/2022,By Total,Arkansas,COVID-19,COVID-19,U071,All Ages,11124.0,11124.0
+01/01/2020-04/30/2022,By Total,California,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,53563.0,54330.0
+01/01/2020-04/30/2022,By Total,California,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,6485.0,6783.0
+01/01/2020-04/30/2022,By Total,California,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,9243.0,9243.0
+01/01/2020-04/30/2022,By Total,California,Respiratory diseases,Respiratory failure,J96,All Ages,47075.0,47844.0
+01/01/2020-04/30/2022,By Total,California,Respiratory diseases,Respiratory arrest,R09.2,All Ages,2764.0,2764.0
+01/01/2020-04/30/2022,By Total,California,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,4179.0,4411.0
+01/01/2020-04/30/2022,By Total,California,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,19339.0,19503.0
+01/01/2020-04/30/2022,By Total,California,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,9306.0,10057.0
+01/01/2020-04/30/2022,By Total,California,Circulatory diseases,Cardiac arrest,I46,All Ages,26421.0,26421.0
+01/01/2020-04/30/2022,By Total,California,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,7327.0,7476.0
+01/01/2020-04/30/2022,By Total,California,Circulatory diseases,Heart failure,I50,All Ages,6741.0,6746.0
+01/01/2020-04/30/2022,By Total,California,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,4798.0,4931.0
+01/01/2020-04/30/2022,By Total,California,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,6444.0,7059.0
+01/01/2020-04/30/2022,By Total,California,Sepsis,Sepsis,A40-A41,All Ages,13503.0,13505.0
+01/01/2020-04/30/2022,By Total,California,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,4434.0,5071.0
+01/01/2020-04/30/2022,By Total,California,Diabetes,Diabetes,E10-E14,All Ages,20056.0,20159.0
+01/01/2020-04/30/2022,By Total,California,Obesity,Obesity,E65-E68,All Ages,5461.0,5468.0
+01/01/2020-04/30/2022,By Total,California,Alzheimer disease,Alzheimer disease,G30,All Ages,3463.0,3466.0
+01/01/2020-04/30/2022,By Total,California,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,5114.0,5123.0
+01/01/2020-04/30/2022,By Total,California,Renal failure,Renal failure,N17-N19,All Ages,12753.0,13190.0
+01/01/2020-04/30/2022,By Total,California,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,2523.0,4752.0
+01/01/2020-04/30/2022,By Total,California,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,33361.0,50434.0
+01/01/2020-04/30/2022,By Total,California,COVID-19,COVID-19,U071,All Ages,94658.0,94658.0
+01/01/2020-04/30/2022,By Total,Colorado,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,6494.0,6863.0
+01/01/2020-04/30/2022,By Total,Colorado,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,1665.0,1776.0
+01/01/2020-04/30/2022,By Total,Colorado,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,2544.0,2544.0
+01/01/2020-04/30/2022,By Total,Colorado,Respiratory diseases,Respiratory failure,J96,All Ages,5106.0,5458.0
+01/01/2020-04/30/2022,By Total,Colorado,Respiratory diseases,Respiratory arrest,R09.2,All Ages,115.0,115.0
+01/01/2020-04/30/2022,By Total,Colorado,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,994.0,1084.0
+01/01/2020-04/30/2022,By Total,Colorado,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,2492.0,2528.0
+01/01/2020-04/30/2022,By Total,Colorado,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,1440.0,1583.0
+01/01/2020-04/30/2022,By Total,Colorado,Circulatory diseases,Cardiac arrest,I46,All Ages,672.0,672.0
+01/01/2020-04/30/2022,By Total,Colorado,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,1467.0,1531.0
+01/01/2020-04/30/2022,By Total,Colorado,Circulatory diseases,Heart failure,I50,All Ages,1176.0,1177.0
+01/01/2020-04/30/2022,By Total,Colorado,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,876.0,921.0
+01/01/2020-04/30/2022,By Total,Colorado,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,1676.0,1937.0
+01/01/2020-04/30/2022,By Total,Colorado,Sepsis,Sepsis,A40-A41,All Ages,1217.0,1218.0
+01/01/2020-04/30/2022,By Total,Colorado,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,915.0,1048.0
+01/01/2020-04/30/2022,By Total,Colorado,Diabetes,Diabetes,E10-E14,All Ages,2168.0,2192.0
+01/01/2020-04/30/2022,By Total,Colorado,Obesity,Obesity,E65-E68,All Ages,1006.0,1007.0
+01/01/2020-04/30/2022,By Total,Colorado,Alzheimer disease,Alzheimer disease,G30,All Ages,582.0,585.0
+01/01/2020-04/30/2022,By Total,Colorado,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,1566.0,1570.0
+01/01/2020-04/30/2022,By Total,Colorado,Renal failure,Renal failure,N17-N19,All Ages,1732.0,1807.0
+01/01/2020-04/30/2022,By Total,Colorado,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,586.0,1185.0
+01/01/2020-04/30/2022,By Total,Colorado,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,7145.0,12902.0
+01/01/2020-04/30/2022,By Total,Colorado,COVID-19,COVID-19,U071,All Ages,13205.0,13205.0
+01/01/2020-04/30/2022,By Total,Connecticut,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,3393.0,3506.0
+01/01/2020-04/30/2022,By Total,Connecticut,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,975.0,999.0
+01/01/2020-04/30/2022,By Total,Connecticut,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,642.0,642.0
+01/01/2020-04/30/2022,By Total,Connecticut,Respiratory diseases,Respiratory failure,J96,All Ages,3937.0,4026.0
+01/01/2020-04/30/2022,By Total,Connecticut,Respiratory diseases,Respiratory arrest,R09.2,All Ages,281.0,281.0
+01/01/2020-04/30/2022,By Total,Connecticut,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,1222.0,1263.0
+01/01/2020-04/30/2022,By Total,Connecticut,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,1305.0,1314.0
+01/01/2020-04/30/2022,By Total,Connecticut,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,951.0,989.0
+01/01/2020-04/30/2022,By Total,Connecticut,Circulatory diseases,Cardiac arrest,I46,All Ages,1358.0,1358.0
+01/01/2020-04/30/2022,By Total,Connecticut,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,677.0,693.0
+01/01/2020-04/30/2022,By Total,Connecticut,Circulatory diseases,Heart failure,I50,All Ages,922.0,923.0
+01/01/2020-04/30/2022,By Total,Connecticut,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,402.0,407.0
+01/01/2020-04/30/2022,By Total,Connecticut,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,794.0,856.0
+01/01/2020-04/30/2022,By Total,Connecticut,Sepsis,Sepsis,A40-A41,All Ages,917.0,917.0
+01/01/2020-04/30/2022,By Total,Connecticut,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,616.0,674.0
+01/01/2020-04/30/2022,By Total,Connecticut,Diabetes,Diabetes,E10-E14,All Ages,1078.0,1083.0
+01/01/2020-04/30/2022,By Total,Connecticut,Obesity,Obesity,E65-E68,All Ages,316.0,316.0
+01/01/2020-04/30/2022,By Total,Connecticut,Alzheimer disease,Alzheimer disease,G30,All Ages,276.0,276.0
+01/01/2020-04/30/2022,By Total,Connecticut,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,1374.0,1376.0
+01/01/2020-04/30/2022,By Total,Connecticut,Renal failure,Renal failure,N17-N19,All Ages,902.0,949.0
+01/01/2020-04/30/2022,By Total,Connecticut,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,241.0,499.0
+01/01/2020-04/30/2022,By Total,Connecticut,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,3981.0,5586.0
+01/01/2020-04/30/2022,By Total,Connecticut,COVID-19,COVID-19,U071,All Ages,10888.0,10888.0
+01/01/2020-04/30/2022,By Total,Delaware,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,1423.0,1490.0
+01/01/2020-04/30/2022,By Total,Delaware,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,255.0,264.0
+01/01/2020-04/30/2022,By Total,Delaware,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,205.0,205.0
+01/01/2020-04/30/2022,By Total,Delaware,Respiratory diseases,Respiratory failure,J96,All Ages,738.0,755.0
+01/01/2020-04/30/2022,By Total,Delaware,Respiratory diseases,Respiratory arrest,R09.2,All Ages,19.0,19.0
+01/01/2020-04/30/2022,By Total,Delaware,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,190.0,196.0
+01/01/2020-04/30/2022,By Total,Delaware,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,661.0,662.0
+01/01/2020-04/30/2022,By Total,Delaware,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,252.0,265.0
+01/01/2020-04/30/2022,By Total,Delaware,Circulatory diseases,Cardiac arrest,I46,All Ages,114.0,114.0
+01/01/2020-04/30/2022,By Total,Delaware,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,250.0,261.0
+01/01/2020-04/30/2022,By Total,Delaware,Circulatory diseases,Heart failure,I50,All Ages,239.0,239.0
+01/01/2020-04/30/2022,By Total,Delaware,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,160.0,165.0
+01/01/2020-04/30/2022,By Total,Delaware,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,239.0,260.0
+01/01/2020-04/30/2022,By Total,Delaware,Sepsis,Sepsis,A40-A41,All Ages,275.0,276.0
+01/01/2020-04/30/2022,By Total,Delaware,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,191.0,227.0
+01/01/2020-04/30/2022,By Total,Delaware,Diabetes,Diabetes,E10-E14,All Ages,395.0,398.0
+01/01/2020-04/30/2022,By Total,Delaware,Obesity,Obesity,E65-E68,All Ages,193.0,193.0
+01/01/2020-04/30/2022,By Total,Delaware,Alzheimer disease,Alzheimer disease,G30,All Ages,153.0,154.0
+01/01/2020-04/30/2022,By Total,Delaware,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,391.0,391.0
+01/01/2020-04/30/2022,By Total,Delaware,Renal failure,Renal failure,N17-N19,All Ages,348.0,358.0
+01/01/2020-04/30/2022,By Total,Delaware,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,74.0,125.0
+01/01/2020-04/30/2022,By Total,Delaware,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,1271.0,1848.0
+01/01/2020-04/30/2022,By Total,Delaware,COVID-19,COVID-19,U071,All Ages,2909.0,2909.0
+01/01/2020-04/30/2022,By Total,District of Columbia,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,1467.0,1477.0
+01/01/2020-04/30/2022,By Total,District of Columbia,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,234.0,243.0
+01/01/2020-04/30/2022,By Total,District of Columbia,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,1070.0,1070.0
+01/01/2020-04/30/2022,By Total,District of Columbia,Respiratory diseases,Respiratory failure,J96,All Ages,177.0,187.0
+01/01/2020-04/30/2022,By Total,District of Columbia,Respiratory diseases,Respiratory arrest,R09.2,All Ages,,
+01/01/2020-04/30/2022,By Total,District of Columbia,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,43.0,43.0
+01/01/2020-04/30/2022,By Total,District of Columbia,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,1123.0,1128.0
+01/01/2020-04/30/2022,By Total,District of Columbia,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,229.0,245.0
+01/01/2020-04/30/2022,By Total,District of Columbia,Circulatory diseases,Cardiac arrest,I46,All Ages,16.0,16.0
+01/01/2020-04/30/2022,By Total,District of Columbia,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,96.0,97.0
+01/01/2020-04/30/2022,By Total,District of Columbia,Circulatory diseases,Heart failure,I50,All Ages,123.0,123.0
+01/01/2020-04/30/2022,By Total,District of Columbia,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,94.0,97.0
+01/01/2020-04/30/2022,By Total,District of Columbia,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,130.0,150.0
+01/01/2020-04/30/2022,By Total,District of Columbia,Sepsis,Sepsis,A40-A41,All Ages,84.0,84.0
+01/01/2020-04/30/2022,By Total,District of Columbia,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,197.0,208.0
+01/01/2020-04/30/2022,By Total,District of Columbia,Diabetes,Diabetes,E10-E14,All Ages,741.0,746.0
+01/01/2020-04/30/2022,By Total,District of Columbia,Obesity,Obesity,E65-E68,All Ages,184.0,184.0
+01/01/2020-04/30/2022,By Total,District of Columbia,Alzheimer disease,Alzheimer disease,G30,All Ages,24.0,24.0
+01/01/2020-04/30/2022,By Total,District of Columbia,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,155.0,155.0
+01/01/2020-04/30/2022,By Total,District of Columbia,Renal failure,Renal failure,N17-N19,All Ages,158.0,159.0
+01/01/2020-04/30/2022,By Total,District of Columbia,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,79.0,138.0
+01/01/2020-04/30/2022,By Total,District of Columbia,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,683.0,964.0
+01/01/2020-04/30/2022,By Total,District of Columbia,COVID-19,COVID-19,U071,All Ages,1993.0,1993.0
+01/01/2020-04/30/2022,By Total,Florida,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,41538.0,42279.0
+01/01/2020-04/30/2022,By Total,Florida,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,7104.0,7398.0
+01/01/2020-04/30/2022,By Total,Florida,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,6231.0,6231.0
+01/01/2020-04/30/2022,By Total,Florida,Respiratory diseases,Respiratory failure,J96,All Ages,25306.0,25727.0
+01/01/2020-04/30/2022,By Total,Florida,Respiratory diseases,Respiratory arrest,R09.2,All Ages,1081.0,1081.0
+01/01/2020-04/30/2022,By Total,Florida,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,3392.0,3562.0
+01/01/2020-04/30/2022,By Total,Florida,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,15321.0,15437.0
+01/01/2020-04/30/2022,By Total,Florida,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,10100.0,10654.0
+01/01/2020-04/30/2022,By Total,Florida,Circulatory diseases,Cardiac arrest,I46,All Ages,7052.0,7053.0
+01/01/2020-04/30/2022,By Total,Florida,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,4862.0,4955.0
+01/01/2020-04/30/2022,By Total,Florida,Circulatory diseases,Heart failure,I50,All Ages,3920.0,3925.0
+01/01/2020-04/30/2022,By Total,Florida,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,3509.0,3616.0
+01/01/2020-04/30/2022,By Total,Florida,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,4672.0,5111.0
+01/01/2020-04/30/2022,By Total,Florida,Sepsis,Sepsis,A40-A41,All Ages,6729.0,6731.0
+01/01/2020-04/30/2022,By Total,Florida,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,3691.0,4210.0
+01/01/2020-04/30/2022,By Total,Florida,Diabetes,Diabetes,E10-E14,All Ages,10584.0,10624.0
+01/01/2020-04/30/2022,By Total,Florida,Obesity,Obesity,E65-E68,All Ages,3669.0,3676.0
+01/01/2020-04/30/2022,By Total,Florida,Alzheimer disease,Alzheimer disease,G30,All Ages,1309.0,1319.0
+01/01/2020-04/30/2022,By Total,Florida,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,5689.0,5705.0
+01/01/2020-04/30/2022,By Total,Florida,Renal failure,Renal failure,N17-N19,All Ages,6414.0,6659.0
+01/01/2020-04/30/2022,By Total,Florida,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,1699.0,3252.0
+01/01/2020-04/30/2022,By Total,Florida,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,26583.0,38843.0
+01/01/2020-04/30/2022,By Total,Florida,COVID-19,COVID-19,U071,All Ages,69865.0,69865.0
+01/01/2020-04/30/2022,By Total,Georgia,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,16495.0,16856.0
+01/01/2020-04/30/2022,By Total,Georgia,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,2026.0,2110.0
+01/01/2020-04/30/2022,By Total,Georgia,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,2511.0,2511.0
+01/01/2020-04/30/2022,By Total,Georgia,Respiratory diseases,Respiratory failure,J96,All Ages,14983.0,15288.0
+01/01/2020-04/30/2022,By Total,Georgia,Respiratory diseases,Respiratory arrest,R09.2,All Ages,840.0,840.0
+01/01/2020-04/30/2022,By Total,Georgia,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,1512.0,1566.0
+01/01/2020-04/30/2022,By Total,Georgia,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,4724.0,4848.0
+01/01/2020-04/30/2022,By Total,Georgia,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,1975.0,2088.0
+01/01/2020-04/30/2022,By Total,Georgia,Circulatory diseases,Cardiac arrest,I46,All Ages,4681.0,4685.0
+01/01/2020-04/30/2022,By Total,Georgia,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,1562.0,1585.0
+01/01/2020-04/30/2022,By Total,Georgia,Circulatory diseases,Heart failure,I50,All Ages,2007.0,2008.0
+01/01/2020-04/30/2022,By Total,Georgia,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,1348.0,1386.0
+01/01/2020-04/30/2022,By Total,Georgia,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,2096.0,2234.0
+01/01/2020-04/30/2022,By Total,Georgia,Sepsis,Sepsis,A40-A41,All Ages,4447.0,4448.0
+01/01/2020-04/30/2022,By Total,Georgia,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,1296.0,1445.0
+01/01/2020-04/30/2022,By Total,Georgia,Diabetes,Diabetes,E10-E14,All Ages,3606.0,3623.0
+01/01/2020-04/30/2022,By Total,Georgia,Obesity,Obesity,E65-E68,All Ages,1461.0,1464.0
+01/01/2020-04/30/2022,By Total,Georgia,Alzheimer disease,Alzheimer disease,G30,All Ages,793.0,795.0
+01/01/2020-04/30/2022,By Total,Georgia,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,1672.0,1674.0
+01/01/2020-04/30/2022,By Total,Georgia,Renal failure,Renal failure,N17-N19,All Ages,3206.0,3341.0
+01/01/2020-04/30/2022,By Total,Georgia,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,543.0,1015.0
+01/01/2020-04/30/2022,By Total,Georgia,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,12617.0,17819.0
+01/01/2020-04/30/2022,By Total,Georgia,COVID-19,COVID-19,U071,All Ages,32305.0,32305.0
+01/01/2020-04/30/2022,By Total,Hawaii,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,724.0,781.0
+01/01/2020-04/30/2022,By Total,Hawaii,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,82.0,89.0
+01/01/2020-04/30/2022,By Total,Hawaii,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,166.0,166.0
+01/01/2020-04/30/2022,By Total,Hawaii,Respiratory diseases,Respiratory failure,J96,All Ages,462.0,470.0
+01/01/2020-04/30/2022,By Total,Hawaii,Respiratory diseases,Respiratory arrest,R09.2,All Ages,14.0,14.0
+01/01/2020-04/30/2022,By Total,Hawaii,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,113.0,122.0
+01/01/2020-04/30/2022,By Total,Hawaii,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,150.0,150.0
+01/01/2020-04/30/2022,By Total,Hawaii,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,138.0,155.0
+01/01/2020-04/30/2022,By Total,Hawaii,Circulatory diseases,Cardiac arrest,I46,All Ages,161.0,161.0
+01/01/2020-04/30/2022,By Total,Hawaii,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,75.0,80.0
+01/01/2020-04/30/2022,By Total,Hawaii,Circulatory diseases,Heart failure,I50,All Ages,100.0,100.0
+01/01/2020-04/30/2022,By Total,Hawaii,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,73.0,76.0
+01/01/2020-04/30/2022,By Total,Hawaii,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,123.0,144.0
+01/01/2020-04/30/2022,By Total,Hawaii,Sepsis,Sepsis,A40-A41,All Ages,126.0,126.0
+01/01/2020-04/30/2022,By Total,Hawaii,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,62.0,85.0
+01/01/2020-04/30/2022,By Total,Hawaii,Diabetes,Diabetes,E10-E14,All Ages,194.0,197.0
+01/01/2020-04/30/2022,By Total,Hawaii,Obesity,Obesity,E65-E68,All Ages,76.0,76.0
+01/01/2020-04/30/2022,By Total,Hawaii,Alzheimer disease,Alzheimer disease,G30,All Ages,18.0,18.0
+01/01/2020-04/30/2022,By Total,Hawaii,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,62.0,62.0
+01/01/2020-04/30/2022,By Total,Hawaii,Renal failure,Renal failure,N17-N19,All Ages,192.0,208.0
+01/01/2020-04/30/2022,By Total,Hawaii,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,50.0,86.0
+01/01/2020-04/30/2022,By Total,Hawaii,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,547.0,871.0
+01/01/2020-04/30/2022,By Total,Hawaii,COVID-19,COVID-19,U071,All Ages,1371.0,1371.0
+01/01/2020-04/30/2022,By Total,Idaho,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,2393.0,2520.0
+01/01/2020-04/30/2022,By Total,Idaho,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,557.0,581.0
+01/01/2020-04/30/2022,By Total,Idaho,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,650.0,650.0
+01/01/2020-04/30/2022,By Total,Idaho,Respiratory diseases,Respiratory failure,J96,All Ages,2414.0,2513.0
+01/01/2020-04/30/2022,By Total,Idaho,Respiratory diseases,Respiratory arrest,R09.2,All Ages,97.0,97.0
+01/01/2020-04/30/2022,By Total,Idaho,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,326.0,347.0
+01/01/2020-04/30/2022,By Total,Idaho,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,859.0,873.0
+01/01/2020-04/30/2022,By Total,Idaho,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,508.0,555.0
+01/01/2020-04/30/2022,By Total,Idaho,Circulatory diseases,Cardiac arrest,I46,All Ages,245.0,246.0
+01/01/2020-04/30/2022,By Total,Idaho,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,432.0,444.0
+01/01/2020-04/30/2022,By Total,Idaho,Circulatory diseases,Heart failure,I50,All Ages,464.0,465.0
+01/01/2020-04/30/2022,By Total,Idaho,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,301.0,315.0
+01/01/2020-04/30/2022,By Total,Idaho,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,486.0,538.0
+01/01/2020-04/30/2022,By Total,Idaho,Sepsis,Sepsis,A40-A41,All Ages,331.0,331.0
+01/01/2020-04/30/2022,By Total,Idaho,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,298.0,347.0
+01/01/2020-04/30/2022,By Total,Idaho,Diabetes,Diabetes,E10-E14,All Ages,742.0,743.0
+01/01/2020-04/30/2022,By Total,Idaho,Obesity,Obesity,E65-E68,All Ages,337.0,338.0
+01/01/2020-04/30/2022,By Total,Idaho,Alzheimer disease,Alzheimer disease,G30,All Ages,194.0,197.0
+01/01/2020-04/30/2022,By Total,Idaho,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,387.0,388.0
+01/01/2020-04/30/2022,By Total,Idaho,Renal failure,Renal failure,N17-N19,All Ages,474.0,505.0
+01/01/2020-04/30/2022,By Total,Idaho,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,148.0,262.0
+01/01/2020-04/30/2022,By Total,Idaho,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,2543.0,4111.0
+01/01/2020-04/30/2022,By Total,Idaho,COVID-19,COVID-19,U071,All Ages,4967.0,4967.0
+01/01/2020-04/30/2022,By Total,Illinois,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,16419.0,16569.0
+01/01/2020-04/30/2022,By Total,Illinois,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,4303.0,4440.0
+01/01/2020-04/30/2022,By Total,Illinois,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,1363.0,1363.0
+01/01/2020-04/30/2022,By Total,Illinois,Respiratory diseases,Respiratory failure,J96,All Ages,11089.0,11361.0
+01/01/2020-04/30/2022,By Total,Illinois,Respiratory diseases,Respiratory arrest,R09.2,All Ages,328.0,328.0
+01/01/2020-04/30/2022,By Total,Illinois,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,935.0,969.0
+01/01/2020-04/30/2022,By Total,Illinois,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,12452.0,12502.0
+01/01/2020-04/30/2022,By Total,Illinois,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,4284.0,4438.0
+01/01/2020-04/30/2022,By Total,Illinois,Circulatory diseases,Cardiac arrest,I46,All Ages,1398.0,1398.0
+01/01/2020-04/30/2022,By Total,Illinois,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,2852.0,2888.0
+01/01/2020-04/30/2022,By Total,Illinois,Circulatory diseases,Heart failure,I50,All Ages,3537.0,3542.0
+01/01/2020-04/30/2022,By Total,Illinois,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,1340.0,1358.0
+01/01/2020-04/30/2022,By Total,Illinois,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,1925.0,2101.0
+01/01/2020-04/30/2022,By Total,Illinois,Sepsis,Sepsis,A40-A41,All Ages,1937.0,1937.0
+01/01/2020-04/30/2022,By Total,Illinois,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,2179.0,2375.0
+01/01/2020-04/30/2022,By Total,Illinois,Diabetes,Diabetes,E10-E14,All Ages,7891.0,7903.0
+01/01/2020-04/30/2022,By Total,Illinois,Obesity,Obesity,E65-E68,All Ages,2151.0,2151.0
+01/01/2020-04/30/2022,By Total,Illinois,Alzheimer disease,Alzheimer disease,G30,All Ages,851.0,851.0
+01/01/2020-04/30/2022,By Total,Illinois,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,2815.0,2819.0
+01/01/2020-04/30/2022,By Total,Illinois,Renal failure,Renal failure,N17-N19,All Ages,2137.0,2207.0
+01/01/2020-04/30/2022,By Total,Illinois,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,715.0,1338.0
+01/01/2020-04/30/2022,By Total,Illinois,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,12023.0,16249.0
+01/01/2020-04/30/2022,By Total,Illinois,COVID-19,COVID-19,U071,All Ages,34229.0,34229.0
+01/01/2020-04/30/2022,By Total,Indiana,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,11903.0,12374.0
+01/01/2020-04/30/2022,By Total,Indiana,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,2804.0,2951.0
+01/01/2020-04/30/2022,By Total,Indiana,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,1931.0,1931.0
+01/01/2020-04/30/2022,By Total,Indiana,Respiratory diseases,Respiratory failure,J96,All Ages,9792.0,10289.0
+01/01/2020-04/30/2022,By Total,Indiana,Respiratory diseases,Respiratory arrest,R09.2,All Ages,367.0,367.0
+01/01/2020-04/30/2022,By Total,Indiana,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,1468.0,1560.0
+01/01/2020-04/30/2022,By Total,Indiana,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,4010.0,4064.0
+01/01/2020-04/30/2022,By Total,Indiana,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,2747.0,2928.0
+01/01/2020-04/30/2022,By Total,Indiana,Circulatory diseases,Cardiac arrest,I46,All Ages,1375.0,1376.0
+01/01/2020-04/30/2022,By Total,Indiana,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,2215.0,2284.0
+01/01/2020-04/30/2022,By Total,Indiana,Circulatory diseases,Heart failure,I50,All Ages,2100.0,2105.0
+01/01/2020-04/30/2022,By Total,Indiana,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,1289.0,1361.0
+01/01/2020-04/30/2022,By Total,Indiana,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,1973.0,2174.0
+01/01/2020-04/30/2022,By Total,Indiana,Sepsis,Sepsis,A40-A41,All Ages,2186.0,2186.0
+01/01/2020-04/30/2022,By Total,Indiana,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,1361.0,1625.0
+01/01/2020-04/30/2022,By Total,Indiana,Diabetes,Diabetes,E10-E14,All Ages,3502.0,3525.0
+01/01/2020-04/30/2022,By Total,Indiana,Obesity,Obesity,E65-E68,All Ages,1061.0,1062.0
+01/01/2020-04/30/2022,By Total,Indiana,Alzheimer disease,Alzheimer disease,G30,All Ages,862.0,863.0
+01/01/2020-04/30/2022,By Total,Indiana,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,2412.0,2421.0
+01/01/2020-04/30/2022,By Total,Indiana,Renal failure,Renal failure,N17-N19,All Ages,3005.0,3198.0
+01/01/2020-04/30/2022,By Total,Indiana,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,674.0,1243.0
+01/01/2020-04/30/2022,By Total,Indiana,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,11555.0,18923.0
+01/01/2020-04/30/2022,By Total,Indiana,COVID-19,COVID-19,U071,All Ages,23637.0,23637.0
+01/01/2020-04/30/2022,By Total,Iowa,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,3356.0,3459.0
+01/01/2020-04/30/2022,By Total,Iowa,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,1078.0,1123.0
+01/01/2020-04/30/2022,By Total,Iowa,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,772.0,772.0
+01/01/2020-04/30/2022,By Total,Iowa,Respiratory diseases,Respiratory failure,J96,All Ages,3660.0,3780.0
+01/01/2020-04/30/2022,By Total,Iowa,Respiratory diseases,Respiratory arrest,R09.2,All Ages,345.0,345.0
+01/01/2020-04/30/2022,By Total,Iowa,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,442.0,471.0
+01/01/2020-04/30/2022,By Total,Iowa,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,1488.0,1499.0
+01/01/2020-04/30/2022,By Total,Iowa,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,1122.0,1217.0
+01/01/2020-04/30/2022,By Total,Iowa,Circulatory diseases,Cardiac arrest,I46,All Ages,702.0,702.0
+01/01/2020-04/30/2022,By Total,Iowa,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,879.0,899.0
+01/01/2020-04/30/2022,By Total,Iowa,Circulatory diseases,Heart failure,I50,All Ages,946.0,946.0
+01/01/2020-04/30/2022,By Total,Iowa,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,462.0,476.0
+01/01/2020-04/30/2022,By Total,Iowa,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,767.0,869.0
+01/01/2020-04/30/2022,By Total,Iowa,Sepsis,Sepsis,A40-A41,All Ages,625.0,626.0
+01/01/2020-04/30/2022,By Total,Iowa,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,569.0,667.0
+01/01/2020-04/30/2022,By Total,Iowa,Diabetes,Diabetes,E10-E14,All Ages,1388.0,1402.0
+01/01/2020-04/30/2022,By Total,Iowa,Obesity,Obesity,E65-E68,All Ages,494.0,496.0
+01/01/2020-04/30/2022,By Total,Iowa,Alzheimer disease,Alzheimer disease,G30,All Ages,492.0,492.0
+01/01/2020-04/30/2022,By Total,Iowa,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,1034.0,1035.0
+01/01/2020-04/30/2022,By Total,Iowa,Renal failure,Renal failure,N17-N19,All Ages,943.0,991.0
+01/01/2020-04/30/2022,By Total,Iowa,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,226.0,408.0
+01/01/2020-04/30/2022,By Total,Iowa,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,4353.0,7030.0
+01/01/2020-04/30/2022,By Total,Iowa,COVID-19,COVID-19,U071,All Ages,9542.0,9542.0
+01/01/2020-04/30/2022,By Total,Kansas,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,3814.0,3925.0
+01/01/2020-04/30/2022,By Total,Kansas,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,827.0,867.0
+01/01/2020-04/30/2022,By Total,Kansas,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,717.0,717.0
+01/01/2020-04/30/2022,By Total,Kansas,Respiratory diseases,Respiratory failure,J96,All Ages,4173.0,4294.0
+01/01/2020-04/30/2022,By Total,Kansas,Respiratory diseases,Respiratory arrest,R09.2,All Ages,188.0,188.0
+01/01/2020-04/30/2022,By Total,Kansas,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,416.0,438.0
+01/01/2020-04/30/2022,By Total,Kansas,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,1053.0,1064.0
+01/01/2020-04/30/2022,By Total,Kansas,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,853.0,918.0
+01/01/2020-04/30/2022,By Total,Kansas,Circulatory diseases,Cardiac arrest,I46,All Ages,893.0,895.0
+01/01/2020-04/30/2022,By Total,Kansas,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,628.0,639.0
+01/01/2020-04/30/2022,By Total,Kansas,Circulatory diseases,Heart failure,I50,All Ages,696.0,697.0
+01/01/2020-04/30/2022,By Total,Kansas,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,387.0,403.0
+01/01/2020-04/30/2022,By Total,Kansas,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,622.0,686.0
+01/01/2020-04/30/2022,By Total,Kansas,Sepsis,Sepsis,A40-A41,All Ages,750.0,750.0
+01/01/2020-04/30/2022,By Total,Kansas,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,452.0,522.0
+01/01/2020-04/30/2022,By Total,Kansas,Diabetes,Diabetes,E10-E14,All Ages,1034.0,1046.0
+01/01/2020-04/30/2022,By Total,Kansas,Obesity,Obesity,E65-E68,All Ages,425.0,426.0
+01/01/2020-04/30/2022,By Total,Kansas,Alzheimer disease,Alzheimer disease,G30,All Ages,239.0,239.0
+01/01/2020-04/30/2022,By Total,Kansas,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,831.0,835.0
+01/01/2020-04/30/2022,By Total,Kansas,Renal failure,Renal failure,N17-N19,All Ages,884.0,933.0
+01/01/2020-04/30/2022,By Total,Kansas,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,189.0,332.0
+01/01/2020-04/30/2022,By Total,Kansas,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,3829.0,6014.0
+01/01/2020-04/30/2022,By Total,Kansas,COVID-19,COVID-19,U071,All Ages,8892.0,8892.0
+01/01/2020-04/30/2022,By Total,Kentucky,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,8201.0,8620.0
+01/01/2020-04/30/2022,By Total,Kentucky,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,2115.0,2266.0
+01/01/2020-04/30/2022,By Total,Kentucky,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,1719.0,1719.0
+01/01/2020-04/30/2022,By Total,Kentucky,Respiratory diseases,Respiratory failure,J96,All Ages,7837.0,8303.0
+01/01/2020-04/30/2022,By Total,Kentucky,Respiratory diseases,Respiratory arrest,R09.2,All Ages,184.0,184.0
+01/01/2020-04/30/2022,By Total,Kentucky,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,1127.0,1207.0
+01/01/2020-04/30/2022,By Total,Kentucky,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,2676.0,2701.0
+01/01/2020-04/30/2022,By Total,Kentucky,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,1959.0,2072.0
+01/01/2020-04/30/2022,By Total,Kentucky,Circulatory diseases,Cardiac arrest,I46,All Ages,1182.0,1182.0
+01/01/2020-04/30/2022,By Total,Kentucky,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,1708.0,1758.0
+01/01/2020-04/30/2022,By Total,Kentucky,Circulatory diseases,Heart failure,I50,All Ages,1730.0,1730.0
+01/01/2020-04/30/2022,By Total,Kentucky,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,945.0,971.0
+01/01/2020-04/30/2022,By Total,Kentucky,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,1428.0,1566.0
+01/01/2020-04/30/2022,By Total,Kentucky,Sepsis,Sepsis,A40-A41,All Ages,2756.0,2757.0
+01/01/2020-04/30/2022,By Total,Kentucky,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,1140.0,1378.0
+01/01/2020-04/30/2022,By Total,Kentucky,Diabetes,Diabetes,E10-E14,All Ages,2997.0,3028.0
+01/01/2020-04/30/2022,By Total,Kentucky,Obesity,Obesity,E65-E68,All Ages,694.0,699.0
+01/01/2020-04/30/2022,By Total,Kentucky,Alzheimer disease,Alzheimer disease,G30,All Ages,475.0,475.0
+01/01/2020-04/30/2022,By Total,Kentucky,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,1677.0,1678.0
+01/01/2020-04/30/2022,By Total,Kentucky,Renal failure,Renal failure,N17-N19,All Ages,2532.0,2732.0
+01/01/2020-04/30/2022,By Total,Kentucky,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,482.0,880.0
+01/01/2020-04/30/2022,By Total,Kentucky,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,8862.0,15012.0
+01/01/2020-04/30/2022,By Total,Kentucky,COVID-19,COVID-19,U071,All Ages,16532.0,16532.0
+01/01/2020-04/30/2022,By Total,Louisiana,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,7743.0,7804.0
+01/01/2020-04/30/2022,By Total,Louisiana,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,1268.0,1303.0
+01/01/2020-04/30/2022,By Total,Louisiana,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,3300.0,3300.0
+01/01/2020-04/30/2022,By Total,Louisiana,Respiratory diseases,Respiratory failure,J96,All Ages,5890.0,6012.0
+01/01/2020-04/30/2022,By Total,Louisiana,Respiratory diseases,Respiratory arrest,R09.2,All Ages,248.0,248.0
+01/01/2020-04/30/2022,By Total,Louisiana,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,979.0,992.0
+01/01/2020-04/30/2022,By Total,Louisiana,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,3639.0,3674.0
+01/01/2020-04/30/2022,By Total,Louisiana,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,1561.0,1681.0
+01/01/2020-04/30/2022,By Total,Louisiana,Circulatory diseases,Cardiac arrest,I46,All Ages,1153.0,1153.0
+01/01/2020-04/30/2022,By Total,Louisiana,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,927.0,940.0
+01/01/2020-04/30/2022,By Total,Louisiana,Circulatory diseases,Heart failure,I50,All Ages,1203.0,1203.0
+01/01/2020-04/30/2022,By Total,Louisiana,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,805.0,818.0
+01/01/2020-04/30/2022,By Total,Louisiana,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,816.0,885.0
+01/01/2020-04/30/2022,By Total,Louisiana,Sepsis,Sepsis,A40-A41,All Ages,1386.0,1386.0
+01/01/2020-04/30/2022,By Total,Louisiana,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,685.0,745.0
+01/01/2020-04/30/2022,By Total,Louisiana,Diabetes,Diabetes,E10-E14,All Ages,2344.0,2359.0
+01/01/2020-04/30/2022,By Total,Louisiana,Obesity,Obesity,E65-E68,All Ages,798.0,798.0
+01/01/2020-04/30/2022,By Total,Louisiana,Alzheimer disease,Alzheimer disease,G30,All Ages,376.0,379.0
+01/01/2020-04/30/2022,By Total,Louisiana,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,717.0,719.0
+01/01/2020-04/30/2022,By Total,Louisiana,Renal failure,Renal failure,N17-N19,All Ages,1124.0,1172.0
+01/01/2020-04/30/2022,By Total,Louisiana,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,243.0,476.0
+01/01/2020-04/30/2022,By Total,Louisiana,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,5271.0,7741.0
+01/01/2020-04/30/2022,By Total,Louisiana,COVID-19,COVID-19,U071,All Ages,15841.0,15841.0
+01/01/2020-04/30/2022,By Total,Maine,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,653.0,678.0
+01/01/2020-04/30/2022,By Total,Maine,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,240.0,242.0
+01/01/2020-04/30/2022,By Total,Maine,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,183.0,183.0
+01/01/2020-04/30/2022,By Total,Maine,Respiratory diseases,Respiratory failure,J96,All Ages,295.0,320.0
+01/01/2020-04/30/2022,By Total,Maine,Respiratory diseases,Respiratory arrest,R09.2,All Ages,25.0,25.0
+01/01/2020-04/30/2022,By Total,Maine,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,91.0,95.0
+01/01/2020-04/30/2022,By Total,Maine,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,252.0,259.0
+01/01/2020-04/30/2022,By Total,Maine,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,215.0,226.0
+01/01/2020-04/30/2022,By Total,Maine,Circulatory diseases,Cardiac arrest,I46,All Ages,34.0,34.0
+01/01/2020-04/30/2022,By Total,Maine,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,221.0,223.0
+01/01/2020-04/30/2022,By Total,Maine,Circulatory diseases,Heart failure,I50,All Ages,179.0,179.0
+01/01/2020-04/30/2022,By Total,Maine,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,104.0,108.0
+01/01/2020-04/30/2022,By Total,Maine,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,149.0,161.0
+01/01/2020-04/30/2022,By Total,Maine,Sepsis,Sepsis,A40-A41,All Ages,45.0,45.0
+01/01/2020-04/30/2022,By Total,Maine,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,146.0,161.0
+01/01/2020-04/30/2022,By Total,Maine,Diabetes,Diabetes,E10-E14,All Ages,221.0,223.0
+01/01/2020-04/30/2022,By Total,Maine,Obesity,Obesity,E65-E68,All Ages,59.0,60.0
+01/01/2020-04/30/2022,By Total,Maine,Alzheimer disease,Alzheimer disease,G30,All Ages,92.0,92.0
+01/01/2020-04/30/2022,By Total,Maine,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,384.0,384.0
+01/01/2020-04/30/2022,By Total,Maine,Renal failure,Renal failure,N17-N19,All Ages,187.0,194.0
+01/01/2020-04/30/2022,By Total,Maine,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,46.0,89.0
+01/01/2020-04/30/2022,By Total,Maine,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,865.0,1280.0
+01/01/2020-04/30/2022,By Total,Maine,COVID-19,COVID-19,U071,All Ages,2463.0,2463.0
+01/01/2020-04/30/2022,By Total,Maryland,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,5993.0,6138.0
+01/01/2020-04/30/2022,By Total,Maryland,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,1621.0,1672.0
+01/01/2020-04/30/2022,By Total,Maryland,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,1358.0,1358.0
+01/01/2020-04/30/2022,By Total,Maryland,Respiratory diseases,Respiratory failure,J96,All Ages,4116.0,4191.0
+01/01/2020-04/30/2022,By Total,Maryland,Respiratory diseases,Respiratory arrest,R09.2,All Ages,127.0,127.0
+01/01/2020-04/30/2022,By Total,Maryland,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,787.0,832.0
+01/01/2020-04/30/2022,By Total,Maryland,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,3957.0,3976.0
+01/01/2020-04/30/2022,By Total,Maryland,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,1980.0,2117.0
+01/01/2020-04/30/2022,By Total,Maryland,Circulatory diseases,Cardiac arrest,I46,All Ages,712.0,712.0
+01/01/2020-04/30/2022,By Total,Maryland,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,1717.0,1761.0
+01/01/2020-04/30/2022,By Total,Maryland,Circulatory diseases,Heart failure,I50,All Ages,1327.0,1328.0
+01/01/2020-04/30/2022,By Total,Maryland,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,1153.0,1178.0
+01/01/2020-04/30/2022,By Total,Maryland,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,1733.0,1917.0
+01/01/2020-04/30/2022,By Total,Maryland,Sepsis,Sepsis,A40-A41,All Ages,1634.0,1634.0
+01/01/2020-04/30/2022,By Total,Maryland,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,1130.0,1285.0
+01/01/2020-04/30/2022,By Total,Maryland,Diabetes,Diabetes,E10-E14,All Ages,2892.0,2909.0
+01/01/2020-04/30/2022,By Total,Maryland,Obesity,Obesity,E65-E68,All Ages,875.0,878.0
+01/01/2020-04/30/2022,By Total,Maryland,Alzheimer disease,Alzheimer disease,G30,All Ages,289.0,290.0
+01/01/2020-04/30/2022,By Total,Maryland,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,2110.0,2112.0
+01/01/2020-04/30/2022,By Total,Maryland,Renal failure,Renal failure,N17-N19,All Ages,2393.0,2479.0
+01/01/2020-04/30/2022,By Total,Maryland,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,480.0,896.0
+01/01/2020-04/30/2022,By Total,Maryland,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,7380.0,12178.0
+01/01/2020-04/30/2022,By Total,Maryland,COVID-19,COVID-19,U071,All Ages,15441.0,15441.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,7199.0,7386.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,1497.0,1557.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,1603.0,1603.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Respiratory diseases,Respiratory failure,J96,All Ages,7218.0,7378.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Respiratory diseases,Respiratory arrest,R09.2,All Ages,578.0,578.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,936.0,980.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,1722.0,1740.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,1414.0,1488.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Circulatory diseases,Cardiac arrest,I46,All Ages,2685.0,2685.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,1284.0,1301.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Circulatory diseases,Heart failure,I50,All Ages,1644.0,1645.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,716.0,734.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,1086.0,1169.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Sepsis,Sepsis,A40-A41,All Ages,1624.0,1624.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,1035.0,1137.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Diabetes,Diabetes,E10-E14,All Ages,1558.0,1567.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Obesity,Obesity,E65-E68,All Ages,371.0,372.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Alzheimer disease,Alzheimer disease,G30,All Ages,471.0,471.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,2753.0,2756.0
+01/01/2020-04/30/2022,By Total,Massachusetts,Renal failure,Renal failure,N17-N19,All Ages,2028.0,2150.0
+01/01/2020-04/30/2022,By Total,Massachusetts,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,428.0,841.0
+01/01/2020-04/30/2022,By Total,Massachusetts,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,7732.0,11187.0
+01/01/2020-04/30/2022,By Total,Massachusetts,COVID-19,COVID-19,U071,All Ages,18163.0,18163.0
+01/01/2020-04/30/2022,By Total,Michigan,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,15829.0,16313.0
+01/01/2020-04/30/2022,By Total,Michigan,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,2769.0,2887.0
+01/01/2020-04/30/2022,By Total,Michigan,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,2013.0,2013.0
+01/01/2020-04/30/2022,By Total,Michigan,Respiratory diseases,Respiratory failure,J96,All Ages,11047.0,11309.0
+01/01/2020-04/30/2022,By Total,Michigan,Respiratory diseases,Respiratory arrest,R09.2,All Ages,303.0,303.0
+01/01/2020-04/30/2022,By Total,Michigan,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,1135.0,1192.0
+01/01/2020-04/30/2022,By Total,Michigan,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,4311.0,4371.0
+01/01/2020-04/30/2022,By Total,Michigan,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,3472.0,3727.0
+01/01/2020-04/30/2022,By Total,Michigan,Circulatory diseases,Cardiac arrest,I46,All Ages,1933.0,1933.0
+01/01/2020-04/30/2022,By Total,Michigan,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,1959.0,1985.0
+01/01/2020-04/30/2022,By Total,Michigan,Circulatory diseases,Heart failure,I50,All Ages,2279.0,2281.0
+01/01/2020-04/30/2022,By Total,Michigan,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,1462.0,1499.0
+01/01/2020-04/30/2022,By Total,Michigan,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,2217.0,2410.0
+01/01/2020-04/30/2022,By Total,Michigan,Sepsis,Sepsis,A40-A41,All Ages,3003.0,3005.0
+01/01/2020-04/30/2022,By Total,Michigan,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,1678.0,1889.0
+01/01/2020-04/30/2022,By Total,Michigan,Diabetes,Diabetes,E10-E14,All Ages,3462.0,3482.0
+01/01/2020-04/30/2022,By Total,Michigan,Obesity,Obesity,E65-E68,All Ages,1286.0,1287.0
+01/01/2020-04/30/2022,By Total,Michigan,Alzheimer disease,Alzheimer disease,G30,All Ages,866.0,867.0
+01/01/2020-04/30/2022,By Total,Michigan,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,1960.0,1964.0
+01/01/2020-04/30/2022,By Total,Michigan,Renal failure,Renal failure,N17-N19,All Ages,3202.0,3331.0
+01/01/2020-04/30/2022,By Total,Michigan,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,526.0,1022.0
+01/01/2020-04/30/2022,By Total,Michigan,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,11721.0,16433.0
+01/01/2020-04/30/2022,By Total,Michigan,COVID-19,COVID-19,U071,All Ages,31802.0,31802.0
+01/01/2020-04/30/2022,By Total,Minnesota,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,4434.0,4698.0
+01/01/2020-04/30/2022,By Total,Minnesota,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,1751.0,1808.0
+01/01/2020-04/30/2022,By Total,Minnesota,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,1721.0,1721.0
+01/01/2020-04/30/2022,By Total,Minnesota,Respiratory diseases,Respiratory failure,J96,All Ages,4179.0,4363.0
+01/01/2020-04/30/2022,By Total,Minnesota,Respiratory diseases,Respiratory arrest,R09.2,All Ages,130.0,130.0
+01/01/2020-04/30/2022,By Total,Minnesota,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,729.0,791.0
+01/01/2020-04/30/2022,By Total,Minnesota,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,3248.0,3295.0
+01/01/2020-04/30/2022,By Total,Minnesota,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,1818.0,1955.0
+01/01/2020-04/30/2022,By Total,Minnesota,Circulatory diseases,Cardiac arrest,I46,All Ages,486.0,486.0
+01/01/2020-04/30/2022,By Total,Minnesota,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,1542.0,1580.0
+01/01/2020-04/30/2022,By Total,Minnesota,Circulatory diseases,Heart failure,I50,All Ages,1619.0,1620.0
+01/01/2020-04/30/2022,By Total,Minnesota,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,1039.0,1080.0
+01/01/2020-04/30/2022,By Total,Minnesota,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,1615.0,1813.0
+01/01/2020-04/30/2022,By Total,Minnesota,Sepsis,Sepsis,A40-A41,All Ages,916.0,917.0
+01/01/2020-04/30/2022,By Total,Minnesota,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,1083.0,1246.0
+01/01/2020-04/30/2022,By Total,Minnesota,Diabetes,Diabetes,E10-E14,All Ages,2393.0,2409.0
+01/01/2020-04/30/2022,By Total,Minnesota,Obesity,Obesity,E65-E68,All Ages,734.0,736.0
+01/01/2020-04/30/2022,By Total,Minnesota,Alzheimer disease,Alzheimer disease,G30,All Ages,889.0,894.0
+01/01/2020-04/30/2022,By Total,Minnesota,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,2044.0,2050.0
+01/01/2020-04/30/2022,By Total,Minnesota,Renal failure,Renal failure,N17-N19,All Ages,1433.0,1507.0
+01/01/2020-04/30/2022,By Total,Minnesota,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,582.0,1115.0
+01/01/2020-04/30/2022,By Total,Minnesota,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,7222.0,12969.0
+01/01/2020-04/30/2022,By Total,Minnesota,COVID-19,COVID-19,U071,All Ages,12700.0,12700.0
+01/01/2020-04/30/2022,By Total,Mississippi,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,6260.0,6311.0
+01/01/2020-04/30/2022,By Total,Mississippi,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,1337.0,1392.0
+01/01/2020-04/30/2022,By Total,Mississippi,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,1641.0,1641.0
+01/01/2020-04/30/2022,By Total,Mississippi,Respiratory diseases,Respiratory failure,J96,All Ages,6820.0,6934.0
+01/01/2020-04/30/2022,By Total,Mississippi,Respiratory diseases,Respiratory arrest,R09.2,All Ages,487.0,487.0
+01/01/2020-04/30/2022,By Total,Mississippi,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,575.0,602.0
+01/01/2020-04/30/2022,By Total,Mississippi,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,3786.0,3864.0
+01/01/2020-04/30/2022,By Total,Mississippi,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,1460.0,1567.0
+01/01/2020-04/30/2022,By Total,Mississippi,Circulatory diseases,Cardiac arrest,I46,All Ages,1673.0,1679.0
+01/01/2020-04/30/2022,By Total,Mississippi,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,884.0,895.0
+01/01/2020-04/30/2022,By Total,Mississippi,Circulatory diseases,Heart failure,I50,All Ages,1317.0,1317.0
+01/01/2020-04/30/2022,By Total,Mississippi,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,783.0,793.0
+01/01/2020-04/30/2022,By Total,Mississippi,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,1129.0,1202.0
+01/01/2020-04/30/2022,By Total,Mississippi,Sepsis,Sepsis,A40-A41,All Ages,1331.0,1331.0
+01/01/2020-04/30/2022,By Total,Mississippi,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,871.0,997.0
+01/01/2020-04/30/2022,By Total,Mississippi,Diabetes,Diabetes,E10-E14,All Ages,2398.0,2409.0
+01/01/2020-04/30/2022,By Total,Mississippi,Obesity,Obesity,E65-E68,All Ages,625.0,625.0
+01/01/2020-04/30/2022,By Total,Mississippi,Alzheimer disease,Alzheimer disease,G30,All Ages,395.0,400.0
+01/01/2020-04/30/2022,By Total,Mississippi,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,762.0,764.0
+01/01/2020-04/30/2022,By Total,Mississippi,Renal failure,Renal failure,N17-N19,All Ages,1371.0,1411.0
+01/01/2020-04/30/2022,By Total,Mississippi,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,269.0,482.0
+01/01/2020-04/30/2022,By Total,Mississippi,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,5015.0,7689.0
+01/01/2020-04/30/2022,By Total,Mississippi,COVID-19,COVID-19,U071,All Ages,13097.0,13097.0
+01/01/2020-04/30/2022,By Total,Missouri,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,9524.0,9905.0
+01/01/2020-04/30/2022,By Total,Missouri,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,1687.0,1759.0
+01/01/2020-04/30/2022,By Total,Missouri,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,2021.0,2021.0
+01/01/2020-04/30/2022,By Total,Missouri,Respiratory diseases,Respiratory failure,J96,All Ages,7544.0,7759.0
+01/01/2020-04/30/2022,By Total,Missouri,Respiratory diseases,Respiratory arrest,R09.2,All Ages,346.0,346.0
+01/01/2020-04/30/2022,By Total,Missouri,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,959.0,1028.0
+01/01/2020-04/30/2022,By Total,Missouri,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,2038.0,2067.0
+01/01/2020-04/30/2022,By Total,Missouri,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,1668.0,1787.0
+01/01/2020-04/30/2022,By Total,Missouri,Circulatory diseases,Cardiac arrest,I46,All Ages,1267.0,1267.0
+01/01/2020-04/30/2022,By Total,Missouri,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,1352.0,1384.0
+01/01/2020-04/30/2022,By Total,Missouri,Circulatory diseases,Heart failure,I50,All Ages,1533.0,1533.0
+01/01/2020-04/30/2022,By Total,Missouri,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,961.0,991.0
+01/01/2020-04/30/2022,By Total,Missouri,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,1413.0,1534.0
+01/01/2020-04/30/2022,By Total,Missouri,Sepsis,Sepsis,A40-A41,All Ages,1739.0,1739.0
+01/01/2020-04/30/2022,By Total,Missouri,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,974.0,1092.0
+01/01/2020-04/30/2022,By Total,Missouri,Diabetes,Diabetes,E10-E14,All Ages,1940.0,1963.0
+01/01/2020-04/30/2022,By Total,Missouri,Obesity,Obesity,E65-E68,All Ages,697.0,697.0
+01/01/2020-04/30/2022,By Total,Missouri,Alzheimer disease,Alzheimer disease,G30,All Ages,683.0,683.0
+01/01/2020-04/30/2022,By Total,Missouri,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,1286.0,1292.0
+01/01/2020-04/30/2022,By Total,Missouri,Renal failure,Renal failure,N17-N19,All Ages,2355.0,2468.0
+01/01/2020-04/30/2022,By Total,Missouri,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,388.0,693.0
+01/01/2020-04/30/2022,By Total,Missouri,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,8021.0,12186.0
+01/01/2020-04/30/2022,By Total,Missouri,COVID-19,COVID-19,U071,All Ages,20485.0,20485.0
+01/01/2020-04/30/2022,By Total,Montana,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,1677.0,1795.0
+01/01/2020-04/30/2022,By Total,Montana,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,554.0,584.0
+01/01/2020-04/30/2022,By Total,Montana,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,298.0,298.0
+01/01/2020-04/30/2022,By Total,Montana,Respiratory diseases,Respiratory failure,J96,All Ages,1791.0,1879.0
+01/01/2020-04/30/2022,By Total,Montana,Respiratory diseases,Respiratory arrest,R09.2,All Ages,79.0,79.0
+01/01/2020-04/30/2022,By Total,Montana,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,267.0,289.0
+01/01/2020-04/30/2022,By Total,Montana,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,642.0,644.0
+01/01/2020-04/30/2022,By Total,Montana,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,491.0,549.0
+01/01/2020-04/30/2022,By Total,Montana,Circulatory diseases,Cardiac arrest,I46,All Ages,188.0,188.0
+01/01/2020-04/30/2022,By Total,Montana,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,358.0,373.0
+01/01/2020-04/30/2022,By Total,Montana,Circulatory diseases,Heart failure,I50,All Ages,286.0,286.0
+01/01/2020-04/30/2022,By Total,Montana,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,194.0,203.0
+01/01/2020-04/30/2022,By Total,Montana,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,420.0,489.0
+01/01/2020-04/30/2022,By Total,Montana,Sepsis,Sepsis,A40-A41,All Ages,266.0,266.0
+01/01/2020-04/30/2022,By Total,Montana,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,248.0,272.0
+01/01/2020-04/30/2022,By Total,Montana,Diabetes,Diabetes,E10-E14,All Ages,637.0,646.0
+01/01/2020-04/30/2022,By Total,Montana,Obesity,Obesity,E65-E68,All Ages,310.0,311.0
+01/01/2020-04/30/2022,By Total,Montana,Alzheimer disease,Alzheimer disease,G30,All Ages,88.0,88.0
+01/01/2020-04/30/2022,By Total,Montana,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,316.0,317.0
+01/01/2020-04/30/2022,By Total,Montana,Renal failure,Renal failure,N17-N19,All Ages,347.0,369.0
+01/01/2020-04/30/2022,By Total,Montana,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,110.0,216.0
+01/01/2020-04/30/2022,By Total,Montana,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,1877.0,3377.0
+01/01/2020-04/30/2022,By Total,Montana,COVID-19,COVID-19,U071,All Ages,3506.0,3506.0
+01/01/2020-04/30/2022,By Total,Nebraska,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,2063.0,2188.0
+01/01/2020-04/30/2022,By Total,Nebraska,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,593.0,613.0
+01/01/2020-04/30/2022,By Total,Nebraska,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,374.0,374.0
+01/01/2020-04/30/2022,By Total,Nebraska,Respiratory diseases,Respiratory failure,J96,All Ages,2134.0,2190.0
+01/01/2020-04/30/2022,By Total,Nebraska,Respiratory diseases,Respiratory arrest,R09.2,All Ages,224.0,224.0
+01/01/2020-04/30/2022,By Total,Nebraska,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,348.0,368.0
+01/01/2020-04/30/2022,By Total,Nebraska,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,901.0,928.0
+01/01/2020-04/30/2022,By Total,Nebraska,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,558.0,591.0
+01/01/2020-04/30/2022,By Total,Nebraska,Circulatory diseases,Cardiac arrest,I46,All Ages,492.0,492.0
+01/01/2020-04/30/2022,By Total,Nebraska,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,596.0,614.0
+01/01/2020-04/30/2022,By Total,Nebraska,Circulatory diseases,Heart failure,I50,All Ages,530.0,530.0
+01/01/2020-04/30/2022,By Total,Nebraska,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,277.0,286.0
+01/01/2020-04/30/2022,By Total,Nebraska,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,547.0,611.0
+01/01/2020-04/30/2022,By Total,Nebraska,Sepsis,Sepsis,A40-A41,All Ages,429.0,429.0
+01/01/2020-04/30/2022,By Total,Nebraska,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,359.0,434.0
+01/01/2020-04/30/2022,By Total,Nebraska,Diabetes,Diabetes,E10-E14,All Ages,801.0,806.0
+01/01/2020-04/30/2022,By Total,Nebraska,Obesity,Obesity,E65-E68,All Ages,294.0,298.0
+01/01/2020-04/30/2022,By Total,Nebraska,Alzheimer disease,Alzheimer disease,G30,All Ages,207.0,208.0
+01/01/2020-04/30/2022,By Total,Nebraska,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,521.0,522.0
+01/01/2020-04/30/2022,By Total,Nebraska,Renal failure,Renal failure,N17-N19,All Ages,552.0,575.0
+01/01/2020-04/30/2022,By Total,Nebraska,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,163.0,286.0
+01/01/2020-04/30/2022,By Total,Nebraska,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,2560.0,4397.0
+01/01/2020-04/30/2022,By Total,Nebraska,COVID-19,COVID-19,U071,All Ages,4924.0,4924.0
+01/01/2020-04/30/2022,By Total,Nevada,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,8010.0,8076.0
+01/01/2020-04/30/2022,By Total,Nevada,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,760.0,781.0
+01/01/2020-04/30/2022,By Total,Nevada,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,4948.0,4948.0
+01/01/2020-04/30/2022,By Total,Nevada,Respiratory diseases,Respiratory failure,J96,All Ages,3309.0,3394.0
+01/01/2020-04/30/2022,By Total,Nevada,Respiratory diseases,Respiratory arrest,R09.2,All Ages,257.0,257.0
+01/01/2020-04/30/2022,By Total,Nevada,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,390.0,423.0
+01/01/2020-04/30/2022,By Total,Nevada,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,1567.0,1582.0
+01/01/2020-04/30/2022,By Total,Nevada,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,796.0,859.0
+01/01/2020-04/30/2022,By Total,Nevada,Circulatory diseases,Cardiac arrest,I46,All Ages,2552.0,2553.0
+01/01/2020-04/30/2022,By Total,Nevada,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,612.0,628.0
+01/01/2020-04/30/2022,By Total,Nevada,Circulatory diseases,Heart failure,I50,All Ages,619.0,619.0
+01/01/2020-04/30/2022,By Total,Nevada,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,401.0,418.0
+01/01/2020-04/30/2022,By Total,Nevada,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,622.0,696.0
+01/01/2020-04/30/2022,By Total,Nevada,Sepsis,Sepsis,A40-A41,All Ages,1530.0,1531.0
+01/01/2020-04/30/2022,By Total,Nevada,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,366.0,497.0
+01/01/2020-04/30/2022,By Total,Nevada,Diabetes,Diabetes,E10-E14,All Ages,1375.0,1379.0
+01/01/2020-04/30/2022,By Total,Nevada,Obesity,Obesity,E65-E68,All Ages,542.0,542.0
+01/01/2020-04/30/2022,By Total,Nevada,Alzheimer disease,Alzheimer disease,G30,All Ages,105.0,105.0
+01/01/2020-04/30/2022,By Total,Nevada,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,336.0,336.0
+01/01/2020-04/30/2022,By Total,Nevada,Renal failure,Renal failure,N17-N19,All Ages,928.0,956.0
+01/01/2020-04/30/2022,By Total,Nevada,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,222.0,411.0
+01/01/2020-04/30/2022,By Total,Nevada,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,4907.0,7152.0
+01/01/2020-04/30/2022,By Total,Nevada,COVID-19,COVID-19,U071,All Ages,10979.0,10979.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,887.0,939.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,281.0,292.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,202.0,202.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Respiratory diseases,Respiratory failure,J96,All Ages,834.0,863.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Respiratory diseases,Respiratory arrest,R09.2,All Ages,53.0,53.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,144.0,154.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,275.0,279.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,270.0,287.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Circulatory diseases,Cardiac arrest,I46,All Ages,186.0,186.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,208.0,214.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Circulatory diseases,Heart failure,I50,All Ages,240.0,240.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,120.0,124.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,229.0,244.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Sepsis,Sepsis,A40-A41,All Ages,145.0,145.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,127.0,148.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Diabetes,Diabetes,E10-E14,All Ages,272.0,275.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Obesity,Obesity,E65-E68,All Ages,99.0,99.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Alzheimer disease,Alzheimer disease,G30,All Ages,76.0,76.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,377.0,377.0
+01/01/2020-04/30/2022,By Total,New Hampshire,Renal failure,Renal failure,N17-N19,All Ages,259.0,268.0
+01/01/2020-04/30/2022,By Total,New Hampshire,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,57.0,110.0
+01/01/2020-04/30/2022,By Total,New Hampshire,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,1088.0,1595.0
+01/01/2020-04/30/2022,By Total,New Hampshire,COVID-19,COVID-19,U071,All Ages,2459.0,2459.0
+01/01/2020-04/30/2022,By Total,New Jersey,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,15201.0,15477.0
+01/01/2020-04/30/2022,By Total,New Jersey,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,1944.0,2018.0
+01/01/2020-04/30/2022,By Total,New Jersey,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,4310.0,4310.0
+01/01/2020-04/30/2022,By Total,New Jersey,Respiratory diseases,Respiratory failure,J96,All Ages,14617.0,14856.0
+01/01/2020-04/30/2022,By Total,New Jersey,Respiratory diseases,Respiratory arrest,R09.2,All Ages,1007.0,1007.0
+01/01/2020-04/30/2022,By Total,New Jersey,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,1304.0,1371.0
+01/01/2020-04/30/2022,By Total,New Jersey,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,4547.0,4571.0
+01/01/2020-04/30/2022,By Total,New Jersey,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,3258.0,3480.0
+01/01/2020-04/30/2022,By Total,New Jersey,Circulatory diseases,Cardiac arrest,I46,All Ages,7095.0,7095.0
+01/01/2020-04/30/2022,By Total,New Jersey,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,2315.0,2372.0
+01/01/2020-04/30/2022,By Total,New Jersey,Circulatory diseases,Heart failure,I50,All Ages,1989.0,1989.0
+01/01/2020-04/30/2022,By Total,New Jersey,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,1379.0,1414.0
+01/01/2020-04/30/2022,By Total,New Jersey,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,2057.0,2287.0
+01/01/2020-04/30/2022,By Total,New Jersey,Sepsis,Sepsis,A40-A41,All Ages,3647.0,3647.0
+01/01/2020-04/30/2022,By Total,New Jersey,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,1723.0,1913.0
+01/01/2020-04/30/2022,By Total,New Jersey,Diabetes,Diabetes,E10-E14,All Ages,3349.0,3370.0
+01/01/2020-04/30/2022,By Total,New Jersey,Obesity,Obesity,E65-E68,All Ages,851.0,853.0
+01/01/2020-04/30/2022,By Total,New Jersey,Alzheimer disease,Alzheimer disease,G30,All Ages,594.0,595.0
+01/01/2020-04/30/2022,By Total,New Jersey,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,2271.0,2272.0
+01/01/2020-04/30/2022,By Total,New Jersey,Renal failure,Renal failure,N17-N19,All Ages,3467.0,3622.0
+01/01/2020-04/30/2022,By Total,New Jersey,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,669.0,1217.0
+01/01/2020-04/30/2022,By Total,New Jersey,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,12996.0,20870.0
+01/01/2020-04/30/2022,By Total,New Jersey,COVID-19,COVID-19,U071,All Ages,31843.0,31843.0
+01/01/2020-04/30/2022,By Total,New Mexico,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,4107.0,4186.0
+01/01/2020-04/30/2022,By Total,New Mexico,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,593.0,605.0
+01/01/2020-04/30/2022,By Total,New Mexico,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,676.0,676.0
+01/01/2020-04/30/2022,By Total,New Mexico,Respiratory diseases,Respiratory failure,J96,All Ages,2238.0,2322.0
+01/01/2020-04/30/2022,By Total,New Mexico,Respiratory diseases,Respiratory arrest,R09.2,All Ages,158.0,158.0
+01/01/2020-04/30/2022,By Total,New Mexico,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,269.0,288.0
+01/01/2020-04/30/2022,By Total,New Mexico,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,1183.0,1192.0
+01/01/2020-04/30/2022,By Total,New Mexico,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,934.0,968.0
+01/01/2020-04/30/2022,By Total,New Mexico,Circulatory diseases,Cardiac arrest,I46,All Ages,570.0,570.0
+01/01/2020-04/30/2022,By Total,New Mexico,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,285.0,289.0
+01/01/2020-04/30/2022,By Total,New Mexico,Circulatory diseases,Heart failure,I50,All Ages,307.0,308.0
+01/01/2020-04/30/2022,By Total,New Mexico,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,254.0,262.0
+01/01/2020-04/30/2022,By Total,New Mexico,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,412.0,451.0
+01/01/2020-04/30/2022,By Total,New Mexico,Sepsis,Sepsis,A40-A41,All Ages,532.0,532.0
+01/01/2020-04/30/2022,By Total,New Mexico,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,283.0,319.0
+01/01/2020-04/30/2022,By Total,New Mexico,Diabetes,Diabetes,E10-E14,All Ages,1253.0,1259.0
+01/01/2020-04/30/2022,By Total,New Mexico,Obesity,Obesity,E65-E68,All Ages,635.0,635.0
+01/01/2020-04/30/2022,By Total,New Mexico,Alzheimer disease,Alzheimer disease,G30,All Ages,164.0,164.0
+01/01/2020-04/30/2022,By Total,New Mexico,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,388.0,388.0
+01/01/2020-04/30/2022,By Total,New Mexico,Renal failure,Renal failure,N17-N19,All Ages,680.0,695.0
+01/01/2020-04/30/2022,By Total,New Mexico,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,234.0,504.0
+01/01/2020-04/30/2022,By Total,New Mexico,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,2507.0,3768.0
+01/01/2020-04/30/2022,By Total,New Mexico,COVID-19,COVID-19,U071,All Ages,7720.0,7720.0
+01/01/2020-04/30/2022,By Total,New York,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,15180.0,15409.0
+01/01/2020-04/30/2022,By Total,New York,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,2636.0,2749.0
+01/01/2020-04/30/2022,By Total,New York,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,4533.0,4533.0
+01/01/2020-04/30/2022,By Total,New York,Respiratory diseases,Respiratory failure,J96,All Ages,12623.0,12859.0
+01/01/2020-04/30/2022,By Total,New York,Respiratory diseases,Respiratory arrest,R09.2,All Ages,1202.0,1202.0
+01/01/2020-04/30/2022,By Total,New York,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,1088.0,1121.0
+01/01/2020-04/30/2022,By Total,New York,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,5068.0,5140.0
+01/01/2020-04/30/2022,By Total,New York,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,3594.0,3848.0
+01/01/2020-04/30/2022,By Total,New York,Circulatory diseases,Cardiac arrest,I46,All Ages,8539.0,8540.0
+01/01/2020-04/30/2022,By Total,New York,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,2358.0,2403.0
+01/01/2020-04/30/2022,By Total,New York,Circulatory diseases,Heart failure,I50,All Ages,2391.0,2391.0
+01/01/2020-04/30/2022,By Total,New York,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,1400.0,1444.0
+01/01/2020-04/30/2022,By Total,New York,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,2311.0,2564.0
+01/01/2020-04/30/2022,By Total,New York,Sepsis,Sepsis,A40-A41,All Ages,2651.0,2653.0
+01/01/2020-04/30/2022,By Total,New York,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,1949.0,2230.0
+01/01/2020-04/30/2022,By Total,New York,Diabetes,Diabetes,E10-E14,All Ages,3417.0,3451.0
+01/01/2020-04/30/2022,By Total,New York,Obesity,Obesity,E65-E68,All Ages,866.0,867.0
+01/01/2020-04/30/2022,By Total,New York,Alzheimer disease,Alzheimer disease,G30,All Ages,707.0,708.0
+01/01/2020-04/30/2022,By Total,New York,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,3555.0,3558.0
+01/01/2020-04/30/2022,By Total,New York,Renal failure,Renal failure,N17-N19,All Ages,2909.0,3036.0
+01/01/2020-04/30/2022,By Total,New York,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,729.0,1412.0
+01/01/2020-04/30/2022,By Total,New York,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,13317.0,21040.0
+01/01/2020-04/30/2022,By Total,New York,COVID-19,COVID-19,U071,All Ages,35815.0,35815.0
+01/01/2020-04/30/2022,By Total,New York City,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,13352.0,13458.0
+01/01/2020-04/30/2022,By Total,New York City,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,1747.0,1813.0
+01/01/2020-04/30/2022,By Total,New York City,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,4538.0,4538.0
+01/01/2020-04/30/2022,By Total,New York City,Respiratory diseases,Respiratory failure,J96,All Ages,9735.0,9777.0
+01/01/2020-04/30/2022,By Total,New York City,Respiratory diseases,Respiratory arrest,R09.2,All Ages,753.0,753.0
+01/01/2020-04/30/2022,By Total,New York City,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,874.0,896.0
+01/01/2020-04/30/2022,By Total,New York City,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,7718.0,7794.0
+01/01/2020-04/30/2022,By Total,New York City,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,3516.0,3661.0
+01/01/2020-04/30/2022,By Total,New York City,Circulatory diseases,Cardiac arrest,I46,All Ages,7879.0,7879.0
+01/01/2020-04/30/2022,By Total,New York City,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,1080.0,1114.0
+01/01/2020-04/30/2022,By Total,New York City,Circulatory diseases,Heart failure,I50,All Ages,1272.0,1273.0
+01/01/2020-04/30/2022,By Total,New York City,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,888.0,911.0
+01/01/2020-04/30/2022,By Total,New York City,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,1196.0,1292.0
+01/01/2020-04/30/2022,By Total,New York City,Sepsis,Sepsis,A40-A41,All Ages,1493.0,1494.0
+01/01/2020-04/30/2022,By Total,New York City,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,1713.0,1979.0
+01/01/2020-04/30/2022,By Total,New York City,Diabetes,Diabetes,E10-E14,All Ages,4669.0,4682.0
+01/01/2020-04/30/2022,By Total,New York City,Obesity,Obesity,E65-E68,All Ages,743.0,746.0
+01/01/2020-04/30/2022,By Total,New York City,Alzheimer disease,Alzheimer disease,G30,All Ages,412.0,413.0
+01/01/2020-04/30/2022,By Total,New York City,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,1519.0,1519.0
+01/01/2020-04/30/2022,By Total,New York City,Renal failure,Renal failure,N17-N19,All Ages,1391.0,1427.0
+01/01/2020-04/30/2022,By Total,New York City,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,316.0,604.0
+01/01/2020-04/30/2022,By Total,New York City,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,7482.0,10523.0
+01/01/2020-04/30/2022,By Total,New York City,COVID-19,COVID-19,U071,All Ages,34952.0,34952.0
+01/01/2020-04/30/2022,By Total,North Carolina,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,14830.0,15203.0
+01/01/2020-04/30/2022,By Total,North Carolina,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,2337.0,2435.0
+01/01/2020-04/30/2022,By Total,North Carolina,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,2210.0,2210.0
+01/01/2020-04/30/2022,By Total,North Carolina,Respiratory diseases,Respiratory failure,J96,All Ages,11428.0,11797.0
+01/01/2020-04/30/2022,By Total,North Carolina,Respiratory diseases,Respiratory arrest,R09.2,All Ages,410.0,410.0
+01/01/2020-04/30/2022,By Total,North Carolina,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,1394.0,1474.0
+01/01/2020-04/30/2022,By Total,North Carolina,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,3264.0,3303.0
+01/01/2020-04/30/2022,By Total,North Carolina,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,2268.0,2402.0
+01/01/2020-04/30/2022,By Total,North Carolina,Circulatory diseases,Cardiac arrest,I46,All Ages,2763.0,2763.0
+01/01/2020-04/30/2022,By Total,North Carolina,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,2030.0,2081.0
+01/01/2020-04/30/2022,By Total,North Carolina,Circulatory diseases,Heart failure,I50,All Ages,2099.0,2102.0
+01/01/2020-04/30/2022,By Total,North Carolina,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,1440.0,1486.0
+01/01/2020-04/30/2022,By Total,North Carolina,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,2011.0,2179.0
+01/01/2020-04/30/2022,By Total,North Carolina,Sepsis,Sepsis,A40-A41,All Ages,2549.0,2549.0
+01/01/2020-04/30/2022,By Total,North Carolina,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,1360.0,1515.0
+01/01/2020-04/30/2022,By Total,North Carolina,Diabetes,Diabetes,E10-E14,All Ages,3239.0,3262.0
+01/01/2020-04/30/2022,By Total,North Carolina,Obesity,Obesity,E65-E68,All Ages,1223.0,1227.0
+01/01/2020-04/30/2022,By Total,North Carolina,Alzheimer disease,Alzheimer disease,G30,All Ages,783.0,786.0
+01/01/2020-04/30/2022,By Total,North Carolina,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,2376.0,2382.0
+01/01/2020-04/30/2022,By Total,North Carolina,Renal failure,Renal failure,N17-N19,All Ages,3633.0,3831.0
+01/01/2020-04/30/2022,By Total,North Carolina,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,663.0,1172.0
+01/01/2020-04/30/2022,By Total,North Carolina,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,12197.0,18080.0
+01/01/2020-04/30/2022,By Total,North Carolina,COVID-19,COVID-19,U071,All Ages,28241.0,28241.0
+01/01/2020-04/30/2022,By Total,North Dakota,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,1401.0,1469.0
+01/01/2020-04/30/2022,By Total,North Dakota,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,276.0,297.0
+01/01/2020-04/30/2022,By Total,North Dakota,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,331.0,331.0
+01/01/2020-04/30/2022,By Total,North Dakota,Respiratory diseases,Respiratory failure,J96,All Ages,1059.0,1098.0
+01/01/2020-04/30/2022,By Total,North Dakota,Respiratory diseases,Respiratory arrest,R09.2,All Ages,76.0,76.0
+01/01/2020-04/30/2022,By Total,North Dakota,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,167.0,177.0
+01/01/2020-04/30/2022,By Total,North Dakota,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,326.0,328.0
+01/01/2020-04/30/2022,By Total,North Dakota,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,291.0,312.0
+01/01/2020-04/30/2022,By Total,North Dakota,Circulatory diseases,Cardiac arrest,I46,All Ages,189.0,189.0
+01/01/2020-04/30/2022,By Total,North Dakota,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,205.0,215.0
+01/01/2020-04/30/2022,By Total,North Dakota,Circulatory diseases,Heart failure,I50,All Ages,282.0,285.0
+01/01/2020-04/30/2022,By Total,North Dakota,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,144.0,149.0
+01/01/2020-04/30/2022,By Total,North Dakota,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,241.0,281.0
+01/01/2020-04/30/2022,By Total,North Dakota,Sepsis,Sepsis,A40-A41,All Ages,267.0,267.0
+01/01/2020-04/30/2022,By Total,North Dakota,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,166.0,188.0
+01/01/2020-04/30/2022,By Total,North Dakota,Diabetes,Diabetes,E10-E14,All Ages,322.0,325.0
+01/01/2020-04/30/2022,By Total,North Dakota,Obesity,Obesity,E65-E68,All Ages,149.0,149.0
+01/01/2020-04/30/2022,By Total,North Dakota,Alzheimer disease,Alzheimer disease,G30,All Ages,174.0,174.0
+01/01/2020-04/30/2022,By Total,North Dakota,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,188.0,189.0
+01/01/2020-04/30/2022,By Total,North Dakota,Renal failure,Renal failure,N17-N19,All Ages,390.0,408.0
+01/01/2020-04/30/2022,By Total,North Dakota,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,92.0,181.0
+01/01/2020-04/30/2022,By Total,North Dakota,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,1321.0,2191.0
+01/01/2020-04/30/2022,By Total,North Dakota,COVID-19,COVID-19,U071,All Ages,2750.0,2750.0
+01/01/2020-04/30/2022,By Total,Ohio,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,20749.0,21290.0
+01/01/2020-04/30/2022,By Total,Ohio,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,3858.0,3988.0
+01/01/2020-04/30/2022,By Total,Ohio,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,4072.0,4072.0
+01/01/2020-04/30/2022,By Total,Ohio,Respiratory diseases,Respiratory failure,J96,All Ages,17745.0,18418.0
+01/01/2020-04/30/2022,By Total,Ohio,Respiratory diseases,Respiratory arrest,R09.2,All Ages,826.0,826.0
+01/01/2020-04/30/2022,By Total,Ohio,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,1816.0,1907.0
+01/01/2020-04/30/2022,By Total,Ohio,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,5422.0,5503.0
+01/01/2020-04/30/2022,By Total,Ohio,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,4171.0,4510.0
+01/01/2020-04/30/2022,By Total,Ohio,Circulatory diseases,Cardiac arrest,I46,All Ages,4326.0,4327.0
+01/01/2020-04/30/2022,By Total,Ohio,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,3115.0,3180.0
+01/01/2020-04/30/2022,By Total,Ohio,Circulatory diseases,Heart failure,I50,All Ages,3302.0,3303.0
+01/01/2020-04/30/2022,By Total,Ohio,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,2237.0,2312.0
+01/01/2020-04/30/2022,By Total,Ohio,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,3202.0,3459.0
+01/01/2020-04/30/2022,By Total,Ohio,Sepsis,Sepsis,A40-A41,All Ages,3903.0,3906.0
+01/01/2020-04/30/2022,By Total,Ohio,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,2391.0,2800.0
+01/01/2020-04/30/2022,By Total,Ohio,Diabetes,Diabetes,E10-E14,All Ages,4872.0,4906.0
+01/01/2020-04/30/2022,By Total,Ohio,Obesity,Obesity,E65-E68,All Ages,1434.0,1435.0
+01/01/2020-04/30/2022,By Total,Ohio,Alzheimer disease,Alzheimer disease,G30,All Ages,1467.0,1475.0
+01/01/2020-04/30/2022,By Total,Ohio,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,3473.0,3478.0
+01/01/2020-04/30/2022,By Total,Ohio,Renal failure,Renal failure,N17-N19,All Ages,3781.0,3944.0
+01/01/2020-04/30/2022,By Total,Ohio,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,903.0,1647.0
+01/01/2020-04/30/2022,By Total,Ohio,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,18334.0,27636.0
+01/01/2020-04/30/2022,By Total,Ohio,COVID-19,COVID-19,U071,All Ages,43292.0,43292.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,6610.0,6792.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,2340.0,2408.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,819.0,819.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Respiratory diseases,Respiratory failure,J96,All Ages,3493.0,3608.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Respiratory diseases,Respiratory arrest,R09.2,All Ages,235.0,235.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,1010.0,1049.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,5862.0,5931.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,2031.0,2142.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Circulatory diseases,Cardiac arrest,I46,All Ages,955.0,955.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,1402.0,1426.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Circulatory diseases,Heart failure,I50,All Ages,1543.0,1544.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,981.0,1008.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,1185.0,1309.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Sepsis,Sepsis,A40-A41,All Ages,1932.0,1932.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,1011.0,1134.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Diabetes,Diabetes,E10-E14,All Ages,3917.0,3936.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Obesity,Obesity,E65-E68,All Ages,1473.0,1476.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Alzheimer disease,Alzheimer disease,G30,All Ages,593.0,593.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,1335.0,1337.0
+01/01/2020-04/30/2022,By Total,Oklahoma,Renal failure,Renal failure,N17-N19,All Ages,1665.0,1726.0
+01/01/2020-04/30/2022,By Total,Oklahoma,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,468.0,929.0
+01/01/2020-04/30/2022,By Total,Oklahoma,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,7090.0,11160.0
+01/01/2020-04/30/2022,By Total,Oklahoma,COVID-19,COVID-19,U071,All Ages,15916.0,15916.0
+01/01/2020-04/30/2022,By Total,Oregon,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,2779.0,2961.0
+01/01/2020-04/30/2022,By Total,Oregon,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,798.0,827.0
+01/01/2020-04/30/2022,By Total,Oregon,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,792.0,792.0
+01/01/2020-04/30/2022,By Total,Oregon,Respiratory diseases,Respiratory failure,J96,All Ages,2441.0,2532.0
+01/01/2020-04/30/2022,By Total,Oregon,Respiratory diseases,Respiratory arrest,R09.2,All Ages,115.0,115.0
+01/01/2020-04/30/2022,By Total,Oregon,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,435.0,470.0
+01/01/2020-04/30/2022,By Total,Oregon,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,1172.0,1199.0
+01/01/2020-04/30/2022,By Total,Oregon,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,745.0,820.0
+01/01/2020-04/30/2022,By Total,Oregon,Circulatory diseases,Cardiac arrest,I46,All Ages,374.0,375.0
+01/01/2020-04/30/2022,By Total,Oregon,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,816.0,843.0
+01/01/2020-04/30/2022,By Total,Oregon,Circulatory diseases,Heart failure,I50,All Ages,867.0,869.0
+01/01/2020-04/30/2022,By Total,Oregon,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,513.0,533.0
+01/01/2020-04/30/2022,By Total,Oregon,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,774.0,864.0
+01/01/2020-04/30/2022,By Total,Oregon,Sepsis,Sepsis,A40-A41,All Ages,433.0,433.0
+01/01/2020-04/30/2022,By Total,Oregon,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,461.0,574.0
+01/01/2020-04/30/2022,By Total,Oregon,Diabetes,Diabetes,E10-E14,All Ages,1186.0,1192.0
+01/01/2020-04/30/2022,By Total,Oregon,Obesity,Obesity,E65-E68,All Ages,465.0,467.0
+01/01/2020-04/30/2022,By Total,Oregon,Alzheimer disease,Alzheimer disease,G30,All Ages,410.0,412.0
+01/01/2020-04/30/2022,By Total,Oregon,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,891.0,893.0
+01/01/2020-04/30/2022,By Total,Oregon,Renal failure,Renal failure,N17-N19,All Ages,844.0,889.0
+01/01/2020-04/30/2022,By Total,Oregon,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,240.0,438.0
+01/01/2020-04/30/2022,By Total,Oregon,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,3690.0,6216.0
+01/01/2020-04/30/2022,By Total,Oregon,COVID-19,COVID-19,U071,All Ages,7137.0,7137.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,19509.0,20054.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,3933.0,4103.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,3552.0,3552.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Respiratory diseases,Respiratory failure,J96,All Ages,20720.0,21237.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Respiratory diseases,Respiratory arrest,R09.2,All Ages,981.0,981.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,2081.0,2177.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,6760.0,6832.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,4745.0,5111.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Circulatory diseases,Cardiac arrest,I46,All Ages,3686.0,3686.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,4144.0,4255.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Circulatory diseases,Heart failure,I50,All Ages,3991.0,3992.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,2392.0,2478.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,3805.0,4188.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Sepsis,Sepsis,A40-A41,All Ages,4041.0,4041.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,2674.0,3037.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Diabetes,Diabetes,E10-E14,All Ages,5302.0,5345.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Obesity,Obesity,E65-E68,All Ages,1708.0,1712.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Alzheimer disease,Alzheimer disease,G30,All Ages,1313.0,1314.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,4566.0,4571.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,Renal failure,Renal failure,N17-N19,All Ages,4772.0,5032.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,1292.0,2436.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,19558.0,30732.0
+01/01/2020-04/30/2022,By Total,Pennsylvania,COVID-19,COVID-19,U071,All Ages,45939.0,45939.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,1482.0,1527.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,396.0,407.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,414.0,414.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Respiratory diseases,Respiratory failure,J96,All Ages,1072.0,1082.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Respiratory diseases,Respiratory arrest,R09.2,All Ages,60.0,60.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,189.0,193.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,514.0,521.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,486.0,525.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Circulatory diseases,Cardiac arrest,I46,All Ages,325.0,326.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,287.0,290.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Circulatory diseases,Heart failure,I50,All Ages,404.0,404.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,201.0,206.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,275.0,306.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Sepsis,Sepsis,A40-A41,All Ages,218.0,220.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,254.0,281.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Diabetes,Diabetes,E10-E14,All Ages,361.0,364.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Obesity,Obesity,E65-E68,All Ages,87.0,87.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Alzheimer disease,Alzheimer disease,G30,All Ages,168.0,168.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,474.0,475.0
+01/01/2020-04/30/2022,By Total,Rhode Island,Renal failure,Renal failure,N17-N19,All Ages,413.0,437.0
+01/01/2020-04/30/2022,By Total,Rhode Island,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,123.0,261.0
+01/01/2020-04/30/2022,By Total,Rhode Island,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,1531.0,2353.0
+01/01/2020-04/30/2022,By Total,Rhode Island,COVID-19,COVID-19,U071,All Ages,3584.0,3584.0
+01/01/2020-04/30/2022,By Total,South Carolina,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,7231.0,7569.0
+01/01/2020-04/30/2022,By Total,South Carolina,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,1614.0,1715.0
+01/01/2020-04/30/2022,By Total,South Carolina,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,1761.0,1761.0
+01/01/2020-04/30/2022,By Total,South Carolina,Respiratory diseases,Respiratory failure,J96,All Ages,7051.0,7399.0
+01/01/2020-04/30/2022,By Total,South Carolina,Respiratory diseases,Respiratory arrest,R09.2,All Ages,301.0,301.0
+01/01/2020-04/30/2022,By Total,South Carolina,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,960.0,1022.0
+01/01/2020-04/30/2022,By Total,South Carolina,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,3862.0,3922.0
+01/01/2020-04/30/2022,By Total,South Carolina,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,1599.0,1696.0
+01/01/2020-04/30/2022,By Total,South Carolina,Circulatory diseases,Cardiac arrest,I46,All Ages,1334.0,1335.0
+01/01/2020-04/30/2022,By Total,South Carolina,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,1654.0,1711.0
+01/01/2020-04/30/2022,By Total,South Carolina,Circulatory diseases,Heart failure,I50,All Ages,1401.0,1404.0
+01/01/2020-04/30/2022,By Total,South Carolina,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,960.0,989.0
+01/01/2020-04/30/2022,By Total,South Carolina,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,1394.0,1556.0
+01/01/2020-04/30/2022,By Total,South Carolina,Sepsis,Sepsis,A40-A41,All Ages,1974.0,1974.0
+01/01/2020-04/30/2022,By Total,South Carolina,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,778.0,929.0
+01/01/2020-04/30/2022,By Total,South Carolina,Diabetes,Diabetes,E10-E14,All Ages,2953.0,2990.0
+01/01/2020-04/30/2022,By Total,South Carolina,Obesity,Obesity,E65-E68,All Ages,1355.0,1361.0
+01/01/2020-04/30/2022,By Total,South Carolina,Alzheimer disease,Alzheimer disease,G30,All Ages,453.0,456.0
+01/01/2020-04/30/2022,By Total,South Carolina,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,1463.0,1469.0
+01/01/2020-04/30/2022,By Total,South Carolina,Renal failure,Renal failure,N17-N19,All Ages,2457.0,2670.0
+01/01/2020-04/30/2022,By Total,South Carolina,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,508.0,950.0
+01/01/2020-04/30/2022,By Total,South Carolina,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,8246.0,15110.0
+01/01/2020-04/30/2022,By Total,South Carolina,COVID-19,COVID-19,U071,All Ages,17814.0,17814.0
+01/01/2020-04/30/2022,By Total,South Dakota,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,1293.0,1383.0
+01/01/2020-04/30/2022,By Total,South Dakota,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,438.0,464.0
+01/01/2020-04/30/2022,By Total,South Dakota,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,379.0,379.0
+01/01/2020-04/30/2022,By Total,South Dakota,Respiratory diseases,Respiratory failure,J96,All Ages,1226.0,1273.0
+01/01/2020-04/30/2022,By Total,South Dakota,Respiratory diseases,Respiratory arrest,R09.2,All Ages,75.0,75.0
+01/01/2020-04/30/2022,By Total,South Dakota,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,228.0,258.0
+01/01/2020-04/30/2022,By Total,South Dakota,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,674.0,686.0
+01/01/2020-04/30/2022,By Total,South Dakota,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,433.0,468.0
+01/01/2020-04/30/2022,By Total,South Dakota,Circulatory diseases,Cardiac arrest,I46,All Ages,228.0,228.0
+01/01/2020-04/30/2022,By Total,South Dakota,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,350.0,359.0
+01/01/2020-04/30/2022,By Total,South Dakota,Circulatory diseases,Heart failure,I50,All Ages,391.0,391.0
+01/01/2020-04/30/2022,By Total,South Dakota,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,187.0,195.0
+01/01/2020-04/30/2022,By Total,South Dakota,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,357.0,400.0
+01/01/2020-04/30/2022,By Total,South Dakota,Sepsis,Sepsis,A40-A41,All Ages,282.0,282.0
+01/01/2020-04/30/2022,By Total,South Dakota,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,234.0,272.0
+01/01/2020-04/30/2022,By Total,South Dakota,Diabetes,Diabetes,E10-E14,All Ages,639.0,643.0
+01/01/2020-04/30/2022,By Total,South Dakota,Obesity,Obesity,E65-E68,All Ages,179.0,180.0
+01/01/2020-04/30/2022,By Total,South Dakota,Alzheimer disease,Alzheimer disease,G30,All Ages,214.0,214.0
+01/01/2020-04/30/2022,By Total,South Dakota,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,271.0,272.0
+01/01/2020-04/30/2022,By Total,South Dakota,Renal failure,Renal failure,N17-N19,All Ages,438.0,467.0
+01/01/2020-04/30/2022,By Total,South Dakota,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,71.0,151.0
+01/01/2020-04/30/2022,By Total,South Dakota,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,1790.0,3205.0
+01/01/2020-04/30/2022,By Total,South Dakota,COVID-19,COVID-19,U071,All Ages,3057.0,3057.0
+01/01/2020-04/30/2022,By Total,Tennessee,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,13195.0,13580.0
+01/01/2020-04/30/2022,By Total,Tennessee,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,2363.0,2488.0
+01/01/2020-04/30/2022,By Total,Tennessee,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,2090.0,2090.0
+01/01/2020-04/30/2022,By Total,Tennessee,Respiratory diseases,Respiratory failure,J96,All Ages,10956.0,11346.0
+01/01/2020-04/30/2022,By Total,Tennessee,Respiratory diseases,Respiratory arrest,R09.2,All Ages,352.0,352.0
+01/01/2020-04/30/2022,By Total,Tennessee,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,1353.0,1454.0
+01/01/2020-04/30/2022,By Total,Tennessee,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,3786.0,3871.0
+01/01/2020-04/30/2022,By Total,Tennessee,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,2648.0,2928.0
+01/01/2020-04/30/2022,By Total,Tennessee,Circulatory diseases,Cardiac arrest,I46,All Ages,2123.0,2124.0
+01/01/2020-04/30/2022,By Total,Tennessee,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,1914.0,1947.0
+01/01/2020-04/30/2022,By Total,Tennessee,Circulatory diseases,Heart failure,I50,All Ages,1766.0,1767.0
+01/01/2020-04/30/2022,By Total,Tennessee,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,1308.0,1352.0
+01/01/2020-04/30/2022,By Total,Tennessee,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,1941.0,2164.0
+01/01/2020-04/30/2022,By Total,Tennessee,Sepsis,Sepsis,A40-A41,All Ages,2826.0,2827.0
+01/01/2020-04/30/2022,By Total,Tennessee,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,1224.0,1442.0
+01/01/2020-04/30/2022,By Total,Tennessee,Diabetes,Diabetes,E10-E14,All Ages,3241.0,3269.0
+01/01/2020-04/30/2022,By Total,Tennessee,Obesity,Obesity,E65-E68,All Ages,1159.0,1165.0
+01/01/2020-04/30/2022,By Total,Tennessee,Alzheimer disease,Alzheimer disease,G30,All Ages,582.0,582.0
+01/01/2020-04/30/2022,By Total,Tennessee,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,1612.0,1617.0
+01/01/2020-04/30/2022,By Total,Tennessee,Renal failure,Renal failure,N17-N19,All Ages,2793.0,2964.0
+01/01/2020-04/30/2022,By Total,Tennessee,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,581.0,1053.0
+01/01/2020-04/30/2022,By Total,Tennessee,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,11045.0,17318.0
+01/01/2020-04/30/2022,By Total,Tennessee,COVID-19,COVID-19,U071,All Ages,26088.0,26088.0
+01/01/2020-04/30/2022,By Total,Texas,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,51798.0,53443.0
+01/01/2020-04/30/2022,By Total,Texas,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,6859.0,7197.0
+01/01/2020-04/30/2022,By Total,Texas,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,8893.0,8893.0
+01/01/2020-04/30/2022,By Total,Texas,Respiratory diseases,Respiratory failure,J96,All Ages,34928.0,36003.0
+01/01/2020-04/30/2022,By Total,Texas,Respiratory diseases,Respiratory arrest,R09.2,All Ages,944.0,944.0
+01/01/2020-04/30/2022,By Total,Texas,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,5479.0,5886.0
+01/01/2020-04/30/2022,By Total,Texas,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,19209.0,19415.0
+01/01/2020-04/30/2022,By Total,Texas,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,9919.0,10636.0
+01/01/2020-04/30/2022,By Total,Texas,Circulatory diseases,Cardiac arrest,I46,All Ages,6933.0,6938.0
+01/01/2020-04/30/2022,By Total,Texas,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,7584.0,7787.0
+01/01/2020-04/30/2022,By Total,Texas,Circulatory diseases,Heart failure,I50,All Ages,6793.0,6805.0
+01/01/2020-04/30/2022,By Total,Texas,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,4299.0,4450.0
+01/01/2020-04/30/2022,By Total,Texas,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,6673.0,7270.0
+01/01/2020-04/30/2022,By Total,Texas,Sepsis,Sepsis,A40-A41,All Ages,12125.0,12129.0
+01/01/2020-04/30/2022,By Total,Texas,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,4058.0,4784.0
+01/01/2020-04/30/2022,By Total,Texas,Diabetes,Diabetes,E10-E14,All Ages,17405.0,17561.0
+01/01/2020-04/30/2022,By Total,Texas,Obesity,Obesity,E65-E68,All Ages,6397.0,6426.0
+01/01/2020-04/30/2022,By Total,Texas,Alzheimer disease,Alzheimer disease,G30,All Ages,2404.0,2407.0
+01/01/2020-04/30/2022,By Total,Texas,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,4914.0,4919.0
+01/01/2020-04/30/2022,By Total,Texas,Renal failure,Renal failure,N17-N19,All Ages,14026.0,14705.0
+01/01/2020-04/30/2022,By Total,Texas,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,2192.0,3942.0
+01/01/2020-04/30/2022,By Total,Texas,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,39641.0,64264.0
+01/01/2020-04/30/2022,By Total,Texas,COVID-19,COVID-19,U071,All Ages,94625.0,94625.0
+01/01/2020-04/30/2022,By Total,Utah,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,2388.0,2513.0
+01/01/2020-04/30/2022,By Total,Utah,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,357.0,381.0
+01/01/2020-04/30/2022,By Total,Utah,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,1051.0,1051.0
+01/01/2020-04/30/2022,By Total,Utah,Respiratory diseases,Respiratory failure,J96,All Ages,1849.0,1952.0
+01/01/2020-04/30/2022,By Total,Utah,Respiratory diseases,Respiratory arrest,R09.2,All Ages,119.0,119.0
+01/01/2020-04/30/2022,By Total,Utah,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,380.0,417.0
+01/01/2020-04/30/2022,By Total,Utah,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,610.0,620.0
+01/01/2020-04/30/2022,By Total,Utah,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,449.0,491.0
+01/01/2020-04/30/2022,By Total,Utah,Circulatory diseases,Cardiac arrest,I46,All Ages,327.0,327.0
+01/01/2020-04/30/2022,By Total,Utah,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,348.0,354.0
+01/01/2020-04/30/2022,By Total,Utah,Circulatory diseases,Heart failure,I50,All Ages,437.0,438.0
+01/01/2020-04/30/2022,By Total,Utah,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,255.0,265.0
+01/01/2020-04/30/2022,By Total,Utah,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,488.0,525.0
+01/01/2020-04/30/2022,By Total,Utah,Sepsis,Sepsis,A40-A41,All Ages,635.0,636.0
+01/01/2020-04/30/2022,By Total,Utah,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,262.0,293.0
+01/01/2020-04/30/2022,By Total,Utah,Diabetes,Diabetes,E10-E14,All Ages,734.0,737.0
+01/01/2020-04/30/2022,By Total,Utah,Obesity,Obesity,E65-E68,All Ages,478.0,478.0
+01/01/2020-04/30/2022,By Total,Utah,Alzheimer disease,Alzheimer disease,G30,All Ages,176.0,176.0
+01/01/2020-04/30/2022,By Total,Utah,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,326.0,326.0
+01/01/2020-04/30/2022,By Total,Utah,Renal failure,Renal failure,N17-N19,All Ages,658.0,707.0
+01/01/2020-04/30/2022,By Total,Utah,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,199.0,410.0
+01/01/2020-04/30/2022,By Total,Utah,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,2404.0,3833.0
+01/01/2020-04/30/2022,By Total,Utah,COVID-19,COVID-19,U071,All Ages,5100.0,5100.0
+01/01/2020-04/30/2022,By Total,Vermont,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,194.0,201.0
+01/01/2020-04/30/2022,By Total,Vermont,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,109.0,116.0
+01/01/2020-04/30/2022,By Total,Vermont,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,34.0,34.0
+01/01/2020-04/30/2022,By Total,Vermont,Respiratory diseases,Respiratory failure,J96,All Ages,192.0,200.0
+01/01/2020-04/30/2022,By Total,Vermont,Respiratory diseases,Respiratory arrest,R09.2,All Ages,21.0,21.0
+01/01/2020-04/30/2022,By Total,Vermont,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,59.0,67.0
+01/01/2020-04/30/2022,By Total,Vermont,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,136.0,141.0
+01/01/2020-04/30/2022,By Total,Vermont,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,112.0,118.0
+01/01/2020-04/30/2022,By Total,Vermont,Circulatory diseases,Cardiac arrest,I46,All Ages,39.0,39.0
+01/01/2020-04/30/2022,By Total,Vermont,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,68.0,70.0
+01/01/2020-04/30/2022,By Total,Vermont,Circulatory diseases,Heart failure,I50,All Ages,82.0,82.0
+01/01/2020-04/30/2022,By Total,Vermont,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,52.0,54.0
+01/01/2020-04/30/2022,By Total,Vermont,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,89.0,106.0
+01/01/2020-04/30/2022,By Total,Vermont,Sepsis,Sepsis,A40-A41,All Ages,35.0,35.0
+01/01/2020-04/30/2022,By Total,Vermont,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,49.0,60.0
+01/01/2020-04/30/2022,By Total,Vermont,Diabetes,Diabetes,E10-E14,All Ages,105.0,106.0
+01/01/2020-04/30/2022,By Total,Vermont,Obesity,Obesity,E65-E68,All Ages,41.0,42.0
+01/01/2020-04/30/2022,By Total,Vermont,Alzheimer disease,Alzheimer disease,G30,All Ages,43.0,43.0
+01/01/2020-04/30/2022,By Total,Vermont,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,97.0,98.0
+01/01/2020-04/30/2022,By Total,Vermont,Renal failure,Renal failure,N17-N19,All Ages,43.0,45.0
+01/01/2020-04/30/2022,By Total,Vermont,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,28.0,60.0
+01/01/2020-04/30/2022,By Total,Vermont,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,391.0,711.0
+01/01/2020-04/30/2022,By Total,Vermont,COVID-19,COVID-19,U071,All Ages,616.0,616.0
+01/01/2020-04/30/2022,By Total,Virginia,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,8165.0,8428.0
+01/01/2020-04/30/2022,By Total,Virginia,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,1399.0,1476.0
+01/01/2020-04/30/2022,By Total,Virginia,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,1621.0,1621.0
+01/01/2020-04/30/2022,By Total,Virginia,Respiratory diseases,Respiratory failure,J96,All Ages,5588.0,5789.0
+01/01/2020-04/30/2022,By Total,Virginia,Respiratory diseases,Respiratory arrest,R09.2,All Ages,133.0,133.0
+01/01/2020-04/30/2022,By Total,Virginia,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,974.0,1050.0
+01/01/2020-04/30/2022,By Total,Virginia,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,2139.0,2173.0
+01/01/2020-04/30/2022,By Total,Virginia,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,1645.0,1788.0
+01/01/2020-04/30/2022,By Total,Virginia,Circulatory diseases,Cardiac arrest,I46,All Ages,806.0,807.0
+01/01/2020-04/30/2022,By Total,Virginia,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,1447.0,1485.0
+01/01/2020-04/30/2022,By Total,Virginia,Circulatory diseases,Heart failure,I50,All Ages,1474.0,1476.0
+01/01/2020-04/30/2022,By Total,Virginia,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,922.0,956.0
+01/01/2020-04/30/2022,By Total,Virginia,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,1300.0,1426.0
+01/01/2020-04/30/2022,By Total,Virginia,Sepsis,Sepsis,A40-A41,All Ages,1695.0,1700.0
+01/01/2020-04/30/2022,By Total,Virginia,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,869.0,979.0
+01/01/2020-04/30/2022,By Total,Virginia,Diabetes,Diabetes,E10-E14,All Ages,2004.0,2024.0
+01/01/2020-04/30/2022,By Total,Virginia,Obesity,Obesity,E65-E68,All Ages,500.0,503.0
+01/01/2020-04/30/2022,By Total,Virginia,Alzheimer disease,Alzheimer disease,G30,All Ages,417.0,417.0
+01/01/2020-04/30/2022,By Total,Virginia,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,1701.0,1706.0
+01/01/2020-04/30/2022,By Total,Virginia,Renal failure,Renal failure,N17-N19,All Ages,2245.0,2398.0
+01/01/2020-04/30/2022,By Total,Virginia,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,355.0,640.0
+01/01/2020-04/30/2022,By Total,Virginia,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,7325.0,11296.0
+01/01/2020-04/30/2022,By Total,Virginia,COVID-19,COVID-19,U071,All Ages,19304.0,19304.0
+01/01/2020-04/30/2022,By Total,Washington,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,7010.0,7438.0
+01/01/2020-04/30/2022,By Total,Washington,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,1269.0,1339.0
+01/01/2020-04/30/2022,By Total,Washington,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,1959.0,1959.0
+01/01/2020-04/30/2022,By Total,Washington,Respiratory diseases,Respiratory failure,J96,All Ages,5324.0,5541.0
+01/01/2020-04/30/2022,By Total,Washington,Respiratory diseases,Respiratory arrest,R09.2,All Ages,272.0,272.0
+01/01/2020-04/30/2022,By Total,Washington,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,994.0,1078.0
+01/01/2020-04/30/2022,By Total,Washington,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,1828.0,1853.0
+01/01/2020-04/30/2022,By Total,Washington,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,1310.0,1432.0
+01/01/2020-04/30/2022,By Total,Washington,Circulatory diseases,Cardiac arrest,I46,All Ages,1004.0,1004.0
+01/01/2020-04/30/2022,By Total,Washington,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,1220.0,1255.0
+01/01/2020-04/30/2022,By Total,Washington,Circulatory diseases,Heart failure,I50,All Ages,1304.0,1306.0
+01/01/2020-04/30/2022,By Total,Washington,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,769.0,818.0
+01/01/2020-04/30/2022,By Total,Washington,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,1464.0,1686.0
+01/01/2020-04/30/2022,By Total,Washington,Sepsis,Sepsis,A40-A41,All Ages,1304.0,1305.0
+01/01/2020-04/30/2022,By Total,Washington,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,714.0,830.0
+01/01/2020-04/30/2022,By Total,Washington,Diabetes,Diabetes,E10-E14,All Ages,2047.0,2062.0
+01/01/2020-04/30/2022,By Total,Washington,Obesity,Obesity,E65-E68,All Ages,863.0,870.0
+01/01/2020-04/30/2022,By Total,Washington,Alzheimer disease,Alzheimer disease,G30,All Ages,713.0,714.0
+01/01/2020-04/30/2022,By Total,Washington,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,1002.0,1005.0
+01/01/2020-04/30/2022,By Total,Washington,Renal failure,Renal failure,N17-N19,All Ages,1503.0,1597.0
+01/01/2020-04/30/2022,By Total,Washington,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,522.0,1059.0
+01/01/2020-04/30/2022,By Total,Washington,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,6827.0,11977.0
+01/01/2020-04/30/2022,By Total,Washington,COVID-19,COVID-19,U071,All Ages,12008.0,12008.0
+01/01/2020-04/30/2022,By Total,West Virginia,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,3410.0,3506.0
+01/01/2020-04/30/2022,By Total,West Virginia,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,804.0,836.0
+01/01/2020-04/30/2022,By Total,West Virginia,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,717.0,717.0
+01/01/2020-04/30/2022,By Total,West Virginia,Respiratory diseases,Respiratory failure,J96,All Ages,2434.0,2523.0
+01/01/2020-04/30/2022,By Total,West Virginia,Respiratory diseases,Respiratory arrest,R09.2,All Ages,62.0,62.0
+01/01/2020-04/30/2022,By Total,West Virginia,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,358.0,380.0
+01/01/2020-04/30/2022,By Total,West Virginia,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,947.0,953.0
+01/01/2020-04/30/2022,By Total,West Virginia,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,975.0,1037.0
+01/01/2020-04/30/2022,By Total,West Virginia,Circulatory diseases,Cardiac arrest,I46,All Ages,382.0,382.0
+01/01/2020-04/30/2022,By Total,West Virginia,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,508.0,509.0
+01/01/2020-04/30/2022,By Total,West Virginia,Circulatory diseases,Heart failure,I50,All Ages,574.0,575.0
+01/01/2020-04/30/2022,By Total,West Virginia,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,309.0,311.0
+01/01/2020-04/30/2022,By Total,West Virginia,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,494.0,531.0
+01/01/2020-04/30/2022,By Total,West Virginia,Sepsis,Sepsis,A40-A41,All Ages,722.0,722.0
+01/01/2020-04/30/2022,By Total,West Virginia,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,413.0,468.0
+01/01/2020-04/30/2022,By Total,West Virginia,Diabetes,Diabetes,E10-E14,All Ages,890.0,897.0
+01/01/2020-04/30/2022,By Total,West Virginia,Obesity,Obesity,E65-E68,All Ages,243.0,245.0
+01/01/2020-04/30/2022,By Total,West Virginia,Alzheimer disease,Alzheimer disease,G30,All Ages,149.0,149.0
+01/01/2020-04/30/2022,By Total,West Virginia,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,450.0,454.0
+01/01/2020-04/30/2022,By Total,West Virginia,Renal failure,Renal failure,N17-N19,All Ages,859.0,916.0
+01/01/2020-04/30/2022,By Total,West Virginia,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,127.0,228.0
+01/01/2020-04/30/2022,By Total,West Virginia,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,2792.0,4058.0
+01/01/2020-04/30/2022,By Total,West Virginia,COVID-19,COVID-19,U071,All Ages,6813.0,6813.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,4816.0,4979.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,2221.0,2319.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,656.0,656.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Respiratory diseases,Respiratory failure,J96,All Ages,3775.0,3934.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Respiratory diseases,Respiratory arrest,R09.2,All Ages,87.0,87.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,746.0,793.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,4284.0,4319.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,2819.0,2972.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Circulatory diseases,Cardiac arrest,I46,All Ages,357.0,357.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,1668.0,1699.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Circulatory diseases,Heart failure,I50,All Ages,1831.0,1832.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,994.0,1017.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,1581.0,1768.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Sepsis,Sepsis,A40-A41,All Ages,741.0,742.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,1201.0,1355.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Diabetes,Diabetes,E10-E14,All Ages,3103.0,3133.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Obesity,Obesity,E65-E68,All Ages,1495.0,1497.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Alzheimer disease,Alzheimer disease,G30,All Ages,692.0,692.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,1693.0,1695.0
+01/01/2020-04/30/2022,By Total,Wisconsin,Renal failure,Renal failure,N17-N19,All Ages,1532.0,1634.0
+01/01/2020-04/30/2022,By Total,Wisconsin,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,515.0,1016.0
+01/01/2020-04/30/2022,By Total,Wisconsin,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,7813.0,12529.0
+01/01/2020-04/30/2022,By Total,Wisconsin,COVID-19,COVID-19,U071,All Ages,14622.0,14622.0
+01/01/2020-04/30/2022,By Total,Wyoming,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,796.0,836.0
+01/01/2020-04/30/2022,By Total,Wyoming,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,254.0,264.0
+01/01/2020-04/30/2022,By Total,Wyoming,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,125.0,125.0
+01/01/2020-04/30/2022,By Total,Wyoming,Respiratory diseases,Respiratory failure,J96,All Ages,497.0,531.0
+01/01/2020-04/30/2022,By Total,Wyoming,Respiratory diseases,Respiratory arrest,R09.2,All Ages,,
+01/01/2020-04/30/2022,By Total,Wyoming,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,122.0,141.0
+01/01/2020-04/30/2022,By Total,Wyoming,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,317.0,322.0
+01/01/2020-04/30/2022,By Total,Wyoming,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,208.0,232.0
+01/01/2020-04/30/2022,By Total,Wyoming,Circulatory diseases,Cardiac arrest,I46,All Ages,19.0,19.0
+01/01/2020-04/30/2022,By Total,Wyoming,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,153.0,155.0
+01/01/2020-04/30/2022,By Total,Wyoming,Circulatory diseases,Heart failure,I50,All Ages,106.0,106.0
+01/01/2020-04/30/2022,By Total,Wyoming,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,81.0,81.0
+01/01/2020-04/30/2022,By Total,Wyoming,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,190.0,214.0
+01/01/2020-04/30/2022,By Total,Wyoming,Sepsis,Sepsis,A40-A41,All Ages,73.0,73.0
+01/01/2020-04/30/2022,By Total,Wyoming,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,94.0,109.0
+01/01/2020-04/30/2022,By Total,Wyoming,Diabetes,Diabetes,E10-E14,All Ages,236.0,243.0
+01/01/2020-04/30/2022,By Total,Wyoming,Obesity,Obesity,E65-E68,All Ages,144.0,144.0
+01/01/2020-04/30/2022,By Total,Wyoming,Alzheimer disease,Alzheimer disease,G30,All Ages,56.0,56.0
+01/01/2020-04/30/2022,By Total,Wyoming,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,138.0,138.0
+01/01/2020-04/30/2022,By Total,Wyoming,Renal failure,Renal failure,N17-N19,All Ages,116.0,121.0
+01/01/2020-04/30/2022,By Total,Wyoming,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,82.0,141.0
+01/01/2020-04/30/2022,By Total,Wyoming,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,844.0,1543.0
+01/01/2020-04/30/2022,By Total,Wyoming,COVID-19,COVID-19,U071,All Ages,1607.0,1607.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,2936.0,2985.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,211.0,216.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,276.0,276.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Respiratory diseases,Respiratory failure,J96,All Ages,1509.0,1513.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Respiratory diseases,Respiratory arrest,R09.2,All Ages,115.0,115.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,272.0,279.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,599.0,603.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,322.0,340.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Circulatory diseases,Cardiac arrest,I46,All Ages,496.0,496.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,120.0,122.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Circulatory diseases,Heart failure,I50,All Ages,265.0,265.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,131.0,139.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,169.0,180.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Sepsis,Sepsis,A40-A41,All Ages,827.0,827.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,213.0,263.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Diabetes,Diabetes,E10-E14,All Ages,617.0,624.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Obesity,Obesity,E65-E68,All Ages,184.0,184.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Alzheimer disease,Alzheimer disease,G30,All Ages,133.0,133.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,84.0,84.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,Renal failure,Renal failure,N17-N19,All Ages,634.0,645.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,165.0,294.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,1839.0,2623.0
+01/01/2020-04/30/2022,By Total,Puerto Rico,COVID-19,COVID-19,U071,All Ages,4171.0,4171.0
