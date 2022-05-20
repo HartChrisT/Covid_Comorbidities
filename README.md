@@ -86,6 +86,31 @@ Data used in this project are acquired from Centers for Disease Control and Prev
 **Covid-19 Comorbidities Prediction*
 **Machine Learning**
 
+*Segment 2*
+
+**Preliminary Data Preprocessing** 
+Several of the columns in the individualized dataset needed to be converted to numerical columns that the machine learning model could use for its prediction. Other columns that didn't apply like `"case_month", "race", "ethnicity", "case_positive_specimen_interval", "case_onset_interval", "process", "exposure_yn", "current_status"` were dropped before loading into the ML model.
+
+
+**Feature Engineering, Feature Selection + the Decision Making Process**
+The first model that was constructed included the highest amount of columns. We wanted to look at the relationship between state, county, age, sex, hospitalization status, ICU status, and underlying conditions, and how those factors related to a death.
+
+Because our thesis was more directly related to underlying conditions and death, we revised the model to include only underlying conditions as a predictor of death. The results for this model were accurate, but were not detailed enough to be useful (the model did not predict any 1s). 
+	
+Modifying from this learning, age was reintroduced as the third variable and predictor. The same results occurred here, where the model did not predict any 1s. For this reason, we are staying with our first model that looks at multiple variables to determine a death outcome. 
+
+**Testing + Training**
+To split the model, we used a 75% 25% split for testing and training.   
+
+**Model Choice, Limitations + Benefits**
+A supervised model was chosen for this exercise because we had the outcomes we were looking to predict. In doing so, we used SK learn as well as the decision tree classifier and a confusion matrix to analyze the results. 
+
+The dataset we were using is largely disproportionate - as (happily) many more individuals who experienced Covid-19 survived rather than perished. We are happy to report on these facts, but it does pose a problem to our modeling as splitting the data could produce varied results. Recall was low in our model as well.
+
+Benefits of this approach included ease and clarity of reporting. Accuracy was very high, but this was most likely due to the skewedness of the data. 
+![enter image description here](https://github.com/jeffblando/Covid_Comorbidities/blob/MachineLearning_KT/Images/S2%20ML%20Results.jpg?raw=true)
+
+*Segment 1*
 To begin our machine learning investigation, and because the data is already labeled, we will use a supervised machine model to classify the results within our original dataset into two groups; deaths with comorbidities and deaths without comorbidities. 
 
 There are many rich data sources that we have identified to support our research on this topic. For that reason, we will most likely only include the most complete data, thus eliminating any lines with null values to ensure the highest quality result.
