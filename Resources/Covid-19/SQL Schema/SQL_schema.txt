@@ -1,8 +1,0 @@
-Covid_Contributing_conditions_monthly
--
-Month date
-State Varchar
-Condition_Group Varchar
-Condition Varchar
-Age_Group Varchar
-COVID-19_Deaths int
