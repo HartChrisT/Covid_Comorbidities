@@ -96,4 +96,11 @@ As we refine our approach, we will delve deeper into the specific comorbidities 
 
 **Visualizations**
 
-[Covid vs Pneumonia vs Influenza](https://public.tableau.com/app/profile/giovanni.bottone/viz/Segment2DeathComparison/Total_Covid_deaths_by_gender?publish=yes)
+[Storyboard](https://public.tableau.com/app/profile/giovanni.bottone/viz/Segment2StoryboardV1/Story1?publish=yes)
+
+[Description of Tools & Interractivity](https://docs.google.com/presentation/d/1HLexLPKKv-I4AnZZq3R42-6RtVfnWUKWxupJI4ClcX0/edit#slide=id.g12db21a11a1_0_0)
+
+**Presentation**
+
+[Analyis of pre-existing disease and death rates](https://docs.google.com/presentation/d/1i8Ry3hVTzgpDNV7zKgqXaR9tYIhOCbXmE6nfHRlGO4E/edit#slide=id.g12dc2ad45a7_0_0)
+
