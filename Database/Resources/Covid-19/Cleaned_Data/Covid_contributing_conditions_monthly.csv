@@ -1,0 +1,7 @@
+,0
+Month,object
+State,object
+Condition_Group,object
+Condition,object
+Age_Group,object
+COVID-19_Deaths,int32

@@ -29,7 +29,7 @@ SKLearn, Pandas & J'upyter Notebook are the ML technologies we'll be using to cr
 
 ### Dashboard
 Tableau will be the primary technology used to create an interactive, visually appealing dashboard. The two main reasons Tableau will be our primary Dashboard technology are Tableau has no row limit & Tableau allows us to avoid static dashboards. No row limit allows us to upload and analyze the millions of rows of data we've gathered, without overly-long processing times. Typically, dashboards are shared through PDF's, making them static from the moment they're sent; however, Tableau allows us to share our dashboards and will automatically update them with any changes. 
-=======
+
 # Covid Research
 
 **Pulling from multiple sources of data, this project aims to answer the question of:**
@@ -85,6 +85,7 @@ Data used in this project are acquired from Centers for Disease Control and Prev
 
 **Covid-19 Comorbidities Prediction*
 
+
 ## Machine Learning
 
 *Segment 2*
@@ -117,6 +118,7 @@ Benefits of this approach included ease and clarity of reporting. Accuracy was v
 
 *Segment 1*
 
+
 To begin our machine learning investigation, and because the data is already labeled, we will use a supervised machine model to classify the results within our original dataset into two groups; deaths with comorbidities and deaths without comorbidities. 
 
 There are many rich data sources that we have identified to support our research on this topic. For that reason, we will most likely only include the most complete data, thus eliminating any lines with null values to ensure the highest quality result.
@@ -125,3 +127,6 @@ To train the model, we will split the data into testing and training sets and an
 
 As we refine our approach, we will delve deeper into the specific comorbidities that influence death rate and make predictions using our modeling techniques that can help to predict the likelihood of a covid death and which target groups may have the highest death rates. 
 
+**Visualizations**
+
+[Covid vs Pneumonia vs Influenza](https://public.tableau.com/app/profile/giovanni.bottone/viz/Segment2DeathComparison/Total_Covid_deaths_by_gender?publish=yes)

@@ -1,0 +1,50 @@
+CREATE TABLE County_clean (
+	County_name Varchar,
+	State Varchar,
+	County_pop Int,
+	County_state Varchar,
+	joins Varchar,
+	PRIMARY KEY (joins)
+);
+
+CREATE TABLE Machine_learning_data (
+	res_state Varchar,
+	res_county Varchar,
+	age_group Varchar,
+	sex Varchar,
+	symptom_status Varchar,
+	hosp_yn Varchar,
+	icu_yn Varchar,
+	death_yn Varchar,
+	underlying_conditions_yn Varchar,
+	joins Varchar
+);
+
+CREATE TABLE deaths_by_Age_Group (
+	Age_Group Varchar,
+	COVID_Deaths Int,
+	Pneumonia_Deaths Int,
+	Influenza_deaths Int,
+	Total_deaths Int,
+	COVID_percent_total_deaths real
+);
+
+SELECT * FROM County_clean;
+
+SELECT cc.county_name, 
+	cc.state,
+	cc.county_pop,
+	ml.age_group,
+	ml.sex,
+	ml.symptom_status,
+	ml.hosp_yn,
+	ml.icu_yn,
+	ml.death_yn,
+	ml.underlying_conditions_yn
+INTO machine_learning_and_population
+FROM county_clean AS cc
+	INNER JOIN machine_learning_data AS ml
+		ON (cc.joins = ml.joins)
+ORDER BY county_pop;
+
+SELECT * FROM machine_learning_and_population;
