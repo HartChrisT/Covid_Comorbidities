@@ -76,7 +76,7 @@ The GitHub repository shall be maintained by one team member every week. This me
 
 **Database Construction**
 
- Our team will use the pandas library to clean and transform our data and export that data into CSV files. We will make sure all of the data types are accurate, drop null values, etc. Then we will create a schema/flow chart with the appropriate primary and secondary keys as well as their respective data types, and any connections that can be made between CSV files will become apparent. We will then import the clean CSV files into SQL for easy queries and analysis. Additional tables may be created with the SQL query tool depending on what needs to be analyzed.
+ Our team used the pandas library to clean and transform the raw data into a usable form for analysis. We made sure all of the data types are accurate, appropriate, and dropped all null values. We created a schema/flow chart using QuickDB to make database connections and data types easily apparent. We imported the clean CSV files into SQL for easy queries and analysis. Once in SQL, we joined census county data with individual covid case data to add more features to the machine learning model. The new table was exported to a csv and used in the machine learning model.
  
  **DataSet** 
 
