@@ -126,7 +126,7 @@ To train the model, we will split the data into testing and training sets and an
 
 As we refine our approach, we will delve deeper into the specific comorbidities that influence death rate and make predictions using our modeling techniques that can help to predict the likelihood of a covid death and which target groups may have the highest death rates. 
 
-**Visualizations**
+## Visualizations
 
 [Storyboard](https://public.tableau.com/app/profile/giovanni.bottone/viz/Segment2StoryboardV1/Story1?publish=yes)
 
