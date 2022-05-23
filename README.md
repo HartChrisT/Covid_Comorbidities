@@ -85,6 +85,7 @@ The GitHub repository shall be maintained by one team member every week. This me
 
 **Database Construction**
 
+
  Our team will use the pandas library to clean and transform our data and export that data into CSV files. We will make sure all of the data types are accurate, drop null values, etc. Then we will create a schema/flow chart with the appropriate primary and secondary keys as well as their respective data types, and any connections that can be made between CSV files will become apparent. We will then import the clean CSV files into SQL for easy queries and analysis. Additional tables may be created with the SQL query tool depending on what needs to be analyzed.
 
 Segment 2
@@ -96,6 +97,7 @@ Data is stored in postges. We also creating tables. The 3 tables were cleaned co
 
 The tables were also joined so the data can now run through the machine learning model.
 ![join](https://github.com/jeffblando/Covid_Comorbidities/blob/0388dd6d48fe8fe2a8e887940573f38c3dbf8722/Database/Database%20Images/Join%20in%20SQL.png)
+
 
 
 ## Machine Learning
@@ -139,10 +141,15 @@ To train the model, we will split the data into testing and training sets and an
 
 As we refine our approach, we will delve deeper into the specific comorbidities that influence death rate and make predictions using our modeling techniques that can help to predict the likelihood of a covid death and which target groups may have the highest death rates. 
 
-**Visualizations**
+## Visualizations
 
-[Covid vs Pneumonia vs Influenza](https://public.tableau.com/app/profile/giovanni.bottone/viz/Segment2DeathComparison/Total_Covid_deaths_by_gender?publish=yes)
+[Storyboard](https://public.tableau.com/app/profile/giovanni.bottone/viz/Segment2StoryboardV1/Story1?publish=yes)
+
+[Description of Tools & Interractivity](https://docs.google.com/presentation/d/1HLexLPKKv-I4AnZZq3R42-6RtVfnWUKWxupJI4ClcX0/edit#slide=id.p)
+
 
 **Presentation**
 
-[Analysis of pre-existing disease and death rates](https://docs.google.com/presentation/d/1i8Ry3hVTzgpDNV7zKgqXaR9tYIhOCbXmE6nfHRlGO4E/edit#slide=id.g12dc2ad45a7_0_0)
+[Analyis of pre-existing disease and death rates](https://docs.google.com/presentation/d/1i8Ry3hVTzgpDNV7zKgqXaR9tYIhOCbXmE6nfHRlGO4E/edit#slide=id.g12dc2ad45a7_0_0)
+
+
