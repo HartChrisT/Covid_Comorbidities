@@ -94,6 +94,9 @@ Segment 2
 Data is stored in postges. We also creating tables. The 3 tables were cleaned county data, monthly data of Covid-19 death with contributing conditions and deaths by age groups.
 ![Tablesquery](https://github.com/jeffblando/Covid_Comorbidities/blob/0388dd6d48fe8fe2a8e887940573f38c3dbf8722/Database/Database%20Images/3%20Tables%20and%20a%20query.png)
 
+The tables were also joined so the data can now run through the machine learning model.
+![join](https://github.com/jeffblando/Covid_Comorbidities/blob/0388dd6d48fe8fe2a8e887940573f38c3dbf8722/Database/Database%20Images/Join%20in%20SQL.png)
+
 
 ## Machine Learning
 
