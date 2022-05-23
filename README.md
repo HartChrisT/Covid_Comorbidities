@@ -52,9 +52,17 @@ Hypothesis: Individuals with comorbidities die more from covid than those with n
 
 **Data source details**
 
- - https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf (covid data)
- - https://www.cdc.gov/nchs/covid19/mortality-overview.htm
- - https://data.cdc.gov/NCHS/Conditions-Contributing-to-COVID-19-Deaths-by-Stat/hk9y-quqm
+The Data scources used in this project are acquired from Centers for Disease Control and Prevention(CDC). Since CDC is the national public health agency of the United States it contains large amount of research and data on Covid-19 avaliable for the analysis of the project. 
+
+ 1. https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf (covid data)
+ 2. https://www.cdc.gov/nchs/covid19/mortality-overview.htm
+ 3. https://data.cdc.gov/NCHS/Conditions-Contributing-to-COVID-19-Deaths-by-Stat/hk9y-quqm
+
+Description of the Data source
+
+1. This file contains 12 elements/columns. Among them are covid death status, Presence of underlying comorbidity or disease, demographics, case date and Hopitalization status data.
+2. The page has weekly summary of Covid-19 deaths based on demographics and most frequently listed comorbidites with Covid-19 deaths.
+3. The file has underlying condition disease, condtion group, age group and location data. 
 
 **What we're looking to solve for**
 
@@ -77,12 +85,6 @@ The GitHub repository shall be maintained by one team member every week. This me
 **Database Construction**
 
  Our team used the pandas library to clean and transform the raw data into a usable form for analysis. We made sure all of the data types are accurate, appropriate, and dropped all null values. We created a schema/flow chart using QuickDB to make database connections and data types easily apparent. We imported the clean CSV files into SQL for easy queries and analysis. Once in SQL, we joined census county data with individual covid case data to add more features to the machine learning model. The new table was exported to a csv and used in the machine learning model.
- 
- **DataSet** 
-
-
-Data used in this project are acquired from Centers for Disease Control and Prevention(CDC) and the dataset chosen for the analysis are from csv documents found on the CDC website, "Provisonal Covid-19 Deaths by Sex and Age" and "United States COVID-19 Cases and Deaths by State over Time". The dataset mentioned can be found in the following link: https://data.cdc.gov/browse?&page=1
-
 
 
 ## Machine Learning
