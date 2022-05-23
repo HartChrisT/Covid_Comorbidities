@@ -64,6 +64,7 @@ Description of the Data source
 2. The page has weekly summary of Covid-19 deaths based on demographics and most frequently listed comorbidites with Covid-19 deaths.
 3. The file has underlying condition disease, condtion group, age group and location data. 
 
+
 **What we're looking to solve for**
 
  - After determining if individuals with comorbidities die more from covid than those with no known health issues, we have the potential to identify higher-risk individuals who may need additional medications to lower their risk of death from Covid.
@@ -84,7 +85,19 @@ The GitHub repository shall be maintained by one team member every week. This me
 
 **Database Construction**
 
- Our team used the pandas library to clean and transform the raw data into a usable form for analysis. We made sure all of the data types are accurate, appropriate, and dropped all null values. We created a schema/flow chart using QuickDB to make database connections and data types easily apparent. We imported the clean CSV files into SQL for easy queries and analysis. Once in SQL, we joined census county data with individual covid case data to add more features to the machine learning model. The new table was exported to a csv and used in the machine learning model.
+
+ Our team will use the pandas library to clean and transform our data and export that data into CSV files. We will make sure all of the data types are accurate, drop null values, etc. Then we will create a schema/flow chart with the appropriate primary and secondary keys as well as their respective data types, and any connections that can be made between CSV files will become apparent. We will then import the clean CSV files into SQL for easy queries and analysis. Additional tables may be created with the SQL query tool depending on what needs to be analyzed.
+
+Segment 2
+
+### Database Integration
+
+Data is stored in postges. We also creating tables. The 3 tables were cleaned county data, monthly data of Covid-19 death with contributing conditions and deaths by age groups.
+![Tablesquery](https://github.com/jeffblando/Covid_Comorbidities/blob/0388dd6d48fe8fe2a8e887940573f38c3dbf8722/Database/Database%20Images/3%20Tables%20and%20a%20query.png)
+
+The tables were also joined so the data can now run through the machine learning model.
+![join](https://github.com/jeffblando/Covid_Comorbidities/blob/0388dd6d48fe8fe2a8e887940573f38c3dbf8722/Database/Database%20Images/Join%20in%20SQL.png)
+
 
 
 ## Machine Learning
@@ -134,12 +147,6 @@ As we refine our approach, we will delve deeper into the specific comorbidities 
 
 [Description of Tools & Interractivity](https://docs.google.com/presentation/d/1HLexLPKKv-I4AnZZq3R42-6RtVfnWUKWxupJI4ClcX0/edit#slide=id.p)
 
-**Presentation**
-
-
-[Storyboard](https://public.tableau.com/app/profile/giovanni.bottone/viz/Segment2StoryboardV1/Story1?publish=yes)
-
-[Description of Tools & Interractivity](https://docs.google.com/presentation/d/1HLexLPKKv-I4AnZZq3R42-6RtVfnWUKWxupJI4ClcX0/edit#slide=id.g12db21a11a1_0_0)
 
 **Presentation**
 
