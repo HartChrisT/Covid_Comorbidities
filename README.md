@@ -12,7 +12,7 @@ Hypothesis: Individuals with comorbidities die more from covid than those with n
 ## Technologies
 A brief description of the technologies we're using: 
 - SK Learn (Machine Learning Library)
-- Pandas & J'upyter Notebook' - (Machine Learning/Database)
+- Pandas & Jupyter Notebook - (Machine Learning/Database)
 - SQL (Database)
 - Postgres (Database)
 - Tableau (Visualization)
