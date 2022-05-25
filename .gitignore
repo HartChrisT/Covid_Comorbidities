@@ -5,6 +5,9 @@ United_States_COVID-19_Cases_and_Deaths_by_State_over_Time.csv
 COVID-19_Case_Surveillance_Public_Use_Data_with_Geography.csv
 Conditions_Contributing_to_COVID-19_Deaths__by_State_and_Age__Provisional_2020-2022.csv
 
+# Ignore SQL alchemy password
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
