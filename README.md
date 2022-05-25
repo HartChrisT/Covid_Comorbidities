@@ -76,7 +76,7 @@ The GitHub repository shall be maintained by one team member every week. This me
 
 **Database Construction**
 
- Our team used the pandas library to clean and transform the raw data into a usable form for analysis. We made sure all of the data types are accurate, appropriate, and dropped all null values. We created a schema/flow chart using QuickDB to make database connections and data types easily apparent. We imported the clean CSV files into SQL for easy queries and analysis. Once in SQL, we joined census county data with individual covid case data to add more features to the machine learning model. The new table was exported to a csv and used in the machine learning model.
+ Our team used the pandas library to clean and transform the raw data into a usable form for the analysis. We made sure all of the data types are accurate and appropriate. We dropped all null values, and unknowns because of the overabundance of data, and then dropped unnecessary columns. Once cleaned, we created a schema/flow chart using QuickDB to see the connections and data sets visually so everything made sense. We imported the clean CSV files into SQL for easy queries and analysis. Once in SQL, we joined census county location and population data with individual covid case data to add more features to the machine learning model. The new table was exported to a csv and used in the machine learning model. We cleaned another dataset that looked at the pre-existing conditions, by condition, and connected dataframe in pandas directly to SQL using SQLalchemy and ran a query.
  
  **DataSet** 
 
