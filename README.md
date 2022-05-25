@@ -85,10 +85,11 @@ The GitHub repository shall be maintained by one team member every week. This me
 
 **Database Construction**
 
+  Our team used the pandas library to clean and transform the raw data into a usable form for the analysis. We made sure all of the data types are accurate and appropriate. We dropped all null values, and unknowns because of the overabundance of data, and then dropped unnecessary columns. That whole process can be seen [here.](https://github.com/jeffblando/Covid_Comorbidities/blob/Databases_CH/Database/ETL_misc/Cleaned_Data_Machine_Learning_Model.ipynb) Once cleaned, we created a [schema/flow chart](https://github.com/jeffblando/Covid_Comorbidities/blob/Databases_CH/Database/SQL%20Schema/Database_schema.png) using QuickDB to see the connections and data sets visually so everything made sense. We imported the clean CSV files into SQL for easy queries and analysis. Once in SQL, we joined census county location and population data with individual covid case data [seen here.](https://github.com/jeffblando/Covid_Comorbidities/tree/main/Database/Database%20Images) The new table was exported to a csv and used in the machine learning model. We cleaned another dataset that looked at the pre-existing conditions, by condition, and connected dataframe in pandas directly to SQL using SQLalchemy and ran a query [as seen here.](https://user-images.githubusercontent.com/92996865/170176033-9de4ee21-3033-4ac3-b7a6-f7f04bb71305.png)
+ 
+ **DataSet** 
 
  Our team will use the pandas library to clean and transform our data and export that data into CSV files. We will make sure all of the data types are accurate, drop null values, etc. Then we will create a schema/flow chart with the appropriate primary and secondary keys as well as their respective data types, and any connections that can be made between CSV files will become apparent. We will then import the clean CSV files into SQL for easy queries and analysis. Additional tables may be created with the SQL query tool depending on what needs to be analyzed.
-
-Segment 2
 
 ### Database Integration
 
