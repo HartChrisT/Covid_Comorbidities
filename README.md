@@ -12,7 +12,7 @@ Hypothesis: Individuals with comorbidities die more from covid than those with n
 ## Technologies
 A brief description of the technologies we're using: 
 - SK Learn (Machine Learning Library)
-- Pandas & J'upyter Notebook' - (Machine Learning/Database)
+- Pandas & Jupyter Notebook - (Machine Learning/Database)
 - SQL (Database)
 - Postgres (Database)
 - Tableau (Visualization)
@@ -52,9 +52,18 @@ Hypothesis: Individuals with comorbidities die more from covid than those with n
 
 **Data source details**
 
- - https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf (covid data)
- - https://www.cdc.gov/nchs/covid19/mortality-overview.htm
- - https://data.cdc.gov/NCHS/Conditions-Contributing-to-COVID-19-Deaths-by-Stat/hk9y-quqm
+The Data scources used in this project are acquired from Centers for Disease Control and Prevention(CDC). Since CDC is the national public health agency of the United States it contains large amount of research and data on Covid-19 avaliable for the analysis of the project. 
+
+ 1. https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf (covid data)
+ 2. https://www.cdc.gov/nchs/covid19/mortality-overview.htm
+ 3. https://data.cdc.gov/NCHS/Conditions-Contributing-to-COVID-19-Deaths-by-Stat/hk9y-quqm
+
+**Description of the Data source**
+
+1. This file contains 12 elements/columns. Among them are covid death status, Presence of underlying comorbidity or disease, demographics, case date and Hopitalization status data.
+2. The page has weekly summary of Covid-19 deaths based on demographics and most frequently listed comorbidites with Covid-19 deaths.
+3. The file has underlying condition disease, condtion group, age group and location data. 
+
 
 **What we're looking to solve for**
 
@@ -80,8 +89,15 @@ The GitHub repository shall be maintained by one team member every week. This me
  
  **DataSet** 
 
+ Our team will use the pandas library to clean and transform our data and export that data into CSV files. We will make sure all of the data types are accurate, drop null values, etc. Then we will create a schema/flow chart with the appropriate primary and secondary keys as well as their respective data types, and any connections that can be made between CSV files will become apparent. We will then import the clean CSV files into SQL for easy queries and analysis. Additional tables may be created with the SQL query tool depending on what needs to be analyzed.
 
-Data used in this project are acquired from Centers for Disease Control and Prevention(CDC) and the dataset chosen for the analysis are from csv documents found on the CDC website, "Provisonal Covid-19 Deaths by Sex and Age" and "United States COVID-19 Cases and Deaths by State over Time". The dataset mentioned can be found in the following link: https://data.cdc.gov/browse?&page=1
+### Database Integration
+
+Data is stored in postges. We also creating tables. The 3 tables were cleaned county data, monthly data of Covid-19 death with contributing conditions and deaths by age groups.
+![Tablesquery](https://github.com/jeffblando/Covid_Comorbidities/blob/0388dd6d48fe8fe2a8e887940573f38c3dbf8722/Database/Database%20Images/3%20Tables%20and%20a%20query.png)
+
+The tables were also joined so the data can now run through the machine learning model.
+![join](https://github.com/jeffblando/Covid_Comorbidities/blob/0388dd6d48fe8fe2a8e887940573f38c3dbf8722/Database/Database%20Images/Join%20in%20SQL.png)
 
 
 
@@ -132,6 +148,9 @@ As we refine our approach, we will delve deeper into the specific comorbidities 
 
 [Description of Tools & Interractivity](https://docs.google.com/presentation/d/1HLexLPKKv-I4AnZZq3R42-6RtVfnWUKWxupJI4ClcX0/edit#slide=id.p)
 
+
 **Presentation**
 
-[Analysis of pre-existing disease and death rates](https://docs.google.com/presentation/d/1i8Ry3hVTzgpDNV7zKgqXaR9tYIhOCbXmE6nfHRlGO4E/edit#slide=id.g12dc2ad45a7_0_0)
+[Analyis of pre-existing disease and death rates](https://docs.google.com/presentation/d/1i8Ry3hVTzgpDNV7zKgqXaR9tYIhOCbXmE6nfHRlGO4E/edit#slide=id.g12dc2ad45a7_0_0)
+
+
