@@ -84,12 +84,13 @@ The GitHub repository shall be maintained by one team member every week. This me
 
 **Exploratory Data Analysis (EDA)**
 
-After downloading the datasets from the CDC website, they were uploaded in the jupyter notebook. To understand the datasets, we first observed the size of it and the type of variables. Then we cleaned the redundancies or remove the null values. Lastly, we identify the important variables in the dataset and removed the unnecessary variables/noises in the dataset, so it doesn’t affect the accuracy of the machine learning model.
+After downloading the datasets from the CDC website, they were uploaded in the jupyter notebook. To understand the datasets, we first observed the size of it(numbers of rows and columns) and the type of variables. Then we cleaned the null values and removed unnecessary columns. Lastly, we identify the important variables by checking the relationships between each variables. These steps were taken so the potential biases are known and the accuracy of the machine learning model is not as negatively affected.
 
-
+The image below is shows the relationships of the variables between COVID-19 death, Pneumonia death, and Influenza Death in one of our dataset.
+![]
+From obeservation, we can see that there is a higher correlation of death for a person who have COVID-19 and Pneumonia.
 
 **Database Construction**
-
 
  Our team will use the pandas library to clean and transform our data and export that data into CSV files. We will make sure all of the data types are accurate, drop null values, etc. Then we will create a schema/flow chart with the appropriate primary and secondary keys as well as their respective data types, and any connections that can be made between CSV files will become apparent. We will then import the clean CSV files into SQL for easy queries and analysis. Additional tables may be created with the SQL query tool depending on what needs to be analyzed.
 
