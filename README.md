@@ -76,11 +76,17 @@ The Data scources used in this project are acquired from Centers for Disease Con
      - Triangle: Kristen
      - Square: Jeff
      - X: Giovanni
-     - Circle: Aung, Chris
+     - Circle: Mon, Chris
  - A slack channel has been established for daily communication on all project aspects.
 
 **GitHub Management**
 The GitHub repository shall be maintained by one team member every week. This member has the responsibility to monitor all commits from the local branches into the main branch. If conflicts arise, this team member will edit the documents and resolve them as needed.
+
+**Exploratory Data Analysis (EDA)**
+
+After downloading the datasets from the CDC website, they were uploaded in the jupyter notebook. To understand the datasets, we first observed the size of it and the type of variables. Then we cleaned the redundancies or remove the null values. Lastly, we identify the important variables in the dataset and removed the unnecessary variables/noises in the dataset, so it doesn’t affect the accuracy of the machine learning model.
+
+
 
 **Database Construction**
 
