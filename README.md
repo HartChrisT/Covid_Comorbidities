@@ -84,7 +84,7 @@ The GitHub repository shall be maintained by one team member every week. This me
 
 **Exploratory Data Analysis (EDA)**
 
-After downloading the datasets from the CDC website, they were uploaded in the jupyter notebook. To understand the datasets, we first observed the size of it(numbers of rows and columns) and the type of variables. Then we cleaned the null values and removed unnecessary columns. Lastly, we identify the important variables by checking the relationships between each variables. These steps were taken so the potential biases are known and the accuracy of the machine learning model is not as negatively affected. The EDA process can be seen here in the following file. 
+After downloading the datasets from the CDC website, they were uploaded in the jupyter notebook. To understand the datasets, we first observed the size of it(numbers of rows and columns) and the type of variables. Then we cleaned the null values and removed unnecessary columns. Lastly, we identify the important variables by checking the relationships between each variables. These steps were taken so the potential biases are known and the accuracy of the machine learning model is not as negatively affected. The EDA process can be seen here in the following file. [EDA](https://github.com/jeffblando/Covid_Comorbidities/blob/d04c7815cedb3adebce8b7e593fd91f68c699cea/EDA.ipynb)
 
 The image below is shows the relationships of the variables between COVID-19 death, Pneumonia death, and Influenza Death in one of our dataset.
 ![Pneumonia_Covid_death_corr](https://github.com/jeffblando/Covid_Comorbidities/blob/abd8a1735bfd4448f1fb7756c3140b3fd3d75c16/Images/Covid_influenza_corr.png)
