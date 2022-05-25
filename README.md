@@ -12,11 +12,10 @@ Hypothesis: Individuals with comorbidities die more from covid than those with n
 ## Technologies
 A brief description of the technologies we're using: 
 - SK Learn (Machine Learning Library)
-- Pandas & J'upyter Notebook' - (Machine Learning/Database)
+- Pandas & Jupyter Notebook' - (Machine Learning/Database)
 - SQL (Database)
 - Postgres (Database)
 - Tableau (Visualization)
-
 
 ### Data Cleaning and Analysis
 Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
@@ -58,7 +57,7 @@ The Data scources used in this project are acquired from Centers for Disease Con
  2. https://www.cdc.gov/nchs/covid19/mortality-overview.htm
  3. https://data.cdc.gov/NCHS/Conditions-Contributing-to-COVID-19-Deaths-by-Stat/hk9y-quqm
 
-Description of the Data source
+**Description of the Data source**
 
 1. This file contains 12 elements/columns. Among them are covid death status, Presence of underlying comorbidity or disease, demographics, case date and Hopitalization status data.
 2. The page has weekly summary of Covid-19 deaths based on demographics and most frequently listed comorbidites with Covid-19 deaths.
