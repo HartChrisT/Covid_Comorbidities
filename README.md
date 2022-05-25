@@ -13,7 +13,6 @@ After identifying the at-risk target groups, we can identify best practices and 
 
 Hypothesis: Individuals with comorbidities die more from covid than those with no known health issues
 
-
 **Data source details**
 
 The Data sources used in this project are acquired from the Centers for Disease Control and Prevention(CDC). Since CDC is the national public health agency of the United States it contains a large amount of research and data on Covid-19 available for the analysis of the project. 
@@ -21,15 +20,15 @@ The Data sources used in this project are acquired from the Centers for Disease 
  1. https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf (covid data)
  2. https://www.cdc.gov/nchs/covid19/mortality-overview.htm
  3. https://data.cdc.gov/NCHS/Conditions-Contributing-to-COVID-19-Deaths-by-Stat/hk9y-quqm
-
-**Database Construction**
+ 
+ **Database Construction**
 
   Our team used the Pandas library to clean and transform the raw data into a usable form for the analysis. We made sure all of the data types are accurate and appropriate. We dropped all null values, and unknowns because of the overabundance of data, and then dropped unnecessary columns. That whole process can be seen [here.](https://github.com/jeffblando/Covid_Comorbidities/blob/Databases_CH/Database/ETL_misc/Cleaned_Data_Machine_Learning_Model.ipynb) Once cleaned, we created a [schema/flow chart](https://github.com/jeffblando/Covid_Comorbidities/blob/Databases_CH/Database/SQL%20Schema/Database_schema.png) using QuickDB to see the connections and data sets visually so everything made sense. We imported the clean CSV files into SQL for easy queries and analysis. Once in SQL, we joined census county location and population data with individual covid case data [seen here.](https://github.com/jeffblando/Covid_Comorbidities/tree/main/Database/Database%20Images) The new table was exported to a CSV and used in the machine learning model. We cleaned another dataset that looked at the pre-existing conditions, by condition, connected dataframe in pandas directly to SQL using SQLalchemy, and ran a query [as seen here.](https://user-images.githubusercontent.com/92996865/170176033-9de4ee21-3033-4ac3-b7a6-f7f04bb71305.png)
  
  **DataSet** 
 
  Our team will use the Pandas library to clean and transform our data and export that data into CSV files. We will make sure all of the data types are accurate, drop null values, etc. Then we will create a schema/flow chart with the appropriate primary and secondary keys as well as their respective data types, and any connections that can be made between CSV files will become apparent. We will then import the clean CSV files into SQL for easy queries and analysis. Additional tables may be created with the SQL query tool depending on what needs to be analyzed.
-
+ 
 ### Database Integration
 
 Data is stored in Postgres. We also creating tables. The 3 tables were cleaned county data, monthly data of Covid-19 death with contributing conditions, and deaths by age groups.
@@ -38,12 +37,13 @@ Data is stored in Postgres. We also creating tables. The 3 tables were cleaned c
 The tables were also joined so the data can now run through the machine learning model.
 ![join](https://github.com/jeffblando/Covid_Comorbidities/blob/0388dd6d48fe8fe2a8e887940573f38c3dbf8722/Database/Database%20Images/Join%20in%20SQL.png)
 
-## Technologies Used:
-- SK Learn (Machine Learning Library)
-- Pandas & Jupyter Notebook - (Machine Learning/Database)
-- SQL (Database)
-- Postgres (Database)
-- Tableau (Visualization)
+**Exploratory Data Analysis (EDA)**
+
+After downloading the datasets from the CDC website, they were uploaded in the jupyter notebook. To understand the datasets, we first observed the size of it(numbers of rows and columns) and the type of variables. Then we cleaned the null values and removed unnecessary columns. Lastly, we identify the important variables by checking the relationships between each variables. These steps were taken so the potential biases are known and the accuracy of the machine learning model is not as negatively affected. The EDA process can be seen here in the following file. [EDA](https://github.com/jeffblando/Covid_Comorbidities/blob/d04c7815cedb3adebce8b7e593fd91f68c699cea/EDA.ipynb)
+
+The image below is shows the relationships of the variables between COVID-19 death, Pneumonia death, and Influenza Death in one of our dataset.
+![Pneumonia_Covid_death_corr](https://github.com/jeffblando/Covid_Comorbidities/blob/abd8a1735bfd4448f1fb7756c3140b3fd3d75c16/Images/Covid_influenza_corr.png)
+From obeservation, we can see that there is a higher correlation of death for a person who have COVID-19 and Pneumonia.
 
 ## Machine Learning
 To begin our machine learning investigation, and because the data is already labeled, we will use a supervised machine model to classify the results within our original dataset into two groups; deaths with comorbidities and deaths without comorbidities. 
@@ -110,3 +110,10 @@ Tableau will be the primary technology used to create an interactive, visually a
 
 **GitHub Management**
 The GitHub repository shall be maintained by one team member every week. This member has the responsibility to monitor all commits from the local branches into the main branch. If conflicts arise, this team member will edit the documents and resolve them as needed.
+
+## Technologies Used:
+- SK Learn (Machine Learning Library)
+- Pandas & Jupyter Notebook - (Machine Learning/Database)
+- SQL (Database)
+- Postgres (Database)
+- Tableau (Visualization)
