@@ -41,9 +41,8 @@ The tables were also joined so the data can now run through the machine learning
 
 After downloading the datasets from the CDC website, they were uploaded in the jupyter notebook. To understand the datasets, we first observed the size of it(numbers of rows and columns) and the type of variables. Then we cleaned the null values and removed unnecessary columns. Lastly, we identify the important variables by checking the relationships between each variables. These steps were taken so the potential biases are known and the accuracy of the machine learning model is not as negatively affected. The EDA process can be seen here in the following file. [EDA](https://github.com/jeffblando/Covid_Comorbidities/blob/d04c7815cedb3adebce8b7e593fd91f68c699cea/EDA.ipynb)
 
-The image below is shows the relationships of the variables between COVID-19 death, Pneumonia death, and Influenza Death in one of our dataset.
-![Pneumonia_Covid_death_corr](https://github.com/jeffblando/Covid_Comorbidities/blob/abd8a1735bfd4448f1fb7756c3140b3fd3d75c16/Images/Covid_influenza_corr.png)
-From obeservation, we can see that there is a higher correlation of death for a person who have COVID-19 and Pneumonia.
+The image below is shows the relationships of the variables our dataset.
+![corr_Corrl](https://github.com/jeffblando/Covid_Comorbidities/blob/a25866f7370c13916cb052183bb493858bed52ad/Images/EDA.png)
 
 ## Machine Learning
 To begin our machine learning investigation, and because the data is already labeled, we will use a supervised machine model to classify the results within our original dataset into two groups; deaths with comorbidities and deaths without comorbidities. 
