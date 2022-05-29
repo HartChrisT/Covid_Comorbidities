@@ -128,7 +128,7 @@ As we refine our approach, we will delve deeper into the specific comorbidities 
 
 ## Visualizations
 
-[Storyboard](https://public.tableau.com/app/profile/giovanni.bottone/viz/Segment2StoryboardV1/Story1?publish=yes)
+[Storyboard](https://public.tableau.com/app/profile/giovanni.bottone/viz/Group2Storyboard/Group2Storyboard?publish=yes)
 
 [Description of Tools & Interractivity](https://docs.google.com/presentation/d/1HLexLPKKv-I4AnZZq3R42-6RtVfnWUKWxupJI4ClcX0/edit#slide=id.p)
 
