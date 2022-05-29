@@ -45,7 +45,9 @@ Then we cleaned the null values and removed unnecessary columns. Lastly, we iden
 
 The image below is shows the relationships of the variables our dataset. We ran a correlation matrix and display in a form of heatmap to see if there is a linear association between two variables. In testing correlation coefficient, -1 indicates a perfectly negative linear correlation between two variables
 0 indicates no linear correlation between two variables and 1 indicates a perfectly positive linear correlation between two variables.
+
 ![corr_Corrl](https://github.com/jeffblando/Covid_Comorbidities/blob/a25866f7370c13916cb052183bb493858bed52ad/Images/EDA.png)
+
 As seen in the matrix, there are positive relationship between death and people who were in ICU, death and hospitalization, and a higher relationship for age group of 65+ with death. 
 
 ## Machine Learning
