@@ -74,7 +74,7 @@ The final columns impacted the results per the correlations below:
 To split the model, we used a 75% 25% split for testing and training.   
 
 The SMOTEENN method was used to resample the data. Results of this resampling showed insignificant improvement. 
-[enter link description here](https://github.com/jeffblando/Covid_Comorbidities/blob/MachineLearning_KT/Images/SMOTEENNResample.jpg?raw=true)
+![enter image description here](https://github.com/jeffblando/Covid_Comorbidities/blob/MachineLearning_KT/Images/SMOTEENNResample.jpg?raw=true)
 
 
 **Model Choice, Limitations + Benefits**
