@@ -62,11 +62,12 @@ Several of the columns in the individualized dataset needed to be converted to n
 
 **Feature Engineering, Feature Selection + the Decision Making Process**
 
-The first model that was constructed included the highest amount of columns. We wanted to look at the relationship between state, county, age, sex, hospitalization status, ICU status, and underlying conditions, and how those factors related to death.
+The first model that was constructed included the highest amount of columns. We wanted to look at the relationship between age, sex, hospitalization status, ICU status, and underlying conditions, and how those factors related to a death.
 
-Because our thesis was more directly related to underlying conditions and death, we revised the model to include only underlying conditions as a predictor of death. The results for this model were accurate but were not detailed enough to be useful (the model did not predict any 1s). 
-	
-Modifying from this learning, age was reintroduced as the third variable and predictor. The same results occurred here, where the model did not predict any 1s. For this reason, we are staying with our first model which looks at multiple variables to determine a death outcome. 
+After running the preliminary models, we found some inconsistencies with the data, such as ICU coming up as positive and hospitalization remaining negative. We removed these anomalies from the data set before processing. 
+
+The final columns impacted the results per the correlations below:
+![enter image description here](https://github.com/jeffblando/Covid_Comorbidities/blob/MachineLearning_KT/Images/FeatureSelection.jpg?raw=true)
 
 **Testing + Training**
 
@@ -76,14 +77,24 @@ To split the model, we used a 75% 25% split for testing and training.
 
 A supervised model was chosen for this exercise because we had the outcomes we were looking to predict. In doing so, we used SK learn as well as the decision tree classifier and a confusion matrix to analyze the results. 
 
+The dataset we were using is largely disproportionate - as (happily)many cases resulted in survivals rather than deaths. We are happy to report on these facts, but it does pose a problem to our modeling as splitting the data could produce varied results.
+
+|Limitations  |Benefits  |
+|--|--|
+| Biased trees can be created if data is skewed |Reporting is easy to interpret  |
+|Prone to overfitting| Ability to validate with statistical tests|
 
 
-=======
-The dataset we were using is largely disproportionate - as (happily) many more individuals who experienced Covid-19 survived rather than perished. We are happy to report on these facts, but it does pose a problem to our modeling as splitting the data could produce varied results. The recall was low in our model as well.
 
-The benefits of this approach included ease and clarity of reporting. Accuracy was very high, but this was most likely due to the skewness of the data. 
+**Model Accuracy**
 
-![enter image description here](https://github.com/jeffblando/Covid_Comorbidities/blob/MachineLearning_KT/Images/S2%20ML%20Results.jpg?raw=true)
+3rd Segment
+
+![2nd Model, 3rd Segment](https://github.com/jeffblando/Covid_Comorbidities/blob/main/Images/ML%20Results%205.27.jpg?raw=true)
+
+2nd Segment
+
+![Segment 2 Submission](https://github.com/jeffblando/Covid_Comorbidities/blob/MachineLearning_KT/Images/S2%20ML%20Results.jpg?raw=true)
 
 
 
