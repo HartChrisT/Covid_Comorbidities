@@ -51,6 +51,12 @@ The image above is shows the relationships of the variables our dataset. We ran 
 0 indicates no linear correlation between two variables and 1 indicates a perfectly positive linear correlation between two variables.
 As seen in the matrix, there are positive relationship between death and people who were in ICU, death and hospitalization, and a higher relationship for age group of 65+ with death. 
 
+**PairPlot**
+
+![PairPlot](https://github.com/jeffblando/Covid_Comorbidities/blob/4090674325e72191def410d2d0fb7f713a91c433/Images/Pairplot.png)
+Next to see both distribution of single variables and relationships between two variables we ran pair plots. Pair Plots can be used to identify trends for further analysis. 
+
+
 ## Machine Learning
 To begin our machine learning investigation, and because the data is already labeled, we will use a supervised machine model to classify the results within our original dataset into two groups; deaths with comorbidities and deaths without comorbidities. 
 
