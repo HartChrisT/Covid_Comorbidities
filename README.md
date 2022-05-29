@@ -104,7 +104,7 @@ The benefits of this approach included ease and clarity of reporting. Accuracy w
 ### Dashboard
 Tableau will be the primary technology used to create an interactive, visually appealing dashboard. The two main reasons Tableau will be our primary Dashboard technology are Tableau has no row limit & Tableau allows us to avoid static dashboards. No row limit allows us to upload and analyze the millions of rows of data we've gathered, without overly-long processing times. Typically, dashboards are shared through PDFs, making them static from the moment they're sent; however, Tableau allows us to share our dashboards and will automatically update them with any changes. 
 
-[Storyboard](https://public.tableau.com/app/profile/giovanni.bottone/viz/Segment2StoryboardV1/Story1?publish=yes)
+[Storyboard](https://public.tableau.com/app/profile/giovanni.bottone/viz/Group2Storyboard/Group2Storyboard?publish=yes)
 
 [Description of Tools & Interractivity](https://docs.google.com/presentation/d/1HLexLPKKv-I4AnZZq3R42-6RtVfnWUKWxupJI4ClcX0/edit#slide=id.p)
 
