@@ -54,7 +54,7 @@ As seen in the matrix, there are positive relationship between death and people 
 **PairPlot**
 
 ![PairPlot](https://github.com/jeffblando/Covid_Comorbidities/blob/4090674325e72191def410d2d0fb7f713a91c433/Images/Pairplot.png)
-Next to see both distribution of single variables and relationships between two variables we ran pair plots. Pair Plots can be used to identify trends for further analysis. Diagonally we can see histograms or distributional plot of single variables. This gives us an estimate of the marginal distribution of each numerical features in our dataframe. Other plots show relationships between two variables. Just as observed in our Correlation Matrix, in the scatter plots we can see some relationships between COVID-19 death and people who were in ICU, death and hospitalization, and a higher relationship for age group of 65+ with death.  
+Next to see both distribution of single variables and relationships between two variables we ran pair plots. Pair Plots can be used to identify trends for further analysis. Diagonally we can see histograms or distributional plot of single variables. This gives us an estimate of the marginal distribution of each numerical features in our dataframe. Other plots show relationships between two variables. Just as observed in our Correlation Matrix, in the scatter plots we can see some relationships between death and people who were in ICU, death and hospitalization, and a higher relationship for age group of 65+ with death.  
 
 
 
