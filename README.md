@@ -73,6 +73,8 @@ The final columns impacted the results per the correlations below:
 
 To split the model, we used a 75% 25% split for testing and training.   
 
+We plan to rebalance the data using the SMOTEENN method to determine if better results are achieved. 
+
 **Model Choice, Limitations + Benefits**
 
 A supervised model was chosen for this exercise because we had the outcomes we were looking to predict. In doing so, we used SK learn as well as the decision tree classifier and a confusion matrix to analyze the results. 
