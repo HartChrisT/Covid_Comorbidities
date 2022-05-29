@@ -87,7 +87,7 @@ Data used in this project are acquired from Centers for Disease Control and Prev
 
 ## Machine Learning
 
-*Segment 2*
+*Segment 2* (NEEDS UPDATE by Kristin)
 
 **Preliminary Data Preprocessing** 
 
