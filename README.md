@@ -39,10 +39,14 @@ The tables were also joined so the data can now run through the machine learning
 
 **Exploratory Data Analysis (EDA)**
 
-After downloading the datasets from the CDC website, they were uploaded in the jupyter notebook. To understand the datasets, we first observed the size of it(numbers of rows and columns) and the type of variables. Then we cleaned the null values and removed unnecessary columns. Lastly, we identify the important variables by checking the relationships between each variables. These steps were taken so the potential biases are known and the accuracy of the machine learning model is not as negatively affected. The EDA process can be seen here in the following file. [EDA](https://github.com/jeffblando/Covid_Comorbidities/blob/d04c7815cedb3adebce8b7e593fd91f68c699cea/EDA.ipynb)
+After downloading the datasets from the CDC website, they were uploaded in the jupyter notebook. To understand the datasets, we first observed the size of it(numbers of rows and columns) and the type of variables. As observed in the image below, we can see that our dataset have 446687 rows and 10 columns. 
+![Size of the dataset](https://github.com/jeffblando/Covid_Comorbidities/blob/80703793b7eacfc69265d47b0eb3c28cc1ad3206/Images/Rows.png)
+Then we cleaned the null values and removed unnecessary columns. Lastly, we identify the important variables by checking the relationships between each variables. These steps were taken so the potential biases are known and the accuracy of the machine learning model is not as negatively affected. The EDA process can be seen here in the following file. [EDA](https://github.com/jeffblando/Covid_Comorbidities/blob/d04c7815cedb3adebce8b7e593fd91f68c699cea/EDA.ipynb)
 
-The image below is shows the relationships of the variables our dataset.
+The image below is shows the relationships of the variables our dataset. We ran a correlation matrix and display in a form of heatmap to see if there is a linear association between two variables. In testing correlation coefficient, -1 indicates a perfectly negative linear correlation between two variables
+0 indicates no linear correlation between two variables and 1 indicates a perfectly positive linear correlation between two variables.
 ![corr_Corrl](https://github.com/jeffblando/Covid_Comorbidities/blob/a25866f7370c13916cb052183bb493858bed52ad/Images/EDA.png)
+As seen in the matrix, there are positive relationship between death and people who were in ICU, death and hospitalization, and a higher relationship for age group of 65+ with death. 
 
 ## Machine Learning
 To begin our machine learning investigation, and because the data is already labeled, we will use a supervised machine model to classify the results within our original dataset into two groups; deaths with comorbidities and deaths without comorbidities. 
