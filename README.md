@@ -37,13 +37,26 @@ Data is stored in Postgres. We also creating tables. The 3 tables were cleaned c
 The tables were also joined so the data can now run through the machine learning model.
 ![join](https://github.com/jeffblando/Covid_Comorbidities/blob/0388dd6d48fe8fe2a8e887940573f38c3dbf8722/Database/Database%20Images/Join%20in%20SQL.png)
 
-**Exploratory Data Analysis (EDA)**
+### Exploratory Data Analysis (EDA) ###
 
-After downloading the datasets from the CDC website, they were uploaded in the jupyter notebook. To understand the datasets, we first observed the size of it(numbers of rows and columns) and the type of variables. Then we cleaned the null values and removed unnecessary columns. Lastly, we identify the important variables by checking the relationships between each variables. These steps were taken so the potential biases are known and the accuracy of the machine learning model is not as negatively affected. The EDA process can be seen here in the following file. [EDA](https://github.com/jeffblando/Covid_Comorbidities/blob/d04c7815cedb3adebce8b7e593fd91f68c699cea/EDA.ipynb)
+After downloading the datasets from the CDC website, they were uploaded in the jupyter notebook. To understand the datasets, we first observed the size of it(numbers of rows and columns) and the type of variables. Then we cleaned the null values and removed unnecessary columns. Lastly, we identify the important variables by checking the relationships between each variables. These steps were taken so the potential biases are known and the accuracy of the machine learning model is not as negatively affected. The EDA process can be seen here in the following file. [EDA](https://github.com/jeffblando/Covid_Comorbidities/blob/d04c7815cedb3adebce8b7e593fd91f68c699cea/EDA.ipynb). As observed in the image below, we can see that our dataset have 446687 rows and 10 columns. 
+![Size of the dataset](https://github.com/jeffblando/Covid_Comorbidities/blob/80703793b7eacfc69265d47b0eb3c28cc1ad3206/Images/Rows.png)
 
-The image below is shows the relationships of the variables between COVID-19 death, Pneumonia death, and Influenza Death in one of our dataset.
-![Pneumonia_Covid_death_corr](https://github.com/jeffblando/Covid_Comorbidities/blob/abd8a1735bfd4448f1fb7756c3140b3fd3d75c16/Images/Covid_influenza_corr.png)
-From obeservation, we can see that there is a higher correlation of death for a person who have COVID-19 and Pneumonia.
+
+**Correlation Matrix** 
+
+![corr_Corrl](https://github.com/jeffblando/Covid_Comorbidities/blob/a25866f7370c13916cb052183bb493858bed52ad/Images/EDA.png)
+
+The image above is shows the relationships of the variables our dataset. We ran a correlation matrix and display in a form of heatmap to see if there is a linear association between two variables. In testing correlation coefficient, -1 indicates a perfectly negative linear correlation between two variables
+0 indicates no linear correlation between two variables and 1 indicates a perfectly positive linear correlation between two variables.
+As seen in the matrix, there are positive relationship between death and people who were in ICU, death and hospitalization, and a higher relationship for age group of 65+ with death. 
+
+**PairPlot**
+
+![PairPlot](https://github.com/jeffblando/Covid_Comorbidities/blob/4090674325e72191def410d2d0fb7f713a91c433/Images/Pairplot.png)
+Next to see both distribution of single variables and relationships between two variables we ran pair plots. Pair Plots can be used to identify trends for further analysis. Diagonally we can see histograms or distributional plot of single variables. This gives us an estimate of the marginal distribution of each numerical features in our dataframe. Other plots show relationships between two variables. Just as observed in our Correlation Matrix, in the scatter plots we can see some relationships between death and people who were in ICU, death and hospitalization, and a higher relationship for age group of 65+ with death.  
+
+
 
 ## Machine Learning
 To begin our machine learning investigation, and because the data is already labeled, we will use a supervised machine model to classify the results within our original dataset into two groups; deaths with comorbidities and deaths without comorbidities. 
