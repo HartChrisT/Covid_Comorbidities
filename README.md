@@ -76,9 +76,13 @@ To split the model, we used a 75% 25% split for testing and training.
 
 A supervised model was chosen for this exercise because we had the outcomes we were looking to predict. In doing so, we used SK learn as well as the decision tree classifier and a confusion matrix to analyze the results. 
 
+
+
+=======
 The dataset we were using is largely disproportionate - as (happily) many more individuals who experienced Covid-19 survived rather than perished. We are happy to report on these facts, but it does pose a problem to our modeling as splitting the data could produce varied results. The recall was low in our model as well.
 
 The benefits of this approach included ease and clarity of reporting. Accuracy was very high, but this was most likely due to the skewness of the data. 
+
 ![enter image description here](https://github.com/jeffblando/Covid_Comorbidities/blob/MachineLearning_KT/Images/S2%20ML%20Results.jpg?raw=true)
 
 
