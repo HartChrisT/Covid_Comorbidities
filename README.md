@@ -131,20 +131,6 @@ Tableau will be the primary technology used to create an interactive, visually a
 [Analyis of pre-existing disease and death rates](https://docs.google.com/presentation/d/1i8Ry3hVTzgpDNV7zKgqXaR9tYIhOCbXmE6nfHRlGO4E/edit#slide=id.g12dc2ad45a7_0_0)
 
 
-**Communication protocols**
-
- - The team has established a GitHub, with each team member owning a unique branch
- - A minimum of two weekly zoom collaborations have been established to track progress and discuss any potential issues, identify areas of need, and identify the next steps to meet our current deadline.   
- - Team roles have been clearly defined so each team member knows what they are expected to contribute. For this week, 
-     - Triangle: Kristen
-     - Square: Jeff
-     - X: Giovanni
-     - Circle: Aung, Chris
- - A slack channel has been established for daily communication on all project aspects.
-
-**GitHub Management**
-The GitHub repository shall be maintained by one team member every week. This member has the responsibility to monitor all commits from the local branches into the main branch. If conflicts arise, this team member will edit the documents and resolve them as needed.
-
 ## Technologies Used:
 - SK Learn (Machine Learning Library)
 - Pandas & Jupyter Notebook - (Machine Learning/Database)
