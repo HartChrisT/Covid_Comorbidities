@@ -108,6 +108,8 @@ The dataset we were using was disproportionate - as (happily)many cases resulted
 
 3rd Segment
 
+![Figure](https://github.com/jeffblando/Covid_Comorbidities/blob/MachineLearning_KT/Images/Confusion%20Matrix%20Figure.jpg?raw=true))
+
 ![Resampled](https://github.com/jeffblando/Covid_Comorbidities/blob/MachineLearning_KT/Images/SMOTEENNResampleCM.jpg?raw=true)
 
 ![2nd Model, 3rd Segment](https://github.com/jeffblando/Covid_Comorbidities/blob/main/Images/ML%20Results%205.27.jpg?raw=true)
