@@ -45,7 +45,7 @@ After downloading the datasets from the CDC website, they were uploaded in the j
 
 **Correlation Matrix** 
 
-![corr_Corrl]([https://github.com/jeffblando/Covid_Comorbidities/blob/a25866f7370c13916cb052183bb493858bed52ad/Images/EDA.png](https://github.com/jeffblando/Covid_Comorbidities/blob/012c567edf282072e0db8709d11a9ed308675826/Images/EDAnew.png))
+![corr_Corrl](https://github.com/jeffblando/Covid_Comorbidities/blob/012c567edf282072e0db8709d11a9ed308675826/Images/EDAnew.png)
 
 The image above is shows the relationships of the variables our dataset. We ran a correlation matrix and display in a form of heatmap to see if there is a linear association between two variables. In testing correlation coefficient, -1 indicates a perfectly negative linear correlation between two variables
 0 indicates no linear correlation between two variables and 1 indicates a perfectly positive linear correlation between two variables.
