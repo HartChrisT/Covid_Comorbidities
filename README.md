@@ -26,11 +26,7 @@ The Data sources used in this project came from the Centers for Disease Control 
 Our team used the Pandas library to clean and transform the raw data into a usable form for the analysis. We made sure all of the data types were accurate and appropriate. We dropped all null values and unknowns because of the overabundance of data. We then dropped unnecessary columns. That whole process can is shown [here.](https://github.com/jeffblando/Covid_Comorbidities/blob/Databases_CH/Database/ETL_misc/Cleaned_Data_Machine_Learning_Model.ipynb) Once cleaned, we created a [schema/flow chart](https://github.com/jeffblando/Covid_Comorbidities/blob/Databases_CH/Database/SQL%20Schema/Database_schema.png) 
 Using QuickDB, the connections and data sets are shown visually, so everything made sense. We imported the clean CSV files into SQL for easy queries and analysis. Once in SQL, we joined census county location and population data with individual covid case data [seen here.](https://github.com/jeffblando/Covid_Comorbidities/tree/main/Database/Database%20Images) The new table was exported to a CSV and used in the machine learning model. We cleaned another dataset that looked at the pre-existing conditions, by condition. Connecting the dataframe in pandas directly to SQL using SQLalchemy, a query was run [as seen here.](https://user-images.githubusercontent.com/92996865/170176033-9de4ee21-3033-4ac3-b7a6-f7f04bb71305.png)
  
- **DataSet** 
-
- Our team used the Pandas library to clean and transform our data and export that data into CSV files. We identified that all the data types are accurate, dropped null values, etc. A schema/flow chart was created with the appropriate primary keys, secondary keys, and their respective data types. Connections made between CSV files became apparent in the flow chart. The clean CSV files were then imported into SQL for easy queries and analysis. Additional tables may be created with the SQL query tool to assist in the analysis, as needed.
- 
-### Database Integration
+ ### Database Integration
 
 Our data is stored in Postgres. The three tables cleaned were county data, monthly data of Covid-19 death with contributing conditions, and deaths by age groups.
 ![Tablesquery](https://github.com/jeffblando/Covid_Comorbidities/blob/0388dd6d48fe8fe2a8e887940573f38c3dbf8722/Database/Database%20Images/3%20Tables%20and%20a%20query.png)
