@@ -46,7 +46,7 @@ After downloading the datasets from the CDC website, they were uploaded to the j
 
 **Correlation Matrix** 
 
-![corr_Corrl](https://github.com/jeffblando/Covid_Comorbidities/blob/a25866f7370c13916cb052183bb493858bed52ad/Images/EDA.png)
+![corr_Corrl](https://github.com/jeffblando/Covid_Comorbidities/blob/012c567edf282072e0db8709d11a9ed308675826/Images/EDAnew.png)
 
 The image above shows the relationships of the variables in our dataset. We ran a correlation matrix and displayed it as a heatmap to see if there was a linear association between the variables. The correlation coefficient of a -1 indicates a perfect negative linear correlation between two variables, a zero indicates no linear correlation between two variables, and a 1 indicates a perfect positive linear correlation between two variables.
 As seen in the matrix, there is a positive relationship between the variables: death and people in the ICU and death and hospitalization. A higher relationship between the age group of 65+ with death is also observed. 
