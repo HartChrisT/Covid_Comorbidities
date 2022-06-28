@@ -28,7 +28,7 @@ Using QuickDB, the connections and data sets are shown visually, so everything m
 
 ### Exploratory Data Analysis (EDA) ###
 
-After downloading the datasets from the CDC website, they were uploaded to the jupyter notebook. To understand the datasets, we first observed the numbers of rows and columns and the type of variables. Then we cleaned the null values and removed unnecessary columns. Lastly, we identified the important variables by checking the relationships between each variable to limit the potential biases so that the accuracy of the machine learning model was not negatively affected. The EDA process can be seen here in the following file. [EDA](https://github.com/jeffblando/Covid_Comorbidities/blob/d04c7815cedb3adebce8b7e593fd91f68c699cea/EDA.ipynb). As observed in the image below, we can see that our dataset have 446687 rows and ten columns. 
+After downloading the datasets from the CDC website, they were uploaded to jupyter notebook. To understand the datasets, we first observed the number of rows and columns and the types of variables. Then we dropped the null values and removed the unnecessary columns. Lastly, we identified the important variables by checking the relationships between each variable to limit the potential biases so that the accuracy of the machine learning model was not negatively affected. The EDA process can be seen here in the following file. [EDA](https://github.com/jeffblando/Covid_Comorbidities/blob/d04c7815cedb3adebce8b7e593fd91f68c699cea/EDA.ipynb). As observed in the image below, we can see that our dataset has 446687 rows and ten columns. 
 ![Size of the dataset](https://github.com/jeffblando/Covid_Comorbidities/blob/80703793b7eacfc69265d47b0eb3c28cc1ad3206/Images/Rows.png)
 
 
